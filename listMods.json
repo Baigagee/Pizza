@@ -295,6 +295,18 @@
         "copyTo": [
           "/modloader"
         ]
+      },
+      {
+        "type": "copyTo",
+        "subType": "inside",
+        "fileNames": [
+          "test.ini"
+        ],
+        "folderName": "",
+        "folderNavigation": [],
+        "copyTo": [
+          "/modloader"
+        ]
       }
     ],
     "status": "true"
