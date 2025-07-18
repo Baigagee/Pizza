@@ -293,19 +293,12 @@
           "*"
         ],
         "folderName": "SA Cutscene Characters for gameplay",
-        "folderNavigation": null,
+        "folderNavigation": [],
         "copyTo": [
           "/Modloader"
         ]
       }
     ],
-    "status": "available",
-    "password": "",
-    "requires": [
-      "Modloader"
-    ],
-    "versions": [
-      "ALL AT ONCE Regular + fix + mipmaps"
-    ]
+    "status": "true"
   }
 ]
