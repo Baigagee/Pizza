@@ -292,10 +292,10 @@
         "fileNames": [
           "*"
         ],
-        "folderName": "SA Cutscene Characters for gameplay",
+        "folderName": "SA Cutscene Characters",
         "folderNavigation": [],
         "copyTo": [
-          "/Modloader"
+          "/modloader"
         ]
       }
     ],
