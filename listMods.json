@@ -307,5 +307,27 @@
     "versions": [
       "ALL AT ONCE Regular + fix + mipmaps"
     ]
+  },
+  {
+    "id": "f246a2ab-3e2b-4f6c-9342-3792d3028ac7",
+    "name": "SA Cutscene Characters for Gameplay",
+    "description": "This mod replaces the default cutscene characters in GTA San Andreas with new models and textures for enhanced visual quality.",
+    "downloadUrl": "https://sharemods.com/c46tcdwsfwu4/SA_Cutscene_Characters_for_gameplay.7z.html",
+    "installPath": "/download",
+    "instructions": [
+      {
+        "type": "copyTo",
+        "subType": "inside",
+        "fileNames": [
+          "*"
+        ],
+        "folderName": "SA Cutscene Characters for gameplay",
+        "folderNavigation": [],
+        "copyTo": [
+          "/Modloader"
+        ]
+      }
+    ],
+    "status": "false"
   }
 ]
