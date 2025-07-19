@@ -298,49 +298,5 @@
       }
     ],
     "status": "true"
-  },
-  {
-    "id": "c8519bf8-a1f1-4bd0-9294-dace82fd0048",
-    "name": "Gang Rider CLEO",
-    "description": "A mod that allows gang members to ride with you in the cars in GTA San Andreas.",
-    "downloadUrl": "https://sharemods.com/wus6c66kjang/Gang_Rider_CLEO.7z.html",
-    "installPath": "/download",
-    "instructions": [
-      {
-        "type": "copyTo",
-        "subType": "inside",
-        "fileNames": [
-          "*.cs",
-          "*.gee",
-          "*.ini"
-        ],
-        "folderName": "CLEO",
-        "folderNavigation": null,
-        "copyTo": [
-          "cleo"
-        ]
-      },
-      {
-        "type": "copyTo",
-        "subType": "inside",
-        "fileNames": [
-          "Leiame (ou morra).txt",
-          "Readme (or die).txt"
-        ],
-        "folderName": "/",
-        "folderNavigation": null,
-        "copyTo": [
-          "/"
-        ]
-      }
-    ],
-    "status": "active",
-    "password": "/",
-    "requires": [
-      "CLEO"
-    ],
-    "versions": [
-      "v3.09"
-    ]
   }
 ]
