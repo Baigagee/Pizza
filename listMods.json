@@ -327,34 +327,5 @@
     "versions": [
       "v3.09"
     ]
-  },
-  {
-    "id": "06a655d9-7216-42f0-bb82-67f12e56927f",
-    "name": "Robbery Mod",
-    "description": "Adds a robbery feature to GTA San Andreas by allowing robberies at 24/7 stores.",
-    "downloadUrl": "https://sharemods.com/6m3go2b7lqbx/Robbery_Mod.7z.html",
-    "installPath": "/download",
-    "instructions": [
-      {
-        "type": "copyTo",
-        "subType": "outside",
-        "fileNames": [
-          "*"
-        ],
-        "folderName": "/Robbery Mod",
-        "folderNavigation": null,
-        "copyTo": [
-          "modloader"
-        ]
-      }
-    ],
-    "status": "active",
-    "password": "",
-    "requires": [
-      "Modloader"
-    ],
-    "versions": [
-      "Unofficial fix 2 by Junior_Djjr"
-    ]
   }
 ]
