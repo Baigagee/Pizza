@@ -349,5 +349,34 @@
       }
     ],
     "status": "Disabled"
+  },
+  {
+    "id": "70b3cfcc-52a9-4474-92a9-f75e211d5da9",
+    "name": "Portable GTA",
+    "description": "A portable version of GTA San Andreas for use with ModLoader.",
+    "downloadUrl": "https://sharemods.com/lkin1m2msdem/PortableGTA.7z.html",
+    "installPath": "/download",
+    "instructions": [
+      {
+        "type": "copyTo",
+        "subType": "inside",
+        "fileNames": [
+          "PortableGTA"
+        ],
+        "folderName": "/",
+        "folderNavigation": null,
+        "copyTo": [
+          "modloader"
+        ]
+      }
+    ],
+    "status": "active",
+    "password": "",
+    "requires": [
+      "ModLoader"
+    ],
+    "versions": [
+      "2020"
+    ]
   }
 ]
