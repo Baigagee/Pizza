@@ -327,5 +327,50 @@
     "versions": [
       "v3.09"
     ]
+  },
+  {
+    "id": "9a0c5c55-2bee-4746-a6d8-cd9496250645",
+    "name": "SkyGfx Extended",
+    "description": "SkyGfx Extended mod for enhancing graphics in GTA San Andreas.",
+    "downloadUrl": "https://sharemods.com/stxvlyt5j4q4/SA_-_SkyGfx_Extended.zip.html",
+    "installPath": "/download",
+    "instructions": [
+      {
+        "type": "copyTo",
+        "subType": "inside",
+        "fileNames": [
+          "*"
+        ],
+        "folderName": "SkyGfx",
+        "folderNavigation": null,
+        "copyTo": [
+          "modloader"
+        ]
+      },
+      {
+        "type": "copyTo",
+        "subType": "inside",
+        "fileNames": [
+          "skygfx.asi",
+          "skygfx1.ini",
+          "skygfx2.ini",
+          "skygfx3.ini",
+          "skygfx4.ini",
+          "skygfx5.ini",
+          "skygfx6.ini"
+        ],
+        "folderName": "/",
+        "folderNavigation": null,
+        "copyTo": [
+          "modloader/SkyGfx"
+        ]
+      }
+    ],
+    "status": "Under Review",
+    "password": "null",
+    "requires": [],
+    "versions": [
+      "v4.2b Extended v1.7"
+    ]
   }
 ]
