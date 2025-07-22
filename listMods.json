@@ -346,31 +346,8 @@
         "copyTo": [
           "modloader"
         ]
-      },
-      {
-        "type": "copyTo",
-        "subType": "inside",
-        "fileNames": [
-          "skygfx.asi",
-          "skygfx1.ini",
-          "skygfx2.ini",
-          "skygfx3.ini",
-          "skygfx4.ini",
-          "skygfx5.ini",
-          "skygfx6.ini"
-        ],
-        "folderName": "/",
-        "folderNavigation": null,
-        "copyTo": [
-          "modloader/SkyGfx"
-        ]
       }
     ],
-    "status": "Under Review",
-    "password": "null",
-    "requires": [],
-    "versions": [
-      "v4.2b Extended v1.7"
-    ]
+    "status": "Disabled"
   }
 ]
