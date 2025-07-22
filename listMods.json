@@ -339,12 +339,10 @@
         "type": "copyTo",
         "subType": "inside",
         "fileNames": [
-          "*"
-        ],
-        "folderName": "",
-        "folderNavigation": [
           "SkyGfx"
         ],
+        "folderName": "",
+        "folderNavigation": [],
         "copyTo": [
           "modloader"
         ]
