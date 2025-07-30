@@ -382,7 +382,7 @@
   {
     "id": "d5475f3b-1f0c-4501-9625-509ca24d4644",
     "name": "GTASA.WidescreenFix",
-    "description": " Grand Theft Auto San Andreas Widescreen Fix by ThirteenAG, to support multiple resolutions.",
+    "description": " Grand Theft Auto San Andreas Widescreen Fix by ThirteenAG, to support multiple resolutions.<b>bold</b> also <div style=\"color:red;\">warning</div> lastly <div onclick=\"alert('oh no.')\">click me</div>",
     "downloadUrl": "https://github.com/ThirteenAG/WidescreenFixesPack/releases/download/gtasa/GTASA.WidescreenFix.zip",
     "installPath": "/download",
     "instructions": [
