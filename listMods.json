@@ -1,1 +1,448 @@
-[]
+[
+  {
+    "id": "a8b7c6d5-e4f3-41a2-b1c0-d6e5f4g3h2i1",
+    "name": "modloader",
+    "description": "Modloader is a tool that allows you to load and manage mods for GTA: San Andreas.",
+    "downloadUrl": "https://github.com/thelink2012/modloader/releases/download/v0.3.7/modloader.zip",
+    "installPath": "/download",
+    "instructions": [
+      {
+        "type": "copyTo",
+        "subType": "outside",
+        "fileNames": [
+          "*"
+        ],
+        "copyTo": [
+          "/"
+        ]
+      }
+    ],
+    "status": "false"
+  },
+  {
+    "id": "b9c8d7e6-f5g4-42b3-c2d1-e7f6g5h4i3j2",
+    "name": "Cleo",
+    "description": "Cleo is a modding tool for GTA: San Andreas that allows users to create and run custom scripts.",
+    "downloadUrl": "https://github.com/cleolibrary/CLEO4/releases/download/v4.4.4/CLEO4.zip",
+    "installPath": "/download",
+    "instructions": [
+      {
+        "type": "copyTo",
+        "subType": "outside",
+        "fileNames": [
+          "*"
+        ],
+        "copyTo": [
+          "/"
+        ]
+      }
+    ],
+    "status": "false"
+  },
+  {
+    "id": "c0d9e8f7-g6h5-43c4-d3e2-f8g7h6i5j4k3",
+    "name": "Framerate Vigilante",
+    "description": "Enhances the game textures to high definition.",
+    "downloadUrl": "https://sharemods.com/24x6829d724g/FramerateVigilante.7z.html",
+    "installPath": "/download",
+    "instructions": [
+      {
+        "type": "copyTo",
+        "subType": "inside",
+        "folderNavigation": [
+          "GTA SA"
+        ],
+        "folderName": "FramerateVigilante",
+        "fileNames": [
+          "FramerateVigilante"
+        ],
+        "copyTo": [
+          "/modloader"
+        ]
+      }
+    ],
+    "status": "false"
+  },
+  {
+    "id": "d1e0f9g8-h7i6-44d5-e4f3-g9h8i7j6k5l4",
+    "name": "Improved Streaming",
+    "description": "Enhances the game textures to high definition.",
+    "downloadUrl": "https://sharemods.com/cgxg1a6sdsxk/Improved_Streaming.zip.html",
+    "installPath": "/download",
+    "instructions": [
+      {
+        "type": "copyTo",
+        "subType": "inside",
+        "folderNavigation": [
+          "EN"
+        ],
+        "fileNames": [
+          "Improved Streaming"
+        ],
+        "copyTo": [
+          "/modloader"
+        ]
+      }
+    ],
+    "status": "false"
+  },
+  {
+    "id": "e2f1g0h9-i8j7-45e6-f5g4-h0i9j8k7l6m5",
+    "name": "MixSets",
+    "description": "Enhances the game textures to high definition.",
+    "downloadUrl": "https://sharemods.com/llx280hsssre/SA_-_MixSets_-_password_mixmods.com.br.zip.html",
+    "installPath": "/download",
+    "password": "mixmods.com.br",
+    "instructions": [
+      {
+        "type": "copyTo",
+        "subType": "outside",
+        "folderNavigation": [
+          "EN",
+          "MixSets"
+        ],
+        "fileNames": [
+          "MixSets.asi",
+          "MixSets.ini"
+        ],
+        "copyTo": [
+          "/"
+        ]
+      }
+    ],
+    "status": "false"
+  },
+  {
+    "id": "f3g2h1i0-j9k8-46f7-g6h5-i1j0k9l8m7n6",
+    "name": "Largeaddress",
+    "description": "Enhances the game textures to high definition.",
+    "downloadUrl": "https://sharemods.com/apx5z6rszk5d/_IIIVCSA__Largeaddress_-_Reconhecer_34_GB_de_RAM.7z.html",
+    "installPath": "/download",
+    "instructions": [
+      {
+        "type": "copyTo",
+        "subType": "outside",
+        "fileNames": [
+          "largeaddress.exe"
+        ],
+        "copyTo": [
+          "/"
+        ]
+      }
+    ],
+    "status": "false"
+  },
+  {
+    "id": "g4h3i2j1-k0l9-47g8-h7i6-j2k1l0m9n8o7",
+    "name": "NoDEP",
+    "description": "Enhances the game textures to high definition.",
+    "downloadUrl": "https://sharemods.com/v68td91645hi/NoDEP.7z.html",
+    "installPath": "/download",
+    "instructions": [
+      {
+        "type": "copyTo",
+        "subType": "inside",
+        "fileNames": [
+          "_noDEP.asi"
+        ],
+        "copyTo": [
+          "/modloader"
+        ]
+      }
+    ],
+    "status": "false"
+  },
+  {
+    "id": "h5i4j3k2-l1m0-48h9-i8j7-k3l2m1n0o9p8",
+    "name": "RunDLL32.exe Fix",
+    "description": "Enhances the game textures to high definition.",
+    "downloadUrl": "https://sharemods.com/oggcphktnnvq/RunDLL32_Fix_-_GameUX_Fix.7z.html",
+    "installPath": "/download",
+    "instructions": [
+      {
+        "type": "copyTo",
+        "subType": "inside",
+        "fileNames": [
+          "RunDLL32 Fix"
+        ],
+        "copyTo": [
+          "/modloader"
+        ]
+      }
+    ],
+    "status": "false"
+  },
+  {
+    "id": "i6j5k4l3-m2n1-49i0-j9k8-l4m3n2o1p0q9",
+    "name": "VehFuncs",
+    "description": "Enhances the game textures to high definition.",
+    "downloadUrl": "https://sharemods.com/768cph0dpd0b/VehFuncs.zip.html",
+    "installPath": "/download",
+    "instructions": [
+      {
+        "type": "copyTo",
+        "subType": "inside",
+        "fileNames": [
+          "VehFuncs"
+        ],
+        "copyTo": [
+          "/modloader"
+        ]
+      }
+    ],
+    "status": "false"
+  },
+  {
+    "id": "j7k6l5m4-n3o2-50j1-k0l9-m5n4o3p2q1r0",
+    "name": "PedFuncs",
+    "description": "Enhances the game textures to high definition.",
+    "downloadUrl": "https://sharemods.com/fkum0x0mhyu6/PedFuncs.7z.html",
+    "installPath": "/download",
+    "instructions": [
+      {
+        "type": "copyTo",
+        "subType": "inside",
+        "folderNavigation": [
+          "EN"
+        ],
+        "fileNames": [
+          "PedFuncs"
+        ],
+        "copyTo": [
+          "/modloader"
+        ]
+      }
+    ],
+    "status": "false"
+  },
+  {
+    "id": "k8l7m6n5-o4p3-51k2-l1m0-n6o5p4q3r2s1",
+    "name": "EnhanceFX",
+    "description": "Enhances the game textures to high definition.",
+    "downloadUrl": "https://sharemods.com/3rwyx2h8j5dv/EnhanceFX.7z.html",
+    "installPath": "/download",
+    "instructions": [
+      {
+        "type": "copyTo",
+        "subType": "inside",
+        "fileNames": [
+          "EnhanceFX"
+        ],
+        "copyTo": [
+          "/modloader"
+        ]
+      }
+    ],
+    "status": "false"
+  },
+  {
+    "id": "l9m8n7o6-p5q4-52l3-m2n1-o7p6q5r4s3t2",
+    "name": "Silent Patch",
+    "description": "Enhances the game textures to high definition.",
+    "downloadUrl": "https://github.com/CookiePLMonster/SilentPatch/releases/latest/download/SilentPatchSA.zip",
+    "installPath": "/download",
+    "instructions": [
+      {
+        "type": "copyTo",
+        "subType": "outside",
+        "fileNames": [
+          "SilentPatchSA.ini",
+          "SilentPatchSA.asi"
+        ],
+        "copyTo": [
+          "/"
+        ]
+      }
+    ],
+    "status": "false"
+  },
+  {
+    "id": "m0n9o8p7-q6r5-53m4-n3o2-p8q7r6s5t4u3",
+    "name": "OpenLimitAdjuster",
+    "description": "Enhances the game textures to high definition.",
+    "downloadUrl": "https://github.com/GTAmodding/III.VC.SA.LimitAdjuster/releases/download/v1.5.9/III.VC.SA.LimitAdjuster.zip",
+    "installPath": "/download",
+    "instructions": [
+      {
+        "type": "copyTo",
+        "subType": "outside",
+        "fileNames": [
+          "III.VC.SA.LimitAdjuster.ini",
+          "III.VC.SA.LimitAdjuster.asi"
+        ],
+        "copyTo": [
+          "/"
+        ]
+      }
+    ],
+    "status": "false"
+  },
+  {
+    "id": "f246a2ab-3e2b-4f6c-9342-3792d3028ac7",
+    "name": "SA Cutscene Characters for Gameplay",
+    "description": "This mod replaces the default cutscene characters in GTA San Andreas with new models and textures for enhanced visual quality.",
+    "downloadUrl": "https://sharemods.com/c46tcdwsfwu4/SA_Cutscene_Characters_for_gameplay.7z.html",
+    "installPath": "/download",
+    "instructions": [
+      {
+        "type": "copyTo",
+        "subType": "inside",
+        "fileNames": [
+          "*"
+        ],
+        "folderName": "SA Cutscene Characters",
+        "folderNavigation": [],
+        "copyTo": [
+          "/modloader"
+        ]
+      }
+    ],
+    "status": "true"
+  },
+  {
+    "id": "512cec8d-34f6-4e8c-a711-4e3a6c1b040d",
+    "name": "Gang Rider CLEO",
+    "description": "Install the Gang Rider CLEO mod for enhanced gameplay with gang vehicle features in GTA San Andreas.",
+    "downloadUrl": "https://sharemods.com/wus6c66kjang/Gang_Rider_CLEO.7z.html",
+    "installPath": "/download",
+    "instructions": [
+      {
+        "type": "copyTo",
+        "subType": "inside",
+        "fileNames": [
+          "cleo"
+        ],
+        "folderName": "/",
+        "folderNavigation": [],
+        "copyTo": [
+          "/"
+        ]
+      }
+    ],
+    "status": "active",
+    "password": "",
+    "requires": [
+      "CLEO"
+    ],
+    "versions": [
+      "v3.09"
+    ]
+  },
+  {
+    "id": "9a0c5c55-2bee-4746-a6d8-cd9496250645",
+    "name": "SkyGfx Extended",
+    "description": "SkyGfx Extended mod for enhancing graphics in GTA San Andreas.",
+    "downloadUrl": "https://sharemods.com/stxvlyt5j4q4/SA_-_SkyGfx_Extended.zip.html",
+    "installPath": "/download",
+    "instructions": [
+      {
+        "type": "copyTo",
+        "subType": "inside",
+        "fileNames": [
+          "SkyGfx"
+        ],
+        "folderName": "",
+        "folderNavigation": [],
+        "copyTo": [
+          "modloader"
+        ]
+      }
+    ],
+    "status": "Disabled"
+  },
+  {
+    "id": "70b3cfcc-52a9-4474-92a9-f75e211d5da9",
+    "name": "Portable GTA",
+    "description": "A portable version of GTA San Andreas for use with ModLoader.",
+    "downloadUrl": "https://sharemods.com/lkin1m2msdem/PortableGTA.7z.html",
+    "installPath": "/download",
+    "instructions": [
+      {
+        "type": "copyTo",
+        "subType": "inside",
+        "fileNames": [
+          "PortableGTA"
+        ],
+        "folderName": "/",
+        "folderNavigation": null,
+        "copyTo": [
+          "modloader"
+        ]
+      }
+    ],
+    "status": "active",
+    "password": "",
+    "requires": [
+      "ModLoader"
+    ],
+    "versions": [
+      "2020"
+    ]
+  },
+  {
+    "id": "d5475f3b-1f0c-4501-9625-509ca24d4644",
+    "name": "GTASA.WidescreenFix",
+    "description": " Grand Theft Auto San Andreas Widescreen Fix by ThirteenAG, to support multiple resolutions.",
+    "downloadUrl": "https://github.com/ThirteenAG/WidescreenFixesPack/releases/download/gtasa/GTASA.WidescreenFix.zip",
+    "installPath": "/download",
+    "instructions": [
+      {
+        "type": "copyTo",
+        "subType": "inside",
+        "fileNames": [
+          "scripts"
+        ],
+        "folderName": "",
+        "folderNavigation": [],
+        "copyTo": [
+          "/"
+        ]
+      }
+    ],
+    "status": "Disabled"
+  },
+  {
+    "id": "50d6094f-9afb-4bcd-ae9c-ac394592f4cd",
+    "name": "New Taxi Mod",
+    "description": "A mod to call taxis in GTA San Andreas.",
+    "downloadUrl": "https://fileservice.gtainside.de/downloads/ftpk/1515139228_calling_taxi_mod_cleo_by_sendriAreba.zip",
+    "installPath": "/download",
+    "instructions": [
+      {
+        "type": "copyTo",
+        "subType": "inside",
+        "fileNames": [
+          "taxi.cs"
+        ],
+        "folderName": ".",
+        "folderNavigation": [
+          "New Taxi Mod",
+          "Cleo"
+        ],
+        "copyTo": [
+          "cleo"
+        ]
+      },
+      {
+        "type": "copyTo",
+        "subType": "inside",
+        "fileNames": [
+          "taxi_english.fxt",
+          "taxi_indonesia.fxt"
+        ],
+        "folderName": ".",
+        "folderNavigation": [
+          "New Taxi Mod",
+          "Cleo_Text"
+        ],
+        "copyTo": [
+          "cleo_text"
+        ]
+      }
+    ],
+    "status": "active",
+    "password": "",
+    "requires": null,
+    "versions": null
+  }
+]
