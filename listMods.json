@@ -400,49 +400,5 @@
       }
     ],
     "status": "Disabled"
-  },
-  {
-    "id": "50d6094f-9afb-4bcd-ae9c-ac394592f4cd",
-    "name": "New Taxi Mod",
-    "description": "A mod to call taxis in GTA San Andreas.",
-    "downloadUrl": "https://fileservice.gtainside.de/downloads/ftpk/1515139228_calling_taxi_mod_cleo_by_sendriAreba.zip",
-    "installPath": "/download",
-    "instructions": [
-      {
-        "type": "copyTo",
-        "subType": "inside",
-        "fileNames": [
-          "taxi.cs"
-        ],
-        "folderName": ".",
-        "folderNavigation": [
-          "New Taxi Mod",
-          "Cleo"
-        ],
-        "copyTo": [
-          "cleo"
-        ]
-      },
-      {
-        "type": "copyTo",
-        "subType": "inside",
-        "fileNames": [
-          "taxi_english.fxt",
-          "taxi_indonesia.fxt"
-        ],
-        "folderName": ".",
-        "folderNavigation": [
-          "New Taxi Mod",
-          "Cleo_Text"
-        ],
-        "copyTo": [
-          "cleo_text"
-        ]
-      }
-    ],
-    "status": "active",
-    "password": "",
-    "requires": null,
-    "versions": null
   }
 ]
