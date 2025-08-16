@@ -425,5 +425,35 @@
       }
     ],
     "status": "false"
+  },
+  {
+    "id": "2b20b26f-a93f-4000-85f9-cb62d6cc27aa",
+    "name": "Proper Fixes for Texture Packs",
+    "description": "A mod for GTA San Andreas that fixes textures and enhances compatibility with HD texture packs.",
+    "downloadUrl": "https://sharemods.com/vr0trtekebbm/Proper_Fixes_-_for_texture_packs.7z.html",
+    "installPath": "/download",
+    "instructions": [
+      {
+        "type": "copyTo",
+        "subType": "inside",
+        "fileNames": [
+          "*"
+        ],
+        "folderName": "Proper Fixes",
+        "folderNavigation": null,
+        "copyTo": [
+          "/modloader"
+        ]
+      }
+    ],
+    "status": "active",
+    "password": "",
+    "requires": [
+      "Open Limit Adjuster (or well configured f92la)",
+      "SkyGfx with buildingPipe=PS2"
+    ],
+    "versions": [
+      "v1.5"
+    ]
   }
 ]
