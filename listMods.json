@@ -400,5 +400,30 @@
       }
     ],
     "status": "Disabled"
+  },
+  {
+    "id": "37efa642-9ec2-4d4e-ad3b-b93d469846b1",
+    "name": "Cleo +",
+    "description": "Cleo +  is an addition to CLEO that solves it's basic limitations and making it easier for people to create higher-quality mods",
+    "downloadUrl": "https://sharemods.com/3yrdrs7l9v6r/CLEOPlus.zip.html",
+    "installPath": "/download",
+    "instructions": [
+      {
+        "type": "copyTo",
+        "subType": "inside",
+        "fileNames": [
+          "CLEO+.cleo"
+        ],
+        "folderName": "",
+        "folderNavigation": [
+          "EN",
+          "CLEO"
+        ],
+        "copyTo": [
+          "/cleo"
+        ]
+      }
+    ],
+    "status": "false"
   }
 ]
