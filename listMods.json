@@ -425,5 +425,61 @@
       }
     ],
     "status": "false"
+  },
+  {
+    "id": "f858a40b-6688-4184-bbe2-18f7ed3f8c53",
+    "name": "Proper Fixes - for texture packs",
+    "description": "A collection of fixes for San Andreas to enhance texture pack compatibility.",
+    "downloadUrl": "https://sharemods.com/vr0trtekebbm/Proper_Fixes_-_for_texture_packs.7z.html",
+    "installPath": "/download",
+    "instructions": [
+      {
+        "type": "copyTo",
+        "subType": "outside",
+        "fileNames": [
+          "*"
+        ],
+        "folderName": "Proper Fixes",
+        "folderNavigation": null,
+        "copyTo": [
+          "modloader/proper_fixes"
+        ]
+      },
+      {
+        "type": "copyTo",
+        "subType": "inside",
+        "fileNames": [
+          "*"
+        ],
+        "folderName": "(optional - remove LOD vegetation)",
+        "folderNavigation": [
+          "Proper Fixes"
+        ],
+        "copyTo": [
+          "modloader/proper_fixes/optional_remove_lod_vegetation"
+        ]
+      },
+      {
+        "type": "copyTo",
+        "subType": "inside",
+        "fileNames": [
+          "*"
+        ],
+        "folderName": "(optional - increase vegetation distance)",
+        "folderNavigation": null,
+        "copyTo": [
+          "modloader/proper_fixes/optional_increase_vegetation_distance"
+        ]
+      }
+    ],
+    "status": "active",
+    "password": "/",
+    "requires": [
+      "Open Limit Adjuster",
+      "SkyGfx with buildingPipe=PS2"
+    ],
+    "versions": [
+      "v1.5"
+    ]
   }
 ]
