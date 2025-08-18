@@ -441,7 +441,7 @@
     "instructions": [
       {
         "type": "copyTo",
-        "subType": "outside",
+        "subType": "inside",
         "fileNames": [
           "*"
         ],
@@ -452,13 +452,6 @@
         ]
       }
     ],
-    "status": "active",
-    "password": "",
-    "requires": [
-      "Modloader"
-    ],
-    "versions": [
-      "v1.1"
-    ]
+    "status": "Disabled"
   }
 ]
