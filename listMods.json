@@ -443,9 +443,9 @@
         "type": "copyTo",
         "subType": "inside",
         "fileNames": [
-          "*"
+          "Wheel Detach"
         ],
-        "folderName": "Wheel Detach",
+        "folderName": "",
         "folderNavigation": null,
         "copyTo": [
           "modloader"
