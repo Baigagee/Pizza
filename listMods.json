@@ -431,5 +431,34 @@
     "versions": [
       "v1.5"
     ]
+  },
+  {
+    "id": "481fe4a2-e70e-4617-a8ff-809f02d89c4b",
+    "name": "Wheel Detach Mod",
+    "description": "Allows wheels to detach from vehicles in GTA San Andreas.",
+    "downloadUrl": "https://sharemods.com/e61gwxaw6zz8/Wheel_Detach.7z.html",
+    "installPath": "/download",
+    "instructions": [
+      {
+        "type": "copyTo",
+        "subType": "outside",
+        "fileNames": [
+          "*"
+        ],
+        "folderName": "Wheel Detach",
+        "folderNavigation": null,
+        "copyTo": [
+          "modloader"
+        ]
+      }
+    ],
+    "status": "active",
+    "password": "",
+    "requires": [
+      "Modloader"
+    ],
+    "versions": [
+      "v1.1"
+    ]
   }
 ]
