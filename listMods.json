@@ -453,5 +453,34 @@
       }
     ],
     "status": "Disabled"
+  },
+  {
+    "id": "0e1b0f2d-119f-49dc-aadd-922b8871c8f8",
+    "name": "Framerate Vigilante",
+    "description": "A mod to set up the FPS limit in GTA San Andreas.",
+    "downloadUrl": "https://sharemods.com/24x6829d724g/FramerateVigilante.7z.html",
+    "installPath": "/download",
+    "instructions": [
+      {
+        "type": "copyTo",
+        "subType": "inside",
+        "fileNames": [
+          "FramerateVigilante"
+        ],
+        "folderName": "GTA SA",
+        "folderNavigation": null,
+        "copyTo": [
+          "/modloader"
+        ]
+      }
+    ],
+    "status": "active",
+    "password": "",
+    "requires": [
+      "Modloader"
+    ],
+    "versions": [
+      "09/11/24"
+    ]
   }
 ]
