@@ -40,30 +40,6 @@
     "status": "false"
   },
   {
-    "id": "c0d9e8f7-g6h5-43c4-d3e2-f8g7h6i5j4k3",
-    "name": "Framerate Vigilante",
-    "description": "Enhances the game textures to high definition.",
-    "downloadUrl": "https://sharemods.com/24x6829d724g/FramerateVigilante.7z.html",
-    "installPath": "/download",
-    "instructions": [
-      {
-        "type": "copyTo",
-        "subType": "inside",
-        "folderNavigation": [
-          "GTA SA"
-        ],
-        "folderName": "FramerateVigilante",
-        "fileNames": [
-          "FramerateVigilante"
-        ],
-        "copyTo": [
-          "/modloader"
-        ]
-      }
-    ],
-    "status": "false"
-  },
-  {
     "id": "d1e0f9g8-h7i6-44d5-e4f3-g9h8i7j6k5l4",
     "name": "Improved Streaming",
     "description": "Enhances the game textures to high definition.",
