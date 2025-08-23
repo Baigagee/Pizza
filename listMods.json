@@ -1528,5 +1528,36 @@
       }
     ],
     "status": "Disabled"
+  },
+  {
+    "id": "10f0ba0c-ad7e-4d9d-ae8d-41eedc9eae04",
+    "name": "ESRGAN Original Peds Vary",
+    "description": "A mod to enhance the textures of original pedestrians in GTA San Andreas.",
+    "downloadUrl": "https://sharemods.com/nhankaq47nzu/ESRGAN_Original_Peds_Vary.7z.html",
+    "installPath": "/download",
+    "instructions": [
+      {
+        "type": "copyTo",
+        "subType": "inside",
+        "fileNames": [
+          "Original Peds Vary",
+          "Original Peds Vary (chars)"
+        ],
+        "folderName": "/",
+        "folderNavigation": null,
+        "copyTo": [
+          "modloader"
+        ]
+      }
+    ],
+    "status": "complete",
+    "password": "",
+    "requires": [
+      "Modloader",
+      "PedFuncs"
+    ],
+    "versions": [
+      "13/06/20"
+    ]
   }
 ]
