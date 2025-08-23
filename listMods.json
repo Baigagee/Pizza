@@ -1334,5 +1334,34 @@
     "versions": [
       "v2.2.1 beta"
     ]
+  },
+  {
+    "id": "4c8d53d0-01ff-4ff9-bb01-dd85f078819a",
+    "name": "Peds Buy Food Mod",
+    "description": "Enables pedestrians to buy food in GTA San Andreas.",
+    "downloadUrl": "https://sharemods.com/yryvfl7rh4xu/Peds_Buy_Food.7z.html",
+    "installPath": "/download",
+    "instructions": [
+      {
+        "type": "copyTo",
+        "subType": "inside",
+        "fileNames": [
+          "Peds Buy Food"
+        ],
+        "folderName": ".",
+        "folderNavigation": null,
+        "copyTo": [
+          "/modloader"
+        ]
+      }
+    ],
+    "status": "complete",
+    "password": "",
+    "requires": [
+      "CLEO+"
+    ],
+    "versions": [
+      "v1.0"
+    ]
   }
 ]
