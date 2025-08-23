@@ -603,5 +603,35 @@
     "versions": [
       "Unofficial HD + prelight fix + wind shader adaptation"
     ]
+  },
+  {
+    "id": "46448420-9ef2-4e56-bdd1-641b2d23a7fe",
+    "name": "LS Lit Church Mod",
+    "description": "A mod that enhances the church in Los Santos with HD textures and fixes.",
+    "downloadUrl": "https://sharemods.com/ilp0t25k29gz/LS_Lit_Church.7z.html",
+    "installPath": "/download",
+    "instructions": [
+      {
+        "type": "copyTo",
+        "subType": "inside",
+        "fileNames": [
+          "LS Lit Church"
+        ],
+        "folderName": "/",
+        "folderNavigation": null,
+        "copyTo": [
+          "modloader"
+        ]
+      }
+    ],
+    "status": "complete",
+    "password": "",
+    "requires": [
+      "Modloader",
+      "Open Limit Adjuster"
+    ],
+    "versions": [
+      "TXD & COL & IDs fix + new textures"
+    ]
   }
 ]
