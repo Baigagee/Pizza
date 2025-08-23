@@ -1634,7 +1634,7 @@
   },
   {
     "id": "99ac8f94-b034-4dd1-a4a3-728a20a588ce",
-    "name": "Proper Vehicles Retex v2.1",
+    "name": "Proper Vehicles Retex",
     "description": "A vehicle texture enhancement mod for GTA San Andreas.",
     "downloadUrl": "https://sharemods.com/28ypvnxc3daa/Proper_Vehicles_Retex_v2.1_1024x_VERSION.7z.html",
     "installPath": "/download",
@@ -1664,13 +1664,6 @@
         ]
       }
     ],
-    "status": "active",
-    "password": "",
-    "requires": [
-      "ModLoader"
-    ],
-    "versions": [
-      "v2.1"
-    ]
+    "status": "Disabled"
   }
 ]
