@@ -1609,5 +1609,35 @@
     "versions": [
       "Remake Fix 3"
     ]
+  },
+  {
+    "id": "3a3670d0-20f1-44fa-aece-b049ac9347e8",
+    "name": "Club Front Noise Mod",
+    "description": "Adds club front noise effects to GTA San Andreas.",
+    "downloadUrl": "https://sharemods.com/j1josmosztfz/Club_Front_Noise.7z.html",
+    "installPath": "/download",
+    "instructions": [
+      {
+        "type": "copyTo",
+        "subType": "inside",
+        "fileNames": [
+          "club front noise"
+        ],
+        "folderName": ".",
+        "folderNavigation": null,
+        "copyTo": [
+          "modloader"
+        ]
+      }
+    ],
+    "status": "final",
+    "password": "",
+    "requires": [
+      "Modloader",
+      "CLEO+"
+    ],
+    "versions": [
+      "v1.2.1"
+    ]
   }
 ]
