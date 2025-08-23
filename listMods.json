@@ -1551,5 +1551,34 @@
       }
     ],
     "status": "Disabled"
+  },
+  {
+    "id": "6a893fbc-2c9d-47a9-b07f-1d2ea35355c5",
+    "name": "Peds Run Fix",
+    "description": "A mod for fixing pedestrian run animations in GTA San Andreas.",
+    "downloadUrl": "https://sharemods.com/c08l1q6s8kxy/SA_SADE_-_Peds_Run_Fix.7z.html",
+    "installPath": "/download",
+    "instructions": [
+      {
+        "type": "copyTo",
+        "subType": "outside",
+        "fileNames": [
+          "Ped Run Fix"
+        ],
+        "folderName": "/",
+        "folderNavigation": [
+          "SA classic"
+        ],
+        "copyTo": [
+          "modloader"
+        ]
+      }
+    ],
+    "status": "active",
+    "password": "",
+    "requires": null,
+    "versions": [
+      "v2.2"
+    ]
   }
 ]
