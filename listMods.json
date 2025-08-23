@@ -1665,5 +1665,34 @@
       }
     ],
     "status": "Disabled"
+  },
+  {
+    "id": "8cd703bc-32c9-4d33-9a19-15d02d5c1c89",
+    "name": "Improved Vehicle Features",
+    "description": "Enhanced vehicle features mod for GTA San Andreas, including custom turn signals and fog lights.",
+    "downloadUrl": "https://sharemods.com/p3fgjmintbcm/ImVehFt_211_new_unofficial.7z.html",
+    "installPath": "/download",
+    "instructions": [
+      {
+        "type": "copyTo",
+        "subType": "outside",
+        "fileNames": [
+          "ImVehFt"
+        ],
+        "folderName": ".",
+        "folderNavigation": null,
+        "copyTo": [
+          "/modloader"
+        ]
+      }
+    ],
+    "status": "complete",
+    "password": "",
+    "requires": [
+      "SA Modloader"
+    ],
+    "versions": [
+      "2.1.1"
+    ]
   }
 ]
