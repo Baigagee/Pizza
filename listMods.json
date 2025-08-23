@@ -1392,5 +1392,34 @@
     "versions": [
       "v2.1"
     ]
+  },
+  {
+    "id": "7ec76a14-f7b2-4567-9bdf-df0255bbfa6d",
+    "name": "Homeless and Trash Bags Mod",
+    "description": "Adds homeless characters and trash bags to the game.",
+    "downloadUrl": "https://sharemods.com/c48bwuf47lqm/Homeless_and_Trash_Bags.7z.html",
+    "installPath": "/download",
+    "instructions": [
+      {
+        "type": "copyTo",
+        "subType": "inside",
+        "fileNames": [
+          "*"
+        ],
+        "folderName": "Homeless and Trash Bags",
+        "folderNavigation": null,
+        "copyTo": [
+          "/modloader"
+        ]
+      }
+    ],
+    "status": "active",
+    "password": "",
+    "requires": [
+      "CLEO+"
+    ],
+    "versions": [
+      "v1.0"
+    ]
   }
 ]
