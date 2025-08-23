@@ -1738,5 +1738,28 @@
       }
     ],
     "status": "false"
+  },
+  {
+    "id": "98d028bd-3b05-41e2-a824-88a137aefbd2",
+    "name": "Fair Cop",
+    "description": "Fixes something idk",
+    "downloadUrl": "https://sharemods.com/8kq553hlhhot/Fair_cop.zip.html",
+    "installPath": "/download",
+    "instructions": [
+      {
+        "type": "copyTo",
+        "subType": "inside",
+        "fileNames": [
+          "Cop fix",
+          "Fair cop"
+        ],
+        "folderName": "",
+        "folderNavigation": [],
+        "copyTo": [
+          "/modloader"
+        ]
+      }
+    ],
+    "status": "false"
   }
 ]
