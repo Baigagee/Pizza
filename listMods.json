@@ -994,5 +994,47 @@
     "versions": [
       "15/07/22"
     ]
+  },
+  {
+    "id": "89d0b470-0f53-4f28-9621-8ff5d1999107",
+    "name": "Breakable Vending Machines",
+    "description": "Mod to add breakable vending machines with options for HD textures.",
+    "downloadUrl": "https://sharemods.com/lss6fpp1ujm5/Breakable_Vending_Machines.7z.html",
+    "installPath": "/download",
+    "instructions": [
+      {
+        "type": "copyTo",
+        "subType": "inside",
+        "fileNames": [
+          "*"
+        ],
+        "folderName": "Breakable Vending Machines",
+        "folderNavigation": null,
+        "copyTo": [
+          "modloader"
+        ]
+      },
+      {
+        "type": "copyTo",
+        "subType": "inside",
+        "fileNames": [
+          "CJ_VEND_MANHUNT.txd"
+        ],
+        "folderName": "(HD textures)/Breakable Vending Machines",
+        "folderNavigation": null,
+        "copyTo": [
+          "modloader/Breakable Vending Machines"
+        ]
+      }
+    ],
+    "status": "ready",
+    "password": "",
+    "requires": [
+      "CLEO+",
+      "Open Limit Adjuster"
+    ],
+    "versions": [
+      "v1.1"
+    ]
   }
 ]
