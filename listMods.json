@@ -660,5 +660,34 @@
     "versions": [
       "v1.0"
     ]
+  },
+  {
+    "id": "bc51b201-9f84-4201-bb63-0187728a1351",
+    "name": "Lamppost Insects",
+    "description": "Lamppost Insects mod by Junior_Djjr for GTA San Andreas.",
+    "downloadUrl": "https://sharemods.com/mmmj6dr1gcbz/Lamppost_Insects.7z.html",
+    "installPath": "/download",
+    "instructions": [
+      {
+        "type": "copyTo",
+        "subType": "outside",
+        "fileNames": [
+          "cleo"
+        ],
+        "folderName": "/",
+        "folderNavigation": null,
+        "copyTo": [
+          "/modloader"
+        ]
+      }
+    ],
+    "status": "active",
+    "password": "null",
+    "requires": [
+      "Mod Loader"
+    ],
+    "versions": [
+      "v0.8"
+    ]
   }
 ]
