@@ -1421,5 +1421,34 @@
     "versions": [
       "v1.0"
     ]
+  },
+  {
+    "id": "60a16b43-2966-452c-be70-c292efdebd25",
+    "name": "Realistic Population Mod",
+    "description": "Mod to adjust in-game population density for GTA San Andreas.",
+    "downloadUrl": "https://sharemods.com/4jpa4h4vu1nf/Realistic_Population.7z.html",
+    "installPath": "/download",
+    "instructions": [
+      {
+        "type": "copyTo",
+        "subType": "inside",
+        "fileNames": [
+          "Realistic Population"
+        ],
+        "folderName": "Modloader",
+        "folderNavigation": null,
+        "copyTo": [
+          "/modloader"
+        ]
+      }
+    ],
+    "status": "active",
+    "password": "",
+    "requires": [
+      "Modloader"
+    ],
+    "versions": [
+      "v2.0"
+    ]
   }
 ]
