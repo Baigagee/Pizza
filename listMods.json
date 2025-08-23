@@ -1716,5 +1716,27 @@
       }
     ],
     "status": "Disabled"
+  },
+  {
+    "id": "34032912-d0ac-4ad0-8af1-22fd9f886d52",
+    "name": "Truck Trailers",
+    "description": "Adds truck trailers",
+    "downloadUrl": "https://sharemods.com/ud3aj88lbktz/Trucks___Trailers_-_veiculos_puxando_trailers.7z.html",
+    "installPath": "/download",
+    "instructions": [
+      {
+        "type": "copyTo",
+        "subType": "inside",
+        "fileNames": [
+          "cleo"
+        ],
+        "folderName": "",
+        "folderNavigation": [],
+        "copyTo": [
+          "/"
+        ]
+      }
+    ],
+    "status": "false"
   }
 ]
