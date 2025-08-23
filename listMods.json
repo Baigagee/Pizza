@@ -1150,5 +1150,32 @@
       }
     ],
     "status": "Disabled"
+  },
+  {
+    "id": "26a75022-fc21-49b5-8eaf-9be2198ad5e6",
+    "name": "UFO Bar Lit",
+    "description": "Mod for GTA San Andreas to enhance the UFO Bar lighting.",
+    "downloadUrl": "https://sharemods.com/hb6p9c3p2z80/UFO_Bar_Lit.7z.html",
+    "installPath": "/download",
+    "instructions": [
+      {
+        "type": "copyTo",
+        "subType": "inside",
+        "fileNames": [
+          "UFO Bar Lit"
+        ],
+        "folderName": "(HD - high)",
+        "folderNavigation": null,
+        "copyTo": [
+          "/modloader"
+        ]
+      }
+    ],
+    "status": "active",
+    "password": "",
+    "requires": null,
+    "versions": [
+      "v3.0"
+    ]
   }
 ]
