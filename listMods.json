@@ -1305,5 +1305,34 @@
     "versions": [
       "2022"
     ]
+  },
+  {
+    "id": "72e8c889-0654-4b6d-b534-281c7470a007",
+    "name": "Real Traffic Fix",
+    "description": "Fixes traffic issues in GTA San Andreas.",
+    "downloadUrl": "https://sharemods.com/jlqyc2ya7lol/SA_-_Real_Traffic_Fix.7z.html",
+    "installPath": "/download",
+    "instructions": [
+      {
+        "type": "copyTo",
+        "subType": "outside",
+        "fileNames": [
+          "Real Traffic Fix"
+        ],
+        "folderName": ".",
+        "folderNavigation": null,
+        "copyTo": [
+          "/modloader"
+        ]
+      }
+    ],
+    "status": "active",
+    "password": "",
+    "requires": [
+      "Modloader"
+    ],
+    "versions": [
+      "v2.2.1 beta"
+    ]
   }
 ]
