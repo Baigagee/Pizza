@@ -482,5 +482,35 @@
     "versions": [
       "09/11/24"
     ]
+  },
+  {
+    "id": "d75bfd00-31ae-47b5-b44d-fd98edc1e8c0",
+    "name": "Pacific Park Rotating Ferris Wheel",
+    "description": "Adds a rotating Ferris Wheel to the game. Requires CLEO+, Open Limit Adjuster, and increased stream memory limit.",
+    "downloadUrl": "https://sharemods.com/y5pkv6qmpy9y/SA_-_Pacific_Park_Rotating_Ferris_Wheel.7z.html",
+    "installPath": "/download",
+    "instructions": [
+      {
+        "type": "copyTo",
+        "subType": "inside",
+        "fileNames": [
+          "*"
+        ],
+        "folderName": "Pacific Park Rotating Ferris Wheel",
+        "folderNavigation": null,
+        "copyTo": [
+          "modloader"
+        ]
+      }
+    ],
+    "status": "active",
+    "password": "",
+    "requires": [
+      "CLEO+",
+      "Open Limit Adjuster"
+    ],
+    "versions": [
+      "24/12/22"
+    ]
   }
 ]
