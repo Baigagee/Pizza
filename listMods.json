@@ -1750,8 +1750,7 @@
         "type": "copyTo",
         "subType": "inside",
         "fileNames": [
-          "Cop fix",
-          "Fair cop"
+          "*"
         ],
         "folderName": "",
         "folderNavigation": [],
