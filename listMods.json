@@ -1363,5 +1363,34 @@
     "versions": [
       "v1.0"
     ]
+  },
+  {
+    "id": "f68b6576-3809-4174-8be7-9b27688b0b4e",
+    "name": "Ped Lean",
+    "description": "Ped Lean mod for GTA San Andreas enhancing character animations.",
+    "downloadUrl": "https://sharemods.com/ynei0cfnoatv/Ped_Lean___40_Junior_Djjr__41_.7z.html",
+    "installPath": "/download",
+    "instructions": [
+      {
+        "type": "copyTo",
+        "subType": "inside",
+        "fileNames": [
+          "*"
+        ],
+        "folderName": "Ped Lean",
+        "folderNavigation": [],
+        "copyTo": [
+          "modloader"
+        ]
+      }
+    ],
+    "status": "active",
+    "password": "null",
+    "requires": [
+      "Modloader"
+    ],
+    "versions": [
+      "v2.1"
+    ]
   }
 ]
