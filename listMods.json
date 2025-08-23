@@ -1764,7 +1764,7 @@
   {
     "id": "4f596aee-70de-4c02-b531-f9c6a7204639",
     "name": "PedTweaks",
-    "description": "",
+    "description": "I think it tweaks something idk",
     "downloadUrl": "https://www.dropbox.com/s/gyftn8u1clh2pqm/PedTweaks.zip?dl=1",
     "installPath": "/download",
     "instructions": [
@@ -1781,6 +1781,6 @@
         ]
       }
     ],
-    "status": "Disabled"
+    "status": "false"
   }
 ]
