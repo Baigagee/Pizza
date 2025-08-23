@@ -731,5 +731,36 @@
     "versions": [
       "v1.0"
     ]
+  },
+  {
+    "id": "9e119cb4-912d-47dd-822d-3a05ec9e2d33",
+    "name": "Flying Stuff",
+    "description": "Adds new effects to GTA San Andreas using Modloader and EffectsLoader.",
+    "downloadUrl": "https://sharemods.com/7fqjpa1hmmim/Flying_Stuff.7z.html",
+    "installPath": "/download",
+    "instructions": [
+      {
+        "type": "copyTo",
+        "subType": "inside",
+        "fileNames": [
+          "modloader",
+          "models"
+        ],
+        "folderName": "/",
+        "folderNavigation": null,
+        "copyTo": [
+          "/"
+        ]
+      }
+    ],
+    "status": "active",
+    "password": "",
+    "requires": [
+      "Modloader",
+      "EffectsLoader"
+    ],
+    "versions": [
+      "EffectsLoader adaptation by Mystertv"
+    ]
   }
 ]
