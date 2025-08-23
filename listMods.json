@@ -1697,7 +1697,7 @@
   },
   {
     "id": "311d05a4-11f5-4be4-be1e-8389a8565044",
-    "name": "GPS Redux Mod",
+    "name": "GPS Redux",
     "description": "A mod for GTA San Andreas that adds a GPS line to the map.",
     "downloadUrl": "https://sharemods.com/8wk6e66xfc1c/GPS_Redux.zip",
     "installPath": "/download",
@@ -1715,11 +1715,6 @@
         ]
       }
     ],
-    "status": "active",
-    "password": "",
-    "requires": null,
-    "versions": [
-      "v1.4.6"
-    ]
+    "status": "Disabled"
   }
 ]
