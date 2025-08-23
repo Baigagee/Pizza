@@ -1131,7 +1131,7 @@
   },
   {
     "id": "733b979b-2d52-4f44-b2a0-d3738ec9df31",
-    "name": "Praia Realista",
+    "name": "Realistic Beach",
     "description": "Realistic Beach mod for GTA San Andreas.",
     "downloadUrl": "https://sharemods.com/bjugojrzkoqk/Praia_Realista.7z.html",
     "installPath": "/download",
@@ -1149,13 +1149,6 @@
         ]
       }
     ],
-    "status": "complete",
-    "password": "",
-    "requires": [
-      "Modloader"
-    ],
-    "versions": [
-      "v2.6"
-    ]
+    "status": "Disabled"
   }
 ]
