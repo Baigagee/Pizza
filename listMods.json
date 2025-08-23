@@ -560,5 +560,48 @@
     "versions": [
       "v1.1"
     ]
+  },
+  {
+    "id": "95a2d668-8eb1-4478-80bc-7b46a021b42e",
+    "name": "SA Original HQ Palms Mod",
+    "description": "Enhanced HQ Palm textures and models for GTA San Andreas with wind shader adaptation.",
+    "downloadUrl": "https://sharemods.com/zh78dctl0sdc/SA_-_Original_HQ_Palms_-_wind.7z.html",
+    "installPath": "/download",
+    "instructions": [
+      {
+        "type": "copyTo",
+        "subType": "inside",
+        "fileNames": [
+          "Original HQ Palms"
+        ],
+        "folderName": ".",
+        "folderNavigation": null,
+        "copyTo": [
+          "modloader"
+        ]
+      },
+      {
+        "type": "copyTo",
+        "subType": "inside",
+        "fileNames": [
+          "gta_tree_palm.txd",
+          "vgsn_nitree.txd"
+        ],
+        "folderName": "(low)",
+        "folderNavigation": null,
+        "copyTo": [
+          "modloader",
+          "Original HQ Palms"
+        ]
+      }
+    ],
+    "status": "active",
+    "password": "",
+    "requires": [
+      "SkyGfx Extended v1.5"
+    ],
+    "versions": [
+      "Unofficial HD + prelight fix + wind shader adaptation"
+    ]
   }
 ]
