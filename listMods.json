@@ -955,5 +955,44 @@
     "versions": [
       "v1.0"
     ]
+  },
+  {
+    "id": "dc3d21e7-e1ba-4a1b-8671-3e54a0497937",
+    "name": "Meshsmooth Pack by Hysen",
+    "description": "A mod for GTA San Andreas that enhances various models with mesh smoothing.",
+    "downloadUrl": "https://sharemods.com/q35smwusdauo/SA_-_Meshsmooth_Pack_by_Hysen.7z.html",
+    "installPath": "/download",
+    "instructions": [
+      {
+        "type": "copyTo",
+        "subType": "inside",
+        "fileNames": [
+          "Transparent Menu"
+        ],
+        "folderName": ".",
+        "folderNavigation": null,
+        "copyTo": [
+          "modloader"
+        ]
+      },
+      {
+        "type": "copyTo",
+        "subType": "inside",
+        "fileNames": [
+          "*"
+        ],
+        "folderName": "Meshsmooth Pack by Hysen",
+        "folderNavigation": null,
+        "copyTo": [
+          "modloader/Transparent Menu"
+        ]
+      }
+    ],
+    "status": "active",
+    "password": "",
+    "requires": null,
+    "versions": [
+      "15/07/22"
+    ]
   }
 ]
