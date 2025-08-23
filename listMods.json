@@ -1494,5 +1494,47 @@
     "versions": [
       "Remake + fix"
     ]
+  },
+  {
+    "id": "235e7fc8-c587-4a59-943e-140048137b08",
+    "name": "SA - Urbanize 04-25",
+    "description": "Urbanize mod for GTA San Andreas.",
+    "downloadUrl": "https://sharemods.com/f83p90oqa5bx/SA_-_Urbanize_04-25___40_ceh7avvb134__41_.zip.html",
+    "installPath": "/download",
+    "instructions": [
+      {
+        "type": "copyTo",
+        "subType": "inside",
+        "fileNames": [
+          "*"
+        ],
+        "folderName": ".",
+        "folderNavigation": null,
+        "copyTo": [
+          "/cleo"
+        ]
+      },
+      {
+        "type": "copyTo",
+        "subType": "inside",
+        "fileNames": [
+          "*"
+        ],
+        "folderName": ".",
+        "folderNavigation": null,
+        "copyTo": [
+          "/modloader"
+        ]
+      }
+    ],
+    "status": "active",
+    "password": "",
+    "requires": [
+      "CLEO+ v1.2 or newer",
+      "Open Limit Adjuster v1.5.9 or newer"
+    ],
+    "versions": [
+      "04-25"
+    ]
   }
 ]
