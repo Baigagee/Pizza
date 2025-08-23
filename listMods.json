@@ -633,5 +633,32 @@
     "versions": [
       "TXD & COL & IDs fix + new textures"
     ]
+  },
+  {
+    "id": "f33296a8-ab79-4375-ac01-7ffcde641651",
+    "name": "Missing Lampposts Fix",
+    "description": "Fix missing lampposts in GTA San Andreas",
+    "downloadUrl": "https://sharemods.com/28iie8htc4jq/Missing_Lampposts_Fix.7z.html",
+    "installPath": "/download",
+    "instructions": [
+      {
+        "type": "copyTo",
+        "subType": "inside",
+        "fileNames": [
+          "*"
+        ],
+        "folderName": "Missing Lampposts Fix",
+        "folderNavigation": [],
+        "copyTo": [
+          "modloader"
+        ]
+      }
+    ],
+    "status": "active",
+    "password": "",
+    "requires": null,
+    "versions": [
+      "v1.0"
+    ]
   }
 ]
