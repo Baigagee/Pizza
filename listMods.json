@@ -1066,5 +1066,34 @@
     "versions": [
       "v1.0.2"
     ]
+  },
+  {
+    "id": "75240f59-0b36-4a54-abb9-79e0a7c10a82",
+    "name": "Wind Project",
+    "description": "Mod for GTA San Andreas enhancing various environment models with wind effects.",
+    "downloadUrl": "https://sharemods.com/3b7uuwotoncu/SA_-_Wind_Project.7z.html",
+    "installPath": "/download",
+    "instructions": [
+      {
+        "type": "copyTo",
+        "subType": "inside",
+        "fileNames": [
+          "*"
+        ],
+        "folderName": "Wind Project",
+        "folderNavigation": [],
+        "copyTo": [
+          "modloader/wind_project"
+        ]
+      }
+    ],
+    "status": "active",
+    "password": "",
+    "requires": [
+      "SkyGfx Extended v1.5 or newer"
+    ],
+    "versions": [
+      "v1.0.2"
+    ]
   }
 ]
