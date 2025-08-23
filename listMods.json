@@ -845,5 +845,32 @@
     "versions": [
       "v2.2"
     ]
+  },
+  {
+    "id": "dd624428-3a11-44e7-b63d-30c076acf50d",
+    "name": "Shoes on the Wires",
+    "description": "Mod that adds shoes on the wires in GTA San Andreas.",
+    "downloadUrl": "https://sharemods.com/ohqrs1cv0bev/Shoes_on_the_wires.7z.html",
+    "installPath": "/download",
+    "instructions": [
+      {
+        "type": "copyTo",
+        "subType": "inside",
+        "fileNames": [
+          "Shoes on the wires"
+        ],
+        "folderName": "/download",
+        "folderNavigation": null,
+        "copyTo": [
+          "modloader"
+        ]
+      }
+    ],
+    "status": "active",
+    "password": "",
+    "requires": null,
+    "versions": [
+      "Unofficial fix"
+    ]
   }
 ]
