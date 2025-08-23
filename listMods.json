@@ -1233,5 +1233,35 @@
       "Modloader"
     ],
     "versions": null
+  },
+  {
+    "id": "49256b42-bd11-492d-93cf-a3db512df91d",
+    "name": "HD Animated Blimp",
+    "description": "HD Animated Blimp mod for GTA San Andreas with animation enhancements.",
+    "downloadUrl": "https://sharemods.com/hjpyew649t3s/SA_-_HD_Animated_Blimp.7z.html",
+    "installPath": "/download",
+    "instructions": [
+      {
+        "type": "copyTo",
+        "subType": "inside",
+        "fileNames": [
+          "*"
+        ],
+        "folderName": "HD Animated Blimp",
+        "folderNavigation": null,
+        "copyTo": [
+          "modloader"
+        ]
+      }
+    ],
+    "status": "active",
+    "password": "",
+    "requires": [
+      "CLEO+",
+      "Open Limit Adjuster"
+    ],
+    "versions": [
+      "v1.0"
+    ]
   }
 ]
