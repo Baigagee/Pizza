@@ -1003,5 +1003,30 @@
     "versions": [
       "15/07/22"
     ]
+  },
+  {
+    "id": "b9f71173-99a3-4c7e-9c3a-6adb777983bc",
+    "name": "SADE Big Ear Telescope to SA",
+    "description": "Mod for adding a big ear telescope to GTA San Andreas.",
+    "downloadUrl": "https://sharemods.com/kcmovu4eds1m/SADE_Big_Ear_Telescope_to_SA.7z.html",
+    "installPath": "/download",
+    "instructions": [
+      {
+        "type": "copyTo",
+        "subType": "outside",
+        "fileNames": [
+          "SADE Big Ear Telescope to SA"
+        ],
+        "folderName": "/",
+        "folderNavigation": null,
+        "copyTo": [
+          "modloader"
+        ]
+      }
+    ],
+    "status": "active",
+    "password": "",
+    "requires": null,
+    "versions": null
   }
 ]
