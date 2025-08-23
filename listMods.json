@@ -791,5 +791,59 @@
     "versions": [
       "v4.3"
     ]
+  },
+  {
+    "id": "bfe647ca-e6c9-48bf-8f43-a0bfcb8e173a",
+    "name": "Project Props",
+    "description": "A mod for GTA San Andreas enhancing in-game props with additional details.",
+    "downloadUrl": "https://sharemods.com/px8in43ou2sa/Project_Props.7z.html",
+    "installPath": "/download",
+    "instructions": [
+      {
+        "type": "copyTo",
+        "subType": "inside",
+        "fileNames": [
+          "*"
+        ],
+        "folderName": "/Project Props",
+        "folderNavigation": null,
+        "copyTo": [
+          "/modloader"
+        ]
+      },
+      {
+        "type": "copyTo",
+        "subType": "inside",
+        "fileNames": [
+          "III.VC.SA.LimitAdjuster.ini"
+        ],
+        "folderName": "/(Open Limit Adjuster INI)",
+        "folderNavigation": null,
+        "copyTo": [
+          "/"
+        ]
+      },
+      {
+        "type": "copyTo",
+        "subType": "inside",
+        "fileNames": [
+          "procobj.dat",
+          "surfinfo.dat"
+        ],
+        "folderName": "/(optional)",
+        "folderNavigation": null,
+        "copyTo": [
+          "/modloader/project props/data"
+        ]
+      }
+    ],
+    "status": "active",
+    "password": "",
+    "requires": [
+      "Open Limit Adjuster"
+    ],
+    "versions": [
+      "v2.2"
+    ]
   }
 ]
