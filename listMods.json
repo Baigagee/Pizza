@@ -1028,5 +1028,34 @@
     "password": "",
     "requires": null,
     "versions": null
+  },
+  {
+    "id": "1ad24e30-d19c-4830-bff8-b4306402ff79",
+    "name": "Sidewalk Weeds",
+    "description": "Adds detailed sidewalk weeds to enhance the game's environment.",
+    "downloadUrl": "https://sharemods.com/97vjpz8y3fck/SA_-_Sidewalk_Weeds.7z.html",
+    "installPath": "/download",
+    "instructions": [
+      {
+        "type": "copyTo",
+        "subType": "outside",
+        "fileNames": [
+          "Sidewalk Weeds"
+        ],
+        "folderName": "/",
+        "folderNavigation": null,
+        "copyTo": [
+          "/modloader"
+        ]
+      }
+    ],
+    "status": "complete",
+    "password": "",
+    "requires": [
+      "Open Limit Adjuster"
+    ],
+    "versions": [
+      "v1.0"
+    ]
   }
 ]
