@@ -1453,7 +1453,7 @@
   },
   {
     "id": "36a681c9-f71c-4fbc-8628-753d42ce7f53",
-    "name": "Securicar Drop Money Mod",
+    "name": "Money Truck",
     "description": "Mod that adds a money dropping feature when blowing up a Securicar.",
     "downloadUrl": "https://sharemods.com/7big626ohkqw/Securicar_Drop_Money.7z.html",
     "installPath": "/download",
@@ -1471,13 +1471,6 @@
         ]
       }
     ],
-    "status": "active",
-    "password": "",
-    "requires": [
-      "Modloader"
-    ],
-    "versions": [
-      "2018"
-    ]
+    "status": "Disabled"
   }
 ]
