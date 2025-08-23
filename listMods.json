@@ -1465,5 +1465,34 @@
       }
     ],
     "status": "Disabled"
+  },
+  {
+    "id": "cd9de8a9-a3f1-4834-9711-4fe24a48727c",
+    "name": "Hard Rain Remake",
+    "description": "This mod enhances the rain effects in GTA San Andreas.",
+    "downloadUrl": "https://sharemods.com/x5ncmg17msvb/Hard_Rain_Remake.7z.html",
+    "installPath": "/download",
+    "instructions": [
+      {
+        "type": "copyTo",
+        "subType": "outside",
+        "fileNames": [
+          "*"
+        ],
+        "folderName": "Hard Rain Remake",
+        "folderNavigation": null,
+        "copyTo": [
+          "/modloader"
+        ]
+      }
+    ],
+    "status": "active",
+    "password": "",
+    "requires": [
+      "modloader"
+    ],
+    "versions": [
+      "Remake + fix"
+    ]
   }
 ]
