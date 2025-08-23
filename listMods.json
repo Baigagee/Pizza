@@ -1177,5 +1177,34 @@
     "versions": [
       "v3.0"
     ]
+  },
+  {
+    "id": "0b73ac5f-dcec-42d1-9206-4fb68f597177",
+    "name": "Friendly Triads And Los Aztecas Fix Mod",
+    "description": "Makes Triads and Los Aztecas friendly in GTA San Andreas after specific missions.",
+    "downloadUrl": "https://sharemods.com/oun4v2scn649/Friendly_Triads_And_Los_Aztecas_Fix.7z.html",
+    "installPath": "/download",
+    "instructions": [
+      {
+        "type": "copyTo",
+        "subType": "inside",
+        "fileNames": [
+          "*"
+        ],
+        "folderName": "Friendly Triads And Los Aztecas Fix",
+        "folderNavigation": null,
+        "copyTo": [
+          "modloader"
+        ]
+      }
+    ],
+    "status": "active",
+    "password": "",
+    "requires": [
+      "ModLoader"
+    ],
+    "versions": [
+      "v1.0"
+    ]
   }
 ]
