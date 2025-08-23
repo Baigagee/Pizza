@@ -903,57 +903,6 @@
     ]
   },
   {
-    "id": "05f0a633-2782-416c-94cc-80fd1629674a",
-    "name": "SA Meshsmooth Pack by Hysen",
-    "description": "A mod pack for GTA San Andreas featuring mesh smooth enhancements.",
-    "downloadUrl": "https://sharemods.com/q35smwusdauo/SA_-_Meshsmooth_Pack_by_Hysen.7z.html",
-    "installPath": "/download",
-    "instructions": [
-      {
-        "type": "copyTo",
-        "subType": "inside",
-        "fileNames": [
-          "Transparent Menu"
-        ],
-        "folderName": "/",
-        "folderNavigation": null,
-        "copyTo": [
-          "/modloader"
-        ]
-      },
-      {
-        "type": "copyTo",
-        "subType": "inside",
-        "fileNames": [
-          "*"
-        ],
-        "folderName": "(ipl fix)",
-        "folderNavigation": null,
-        "copyTo": [
-          "/modloader"
-        ]
-      },
-      {
-        "type": "copyTo",
-        "subType": "inside",
-        "fileNames": [
-          "*"
-        ],
-        "folderName": "(for Beta Mulholland Safehouse)",
-        "folderNavigation": null,
-        "copyTo": [
-          "/modloader"
-        ]
-      }
-    ],
-    "status": "active",
-    "password": "",
-    "requires": null,
-    "versions": [
-      "15/07/22"
-    ]
-  },
-  {
     "id": "32355fe6-dc9e-45fb-a84f-43e8cecf4b45",
     "name": "SA Meshsmooth Pack by Hysen",
     "description": "This mod smoothens meshes in various locations in GTA San Andreas.",
