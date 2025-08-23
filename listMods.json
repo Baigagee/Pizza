@@ -872,5 +872,34 @@
     "versions": [
       "Unofficial fix"
     ]
+  },
+  {
+    "id": "2040cdb6-f577-44b3-966a-5cd2e914f97b",
+    "name": "Mesh Smoothed Pack",
+    "description": "A pack of smoothed meshes for various locations and objects in GTA San Andreas.",
+    "downloadUrl": "https://sharemods.com/j81zikfmhj4t/Mesh_Smoothed_Pack.7z.html",
+    "installPath": "/download",
+    "instructions": [
+      {
+        "type": "copyTo",
+        "subType": "inside",
+        "fileNames": [
+          "Mesh Smoothed Pack"
+        ],
+        "folderName": "/",
+        "folderNavigation": null,
+        "copyTo": [
+          "modloader"
+        ]
+      }
+    ],
+    "status": "active",
+    "password": "",
+    "requires": [
+      "ModLoader"
+    ],
+    "versions": [
+      "07/03/22"
+    ]
   }
 ]
