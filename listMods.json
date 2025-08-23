@@ -762,5 +762,34 @@
     "versions": [
       "EffectsLoader adaptation by Mystertv"
     ]
+  },
+  {
+    "id": "d83c8e53-d185-4769-b286-c95c53f6657d",
+    "name": "Enterable Hidden Interiors",
+    "description": "Adds enterable hidden interiors mod for GTA San Andreas.",
+    "downloadUrl": "https://sharemods.com/iuerx95tkkup/Enterable_Hidden_Interiors.7z.html",
+    "installPath": "/download",
+    "instructions": [
+      {
+        "type": "copyTo",
+        "subType": "outside",
+        "fileNames": [
+          "*"
+        ],
+        "folderName": "Enterable Hidden Interiors",
+        "folderNavigation": null,
+        "copyTo": [
+          "modloader"
+        ]
+      }
+    ],
+    "status": "active",
+    "password": "",
+    "requires": [
+      "CLEO+"
+    ],
+    "versions": [
+      "v4.3"
+    ]
   }
 ]
