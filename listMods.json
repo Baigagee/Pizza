@@ -1036,5 +1036,35 @@
     "versions": [
       "v1.1"
     ]
+  },
+  {
+    "id": "29b55d45-583b-43e3-8454-753652231857",
+    "name": "Wind Farm Mod",
+    "description": "Adds a wind farm to GTA San Andreas using CLEO scripts.",
+    "downloadUrl": "https://sharemods.com/mctpg0y5r8hb/SA_-_Wind_Farm_Mod.7z.html",
+    "installPath": "/download",
+    "instructions": [
+      {
+        "type": "copyTo",
+        "subType": "inside",
+        "fileNames": [
+          "*"
+        ],
+        "folderName": "Wind Farm",
+        "folderNavigation": [],
+        "copyTo": [
+          "/modloader"
+        ]
+      }
+    ],
+    "status": "active",
+    "password": "",
+    "requires": [
+      "CLEO+",
+      "Open Limit Adjuster"
+    ],
+    "versions": [
+      "v1.0.2"
+    ]
   }
 ]
