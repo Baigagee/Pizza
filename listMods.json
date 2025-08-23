@@ -1095,5 +1095,38 @@
     "versions": [
       "v1.0.2"
     ]
+  },
+  {
+    "id": "55862dea-b371-4e47-86d1-afcbc40fe753",
+    "name": "Lighthouse & Pyramid Fix",
+    "description": "Fix for lighthouse and pyramid issues in GTA San Andreas.",
+    "downloadUrl": "https://sharemods.com/mqo9z5qd0u79/Lighthouse___Pyramid_Fix.7z.html",
+    "installPath": "/download",
+    "instructions": [
+      {
+        "type": "copyTo",
+        "subType": "inside",
+        "fileNames": [
+          "Lighthouse & Pyramid Fix (Junior_Djjr).cs"
+        ],
+        "folderName": ".",
+        "folderNavigation": [
+          "PC",
+          "Lighthouse & Pyramid Fix",
+          "CLEO"
+        ],
+        "copyTo": [
+          "/cleo"
+        ]
+      }
+    ],
+    "status": "active",
+    "password": "",
+    "requires": [
+      "CLEO"
+    ],
+    "versions": [
+      "v1.0.2"
+    ]
   }
 ]
