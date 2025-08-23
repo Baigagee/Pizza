@@ -1263,5 +1263,47 @@
     "versions": [
       "v1.0"
     ]
+  },
+  {
+    "id": "b740b2a3-cf3e-4d5b-a9dd-59376075c4ad",
+    "name": "Thunder Mod",
+    "description": "Adds thunder effects to GTA San Andreas.",
+    "downloadUrl": "https://sharemods.com/bw24kx8xr9xa/Thunder_Mod.7z.html",
+    "installPath": "/download",
+    "instructions": [
+      {
+        "type": "copyTo",
+        "subType": "inside",
+        "fileNames": [
+          "models"
+        ],
+        "folderName": ".",
+        "folderNavigation": null,
+        "copyTo": [
+          "/"
+        ]
+      },
+      {
+        "type": "copyTo",
+        "subType": "inside",
+        "fileNames": [
+          "modloader"
+        ],
+        "folderName": ".",
+        "folderNavigation": null,
+        "copyTo": [
+          "/"
+        ]
+      }
+    ],
+    "status": "active",
+    "password": "",
+    "requires": [
+      "CLEO+",
+      "Effects Loader"
+    ],
+    "versions": [
+      "2022"
+    ]
   }
 ]
