@@ -1206,5 +1206,32 @@
     "versions": [
       "v1.0"
     ]
+  },
+  {
+    "id": "8aa36099-667a-4f86-b332-d20e85b20f43",
+    "name": "Rusty Brown's Ring Donuts Overhaul",
+    "description": "Enhances the donut shops in GTA San Andreas with additional features.",
+    "downloadUrl": "https://sharemods.com/qe5z5tjtypi7/Rusty_Browns_Ring_Donuts_Overhaul.zip.html",
+    "installPath": "/download",
+    "instructions": [
+      {
+        "type": "copyTo",
+        "subType": "outside",
+        "fileNames": [
+          "*"
+        ],
+        "folderName": "Rusty Brown's Ring Donuts Overhaul",
+        "folderNavigation": null,
+        "copyTo": [
+          "/modloader"
+        ]
+      }
+    ],
+    "status": "active",
+    "password": "",
+    "requires": [
+      "Modloader"
+    ],
+    "versions": null
   }
 ]
