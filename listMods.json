@@ -1580,5 +1580,34 @@
     "versions": [
       "v2.2"
     ]
+  },
+  {
+    "id": "20bdcd0b-6773-431f-9ff5-ccf101ce5dcd",
+    "name": "Death In Car",
+    "description": "Adds a feature where players can experience character death inside a vehicle.",
+    "downloadUrl": "https://sharemods.com/2289owg3jx0m/Death_In_Car.7z.html",
+    "installPath": "/download",
+    "instructions": [
+      {
+        "type": "copyTo",
+        "subType": "outside",
+        "fileNames": [
+          "Death In Car"
+        ],
+        "folderName": ".",
+        "folderNavigation": null,
+        "copyTo": [
+          "/modloader"
+        ]
+      }
+    ],
+    "status": "active",
+    "password": "",
+    "requires": [
+      "CLEO+"
+    ],
+    "versions": [
+      "Remake Fix 3"
+    ]
   }
 ]
