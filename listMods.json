@@ -512,5 +512,53 @@
     "versions": [
       "24/12/22"
     ]
+  },
+  {
+    "id": "8ae291d6-e086-4afd-bc24-fc0ee0bfe9f9",
+    "name": "Illuminated Vinewood Sign",
+    "description": "Enhances the Vinewood sign with illumination effects.",
+    "downloadUrl": "https://sharemods.com/uelr5g9m1eff/Illuminated_Vinewood_Sign.7z.html",
+    "installPath": "/download",
+    "instructions": [
+      {
+        "type": "copyTo",
+        "subType": "inside",
+        "fileNames": [
+          "Illuminated Vinewood Sign.cs"
+        ],
+        "folderName": "/",
+        "folderNavigation": [
+          "PC",
+          "Illuminated Vinewood Sign",
+          "cleo"
+        ],
+        "copyTo": [
+          "/cleo"
+        ]
+      },
+      {
+        "type": "copyTo",
+        "subType": "inside",
+        "fileNames": [
+          "Loader.txt",
+          "maps"
+        ],
+        "folderName": "/",
+        "folderNavigation": [
+          "PC",
+          "Illuminated Vinewood Sign",
+          "data"
+        ],
+        "copyTo": [
+          "/data"
+        ]
+      }
+    ],
+    "status": "complete",
+    "password": "",
+    "requires": null,
+    "versions": [
+      "v1.1"
+    ]
   }
 ]
