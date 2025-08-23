@@ -689,5 +689,47 @@
     "versions": [
       "v0.8"
     ]
+  },
+  {
+    "id": "d4673313-116e-4898-a6f9-e77c453a49f2",
+    "name": "Shoreline Waves",
+    "description": "Enhances the water effects in GTA San Andreas.",
+    "downloadUrl": "https://sharemods.com/xr8rxb6vobfs/Shoreline_Waves.7z.html",
+    "installPath": "/download",
+    "instructions": [
+      {
+        "type": "copyTo",
+        "subType": "inside",
+        "fileNames": [
+          "Shoreline Waves"
+        ],
+        "folderName": "/",
+        "folderNavigation": null,
+        "copyTo": [
+          "modloader"
+        ]
+      },
+      {
+        "type": "copyTo",
+        "subType": "inside",
+        "fileNames": [
+          "models"
+        ],
+        "folderName": "/",
+        "folderNavigation": null,
+        "copyTo": [
+          "/"
+        ]
+      }
+    ],
+    "status": "active",
+    "password": "",
+    "requires": [
+      "Modloader",
+      "Effects Loader"
+    ],
+    "versions": [
+      "v1.0"
+    ]
   }
 ]
