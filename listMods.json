@@ -1784,35 +1784,6 @@
     "status": "false"
   },
   {
-    "id": "b8914cdb-1f92-4cdf-bcde-6d7fcea715ad",
-    "name": "Rhino Animated",
-    "description": "An animated Rhino tank for GTA San Andreas with textures and material improvement.",
-    "downloadUrl": "https://sharemods.com/ebrx0xurrrq6/Rhino_Animated.7z.html",
-    "installPath": "/download",
-    "instructions": [
-      {
-        "type": "copyTo",
-        "subType": "outside",
-        "fileNames": [
-          "*"
-        ],
-        "folderName": "Rhino Animated",
-        "folderNavigation": null,
-        "copyTo": [
-          "/modloader"
-        ]
-      }
-    ],
-    "status": "active",
-    "password": "",
-    "requires": [
-      "Modloader"
-    ],
-    "versions": [
-      "Unofficial fix"
-    ]
-  },
-  {
     "id": "ecbd036f-63b6-451f-b3a2-875b3c336495",
     "name": "Rhino Animated",
     "description": "An animated Rhino tank mod for GTA San Andreas.",
