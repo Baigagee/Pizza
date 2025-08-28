@@ -2208,5 +2208,32 @@
     "versions": [
       "1.13"
     ]
+  },
+  {
+    "id": "9b160597-1f62-46b4-8f98-3dfd7da240fa",
+    "name": "Proper Player Retex",
+    "description": "Improves player textures with a 1024px resolution.",
+    "downloadUrl": "https://sharemods.com/wyzhci8u2kg1/Proper_Player_Retex.7z.html",
+    "installPath": "/download",
+    "instructions": [
+      {
+        "type": "copyTo",
+        "subType": "inside",
+        "fileNames": [
+          "*"
+        ],
+        "folderName": "Proper Player Retex",
+        "folderNavigation": null,
+        "copyTo": [
+          "/modloader"
+        ]
+      }
+    ],
+    "status": "active",
+    "password": "",
+    "requires": null,
+    "versions": [
+      "v3.0"
+    ]
   }
 ]
