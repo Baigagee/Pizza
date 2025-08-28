@@ -2129,5 +2129,32 @@
     "versions": [
       "18/01/14"
     ]
+  },
+  {
+    "id": "517b7b5e-310e-4552-8cb8-1b0fed90f768",
+    "name": "Sky Gradient Fix",
+    "description": "A mod that adjusts the sky gradient for GTA San Andreas.",
+    "downloadUrl": "https://sharemods.com/mo5cip3dlyp6/Sky_Gradient_Fix.7z.html",
+    "installPath": "/download",
+    "instructions": [
+      {
+        "type": "copyTo",
+        "subType": "inside",
+        "fileNames": [
+          "SkyGrad"
+        ],
+        "folderName": "/",
+        "folderNavigation": null,
+        "copyTo": [
+          "modloader"
+        ]
+      }
+    ],
+    "status": "active",
+    "password": "",
+    "requires": [
+      "Modloader"
+    ],
+    "versions": null
   }
 ]
