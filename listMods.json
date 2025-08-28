@@ -2053,5 +2053,36 @@
       }
     ],
     "status": "Disabled"
+  },
+  {
+    "id": "6dc027de-b3cd-485c-90d8-c75658a5d14a",
+    "name": "Real Skybox",
+    "description": "Enhanced skybox mod for GTA San Andreas with customizable settings.",
+    "downloadUrl": "https://sharemods.com/asxvzdjkpa6m/Real_Skybox.7z.html",
+    "installPath": "/download",
+    "instructions": [
+      {
+        "type": "copyTo",
+        "subType": "inside",
+        "fileNames": [
+          "*"
+        ],
+        "folderName": "Real Skybox",
+        "folderNavigation": [
+          "EN"
+        ],
+        "copyTo": [
+          "/modloader"
+        ]
+      }
+    ],
+    "status": "active",
+    "password": "",
+    "requires": [
+      "Modloader"
+    ],
+    "versions": [
+      "v1.3.4"
+    ]
   }
 ]
