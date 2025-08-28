@@ -2571,5 +2571,35 @@
     "versions": [
       "v2.0"
     ]
+  },
+  {
+    "id": "3ee7f324-46fd-44c7-acb5-7396da03d297",
+    "name": "Melee Hit Sound",
+    "description": "A mod for GTA San Andreas that changes melee hit sounds.",
+    "downloadUrl": "https://sharemods.com/0wr8r2nr9wp1/Melee_Hit_Sound.7z.html",
+    "installPath": "/download",
+    "instructions": [
+      {
+        "type": "copyTo",
+        "subType": "inside",
+        "fileNames": [
+          "*"
+        ],
+        "folderName": "Melee Hit Sound",
+        "folderNavigation": null,
+        "copyTo": [
+          "modloader"
+        ]
+      }
+    ],
+    "status": "active",
+    "password": "",
+    "requires": [
+      "Modloader",
+      "CLEO+"
+    ],
+    "versions": [
+      "v1.1"
+    ]
   }
 ]
