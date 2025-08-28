@@ -1839,5 +1839,34 @@
     "versions": [
       "v1.0.1"
     ]
+  },
+  {
+    "id": "34f65214-2b5a-4a0f-85a8-d6c556d98a80",
+    "name": "Air Brake Sound Mod",
+    "description": "An air brake sound mod for GTA San Andreas.",
+    "downloadUrl": "https://sharemods.com/flj4c533r7cp/Air_Brake_Sound.7z.html",
+    "installPath": "/download",
+    "instructions": [
+      {
+        "type": "copyTo",
+        "subType": "inside",
+        "fileNames": [
+          "*"
+        ],
+        "folderName": "Air Brake Sound",
+        "folderNavigation": null,
+        "copyTo": [
+          "/modloader"
+        ]
+      }
+    ],
+    "status": "active",
+    "password": "null",
+    "requires": [
+      "CLEO+"
+    ],
+    "versions": [
+      "v3.0"
+    ]
   }
 ]
