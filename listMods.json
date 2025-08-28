@@ -3099,5 +3099,34 @@
     "versions": [
       "Unofficial fix 2 by Junior_Djjr"
     ]
+  },
+  {
+    "id": "67578165-9446-4eba-8928-75c6535476c7",
+    "name": "Graffiti Anywhere Mod",
+    "description": "Install the Graffiti Anywhere mod for GTA San Andreas to allow graffiti painting anywhere in the game.",
+    "downloadUrl": "https://sharemods.com/7n8x1ylbueh4/Graffiti_Anywhere.7z.html",
+    "installPath": "/download",
+    "instructions": [
+      {
+        "type": "copyTo",
+        "subType": "inside",
+        "fileNames": [
+          "*"
+        ],
+        "folderName": "Graffiti Anywhere",
+        "folderNavigation": null,
+        "copyTo": [
+          "modloader"
+        ]
+      }
+    ],
+    "status": "active",
+    "password": "",
+    "requires": [
+      "cleo+"
+    ],
+    "versions": [
+      "v1.1"
+    ]
   }
 ]
