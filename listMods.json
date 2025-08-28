@@ -2952,7 +2952,7 @@
   },
   {
     "id": "4eaeeaa8-7034-4437-843c-9af1ad6c30d4",
-    "name": "Mobile Font Fixed PT-BR",
+    "name": "Mobile Font Fixed",
     "description": "A mod for GTA San Andreas to fix the mobile font issues.",
     "downloadUrl": "https://sharemods.com/5pr85dv5pg9q/Mobile_Font_Fixed_-_PT-BR.7z.html",
     "installPath": "/download",
@@ -3000,13 +3000,6 @@
         ]
       }
     ],
-    "status": "active",
-    "password": "",
-    "requires": [
-      "Modloader"
-    ],
-    "versions": [
-      "Fixed v1.0.1"
-    ]
+    "status": "Disabled"
   }
 ]
