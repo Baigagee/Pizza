@@ -2601,5 +2601,35 @@
     "versions": [
       "v1.1"
     ]
+  },
+  {
+    "id": "7b3d3689-24e2-4388-b8bc-89c9ef8c7b59",
+    "name": "SA - Emmet But Useful",
+    "description": "Makes Emmet more useful by adding new weapons.",
+    "downloadUrl": "https://sharemods.com/xdk79p8a2ba2/SA_-_Emmet_But_Useful.7z.html",
+    "installPath": "/download",
+    "instructions": [
+      {
+        "type": "copyTo",
+        "subType": "outside",
+        "fileNames": [
+          "Emmet But Useful",
+          "Weapon Names"
+        ],
+        "folderName": ".",
+        "folderNavigation": [],
+        "copyTo": [
+          "/ModLoader"
+        ]
+      }
+    ],
+    "status": "active",
+    "password": "",
+    "requires": [
+      "CLEO+"
+    ],
+    "versions": [
+      "v1.1"
+    ]
   }
 ]
