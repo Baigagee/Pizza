@@ -2363,5 +2363,34 @@
     "versions": [
       "v3.0 FIXED"
     ]
+  },
+  {
+    "id": "9c8f30b1-f34f-41d8-9f1e-a953ce76394d",
+    "name": "Manual Driveby Remake",
+    "description": "Mod to enhance drive-by shooting in GTA San Andreas.",
+    "downloadUrl": "https://sharemods.com/svuvzea8cpa7/Manual_Driveby_Remake.7z.html",
+    "installPath": "/download",
+    "instructions": [
+      {
+        "type": "copyTo",
+        "subType": "inside",
+        "fileNames": [
+          "*"
+        ],
+        "folderName": "Manual DriveBy Remake",
+        "folderNavigation": null,
+        "copyTo": [
+          "modloader"
+        ]
+      }
+    ],
+    "status": "active",
+    "password": "",
+    "requires": [
+      "CLEO+"
+    ],
+    "versions": [
+      "Unofficial fix 5"
+    ]
   }
 ]
