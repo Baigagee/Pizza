@@ -2540,5 +2540,36 @@
     "versions": [
       "v1.2.2"
     ]
+  },
+  {
+    "id": "362829aa-b93f-4e6a-8002-56047dcb0f94",
+    "name": "Throw Rotate Fix",
+    "description": "Fix for throw and rotate mechanics in GTA San Andreas.",
+    "downloadUrl": "https://sharemods.com/4bgzyt2gtpj2/SA_-_Throw_Rotate_Fix.7z.html",
+    "installPath": "/download",
+    "instructions": [
+      {
+        "type": "copyTo",
+        "subType": "inside",
+        "fileNames": [
+          "Throw Rotate Fix"
+        ],
+        "folderName": "/",
+        "folderNavigation": [
+          "Throw Rotate Fix"
+        ],
+        "copyTo": [
+          "modloader"
+        ]
+      }
+    ],
+    "status": "active",
+    "password": "",
+    "requires": [
+      "CLEO+"
+    ],
+    "versions": [
+      "v2.0"
+    ]
   }
 ]
