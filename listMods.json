@@ -2235,5 +2235,49 @@
     "versions": [
       "v3.0"
     ]
+  },
+  {
+    "id": "f314c290-1bd1-4e35-bc2f-51f273fe3afc",
+    "name": "Hairstyles and Beards",
+    "description": "Mod for adding various hairstyles and beard options to GTA San Andreas.",
+    "downloadUrl": "https://sharemods.com/drr20mtaslro/Hairstyles_and_Beards.7z.html",
+    "installPath": "/download",
+    "instructions": [
+      {
+        "type": "copyTo",
+        "subType": "inside",
+        "fileNames": [
+          "*"
+        ],
+        "folderName": "Hairstyles & Beards",
+        "folderNavigation": null,
+        "copyTo": [
+          "/modloader/"
+        ]
+      },
+      {
+        "type": "copyTo",
+        "subType": "inside",
+        "fileNames": [
+          "hairstyles and beards.fxt"
+        ],
+        "folderName": ".",
+        "folderNavigation": [
+          "(translations)",
+          "(PT-BR)"
+        ],
+        "copyTo": [
+          "/modloader/Hairstyles & Beards/CLEO/CLEO_TEXT"
+        ]
+      }
+    ],
+    "status": "complete",
+    "password": "",
+    "requires": [
+      "Modloader"
+    ],
+    "versions": [
+      "v1.0"
+    ]
   }
 ]
