@@ -2180,5 +2180,33 @@
       }
     ],
     "status": "Disabled"
+  },
+  {
+    "id": "fb9653eb-13c4-49d8-86e1-3eaafe92f604",
+    "name": "Windowed Mode",
+    "description": "A mod to allow windowed mode in GTA San Andreas, Vice City, and III.",
+    "downloadUrl": "https://sharemods.com/5jczy1gtdktw/SA_VC_III_-_Windowed_Mode.zip.html",
+    "installPath": "/download",
+    "instructions": [
+      {
+        "type": "copyTo",
+        "subType": "inside",
+        "fileNames": [
+          "III.VC.SA.WindowedMode.asi",
+          "III.VC.SA.WindowedMode.ini"
+        ],
+        "folderName": "Windowed Mode",
+        "folderNavigation": null,
+        "copyTo": [
+          "/modloader"
+        ]
+      }
+    ],
+    "status": "active",
+    "password": "",
+    "requires": null,
+    "versions": [
+      "1.13"
+    ]
   }
 ]
