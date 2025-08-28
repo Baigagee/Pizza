@@ -3407,5 +3407,34 @@
     "versions": [
       "v1.0"
     ]
+  },
+  {
+    "id": "49ba741f-ea9e-4446-a0f1-41de53cd84fb",
+    "name": "Cold Steam",
+    "description": "Cold Steam effect mod for GTA San Andreas.",
+    "downloadUrl": "https://sharemods.com/4zaruqomd6z3/Cold_Steam.7z.html",
+    "installPath": "/download",
+    "instructions": [
+      {
+        "type": "copyTo",
+        "subType": "inside",
+        "fileNames": [
+          "Cold Steam"
+        ],
+        "folderName": "Cold Steam",
+        "folderNavigation": null,
+        "copyTo": [
+          "/modloader"
+        ]
+      }
+    ],
+    "status": "active",
+    "password": "null",
+    "requires": [
+      "Modloader"
+    ],
+    "versions": [
+      "v1.0"
+    ]
   }
 ]
