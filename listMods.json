@@ -2392,5 +2392,34 @@
     "versions": [
       "Unofficial fix 5"
     ]
+  },
+  {
+    "id": "8a168427-9e79-4b05-88df-9ccea1cc3d85",
+    "name": "Ragdoll Bullet Physics",
+    "description": "Enhances GTA San Andreas with realistic ragdoll bullet physics.",
+    "downloadUrl": "https://sharemods.com/80d906jxqcjh/Ragdoll_Bullet_Physics.7z.html",
+    "installPath": "/download",
+    "instructions": [
+      {
+        "type": "copyTo",
+        "subType": "inside",
+        "fileNames": [
+          "Ragdoll Bullet Physics"
+        ],
+        "folderName": "modloader",
+        "folderNavigation": null,
+        "copyTo": [
+          "/modloader"
+        ]
+      }
+    ],
+    "status": "complete",
+    "password": "",
+    "requires": [
+      "modloader"
+    ],
+    "versions": [
+      "Final 20/03/17"
+    ]
   }
 ]
