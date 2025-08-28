@@ -2833,5 +2833,34 @@
     "versions": [
       "v3.52 (ASI)"
     ]
+  },
+  {
+    "id": "112c4e05-c416-49e0-8911-db3baa10fed4",
+    "name": "Handbrake Mod",
+    "description": "A mod for GTA San Andreas that adds custom handbrake sounds and functionality.",
+    "downloadUrl": "https://sharemods.com/ry8wc7z7bnaf/Handbrake_Mod.7z.html",
+    "installPath": "/download",
+    "instructions": [
+      {
+        "type": "copyTo",
+        "subType": "inside",
+        "fileNames": [
+          "*"
+        ],
+        "folderName": "Handbrake Mod",
+        "folderNavigation": [],
+        "copyTo": [
+          "/modloader"
+        ]
+      }
+    ],
+    "status": "released",
+    "password": "",
+    "requires": [
+      "modloader"
+    ],
+    "versions": [
+      "v1.0.1"
+    ]
   }
 ]
