@@ -2330,5 +2330,38 @@
       }
     ],
     "status": "Disabled"
+  },
+  {
+    "id": "4cfcc723-d684-46c1-a32d-fdc5bf937e3f",
+    "name": "First Person Mod",
+    "description": "First Person Mod for GTA San Andreas, version 3.0 FIXED.",
+    "downloadUrl": "https://sharemods.com/mm0hgfxwexv1/First_Person_Mod_fixed.7z.html",
+    "installPath": "/download",
+    "instructions": [
+      {
+        "type": "copyTo",
+        "subType": "inside",
+        "fileNames": [
+          "data",
+          "FirstPerson.cfg",
+          "FirstPerson.sp",
+          "FirstPersonModFix.asi",
+          "GUI.fp",
+          "Hooks.asi",
+          "models"
+        ],
+        "folderName": "/",
+        "folderNavigation": null,
+        "copyTo": [
+          "/"
+        ]
+      }
+    ],
+    "status": "active",
+    "password": "",
+    "requires": null,
+    "versions": [
+      "v3.0 FIXED"
+    ]
   }
 ]
