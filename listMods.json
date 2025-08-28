@@ -2920,5 +2920,34 @@
     "versions": [
       "20/07/21"
     ]
+  },
+  {
+    "id": "ca244bb9-b093-4dfe-9501-98a15079a01d",
+    "name": "Loadscreens 4K Definitive",
+    "description": "4K load screens for GTA San Andreas.",
+    "downloadUrl": "https://sharemods.com/5gz3lgwdq8y9/Loadscreens_4K_Definitive.7z.html",
+    "installPath": "/download",
+    "instructions": [
+      {
+        "type": "copyTo",
+        "subType": "inside",
+        "fileNames": [
+          "models"
+        ],
+        "folderName": "Loadscreens 4K Definitive",
+        "folderNavigation": null,
+        "copyTo": [
+          "/modloader/loadscreens_4k_definitive"
+        ]
+      }
+    ],
+    "status": "active",
+    "password": "",
+    "requires": [
+      "Modloader"
+    ],
+    "versions": [
+      "v1.1"
+    ]
   }
 ]
