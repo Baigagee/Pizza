@@ -3293,5 +3293,32 @@
     "versions": [
       "v1.0"
     ]
+  },
+  {
+    "id": "85559a5e-39e8-432b-a5c1-7bb15f2efe60",
+    "name": "Body Stats Fix Mod",
+    "description": "Fixes body stats in interiors for GTA San Andreas using CLEO script.",
+    "downloadUrl": "https://sharemods.com/a3tl94dgrzrb/Body_Stats_Fix.7z.html",
+    "installPath": "/download",
+    "instructions": [
+      {
+        "type": "copyTo",
+        "subType": "inside",
+        "fileNames": [
+          "cleo"
+        ],
+        "folderName": "Body Stats Fix",
+        "folderNavigation": [],
+        "copyTo": [
+          "/modloader"
+        ]
+      }
+    ],
+    "status": "active",
+    "password": "",
+    "requires": null,
+    "versions": [
+      "11/07/22"
+    ]
   }
 ]
