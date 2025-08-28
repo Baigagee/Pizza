@@ -3152,5 +3152,34 @@
     "versions": [
       "Unofficial fix 3"
     ]
+  },
+  {
+    "id": "33c207e0-73d2-4f61-b4a7-b1122bd1b25c",
+    "name": "Faster Clothes Change",
+    "description": "Mod to change clothes faster in GTA San Andreas.",
+    "downloadUrl": "https://sharemods.com/tidcjcduvicf/Faster_Clothes_Change.7z.html",
+    "installPath": "/download",
+    "instructions": [
+      {
+        "type": "copyTo",
+        "subType": "inside",
+        "fileNames": [
+          "*"
+        ],
+        "folderName": "/Faster Clothes Change",
+        "folderNavigation": null,
+        "copyTo": [
+          "/modloader"
+        ]
+      }
+    ],
+    "status": "active",
+    "password": "",
+    "requires": [
+      "Modloader"
+    ],
+    "versions": [
+      "v1.0"
+    ]
   }
 ]
