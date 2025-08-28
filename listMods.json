@@ -2654,5 +2654,32 @@
     "versions": [
       "v1.1"
     ]
+  },
+  {
+    "id": "70578a11-8197-4717-9a2e-b58b78cc9498",
+    "name": "Give Money to Beggars",
+    "description": "Allows you to donate money to beggars in GTA San Andreas.",
+    "downloadUrl": "https://sharemods.com/lud4h612ehsl/Give_Money_to_Beggars.7z.html",
+    "installPath": "/download",
+    "instructions": [
+      {
+        "type": "copyTo",
+        "subType": "outside",
+        "fileNames": [
+          "Give Money to Beggars"
+        ],
+        "folderName": "Give_Money_to_Beggars",
+        "folderNavigation": null,
+        "copyTo": [
+          "/modloader"
+        ]
+      }
+    ],
+    "status": "active",
+    "password": "",
+    "requires": null,
+    "versions": [
+      "v1.0"
+    ]
   }
 ]
