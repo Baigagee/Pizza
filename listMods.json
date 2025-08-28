@@ -3181,5 +3181,32 @@
     "versions": [
       "v1.0"
     ]
+  },
+  {
+    "id": "6844c54a-00ab-452f-9414-b0ed2bf339bb",
+    "name": "Interaction Menu Mod",
+    "description": "Adds an interaction menu with customizable controls.",
+    "downloadUrl": "https://sharemods.com/e1uvk8sz0ygo/Interaction_Menu.7z.html",
+    "installPath": "/download",
+    "instructions": [
+      {
+        "type": "copyTo",
+        "subType": "inside",
+        "fileNames": [
+          "*"
+        ],
+        "folderName": "Interaction Menu",
+        "folderNavigation": [],
+        "copyTo": [
+          "modloader"
+        ]
+      }
+    ],
+    "status": "success",
+    "password": "",
+    "requires": [
+      "Modloader"
+    ],
+    "versions": null
   }
 ]
