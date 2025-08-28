@@ -3320,5 +3320,34 @@
     "versions": [
       "11/07/22"
     ]
+  },
+  {
+    "id": "0ee8aa28-fd05-4ae4-860c-19050265323b",
+    "name": "Restore Stealth Voices",
+    "description": "Restores stealth voices in GTA San Andreas.",
+    "downloadUrl": "https://sharemods.com/8vxthk6ahg68/Restore_Stealth_Voices.7z.html",
+    "installPath": "/download",
+    "instructions": [
+      {
+        "type": "copyTo",
+        "subType": "inside",
+        "fileNames": [
+          "Restore Stealth Voices"
+        ],
+        "folderName": "Restore Stealth Voices",
+        "folderNavigation": null,
+        "copyTo": [
+          "modloader"
+        ]
+      }
+    ],
+    "status": "active",
+    "password": "",
+    "requires": [
+      "Modloader"
+    ],
+    "versions": [
+      "v1.0"
+    ]
   }
 ]
