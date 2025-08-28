@@ -3121,5 +3121,36 @@
       }
     ],
     "status": "Disabled"
+  },
+  {
+    "id": "af9797c1-0463-43b0-a3be-629d864842e7",
+    "name": "Taxi Ride Mod",
+    "description": "Adds a new taxi ride feature with commands for GTA San Andreas.",
+    "downloadUrl": "https://sharemods.com/9xmpg5kfxakq/Taxi_Ride.7z.html",
+    "installPath": "/download",
+    "instructions": [
+      {
+        "type": "copyTo",
+        "subType": "inside",
+        "fileNames": [
+          "*"
+        ],
+        "folderName": "Taxi Ride",
+        "folderNavigation": [
+          "EN"
+        ],
+        "copyTo": [
+          "/modloader"
+        ]
+      }
+    ],
+    "status": "active",
+    "password": "",
+    "requires": [
+      "Modloader"
+    ],
+    "versions": [
+      "Unofficial fix 3"
+    ]
   }
 ]
