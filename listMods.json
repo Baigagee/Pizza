@@ -3001,5 +3001,47 @@
       }
     ],
     "status": "Disabled"
+  },
+  {
+    "id": "fd49bc38-a7a8-42ad-b081-f0a540701d8e",
+    "name": "Hangout with Story Characters",
+    "description": "Mod for GTA San Andreas allowing interactions with story characters.",
+    "downloadUrl": "https://sharemods.com/zprw8r1npn0f/Hangout_with_Story_Characters.7z.html",
+    "installPath": "/download",
+    "instructions": [
+      {
+        "type": "copyTo",
+        "subType": "inside",
+        "fileNames": [
+          "*"
+        ],
+        "folderName": "cleo",
+        "folderNavigation": null,
+        "copyTo": [
+          "/cleo"
+        ]
+      },
+      {
+        "type": "copyTo",
+        "subType": "inside",
+        "fileNames": [
+          "*"
+        ],
+        "folderName": "modloader",
+        "folderNavigation": null,
+        "copyTo": [
+          "/modloader"
+        ]
+      }
+    ],
+    "status": "final",
+    "password": "",
+    "requires": [
+      "CLEO 4",
+      "Modloader"
+    ],
+    "versions": [
+      "v2"
+    ]
   }
 ]
