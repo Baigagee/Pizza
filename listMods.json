@@ -2421,5 +2421,49 @@
     "versions": [
       "Final 20/03/17"
     ]
+  },
+  {
+    "id": "4ef276e6-5f27-47d0-ba7a-d84eea954187",
+    "name": "Improved Default Armoury",
+    "description": "A mod to improve the default weapon models in GTA San Andreas.",
+    "downloadUrl": "https://sharemods.com/j7nwrbkgywll/Improved_Default_Armoury.7z.html",
+    "installPath": "/download",
+    "instructions": [
+      {
+        "type": "copyTo",
+        "subType": "outside",
+        "fileNames": [
+          "*"
+        ],
+        "folderName": "Improved Default Armoury",
+        "folderNavigation": null,
+        "copyTo": [
+          "/modloader"
+        ]
+      },
+      {
+        "type": "copyTo",
+        "subType": "inside",
+        "fileNames": [
+          "weapon.dat"
+        ],
+        "folderName": "/data",
+        "folderNavigation": [
+          "Improved Default Armoury",
+          "data"
+        ],
+        "copyTo": [
+          "/modloader/improved default armoury/data"
+        ]
+      }
+    ],
+    "status": "active",
+    "password": "",
+    "requires": [
+      "Modloader"
+    ],
+    "versions": [
+      "13/10/20"
+    ]
   }
 ]
