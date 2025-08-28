@@ -1943,5 +1943,36 @@
       }
     ],
     "status": "Disabled"
+  },
+  {
+    "id": "51708a73-32e3-4ab1-8925-3c802cea2f55",
+    "name": "SFDP Heli Fix",
+    "description": "A mod to fix helicopter issues in GTA San Andreas.",
+    "downloadUrl": "https://sharemods.com/s4l7mw43heuk/SFDP_Heli_Fix.7z.html",
+    "installPath": "/download",
+    "instructions": [
+      {
+        "type": "copyTo",
+        "subType": "inside",
+        "fileNames": [
+          "SFDP Heli Fix (Junior_Djjr).cs"
+        ],
+        "folderName": "CLEO",
+        "folderNavigation": [
+          "> CLEO"
+        ],
+        "copyTo": [
+          "/CLEO"
+        ]
+      }
+    ],
+    "status": "active",
+    "password": "",
+    "requires": [
+      "CLEO"
+    ],
+    "versions": [
+      "v1.0"
+    ]
   }
 ]
