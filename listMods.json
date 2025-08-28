@@ -2732,5 +2732,55 @@
     "versions": [
       "Beta"
     ]
+  },
+  {
+    "id": "358a2183-75fa-4bf9-b555-d98e02f3e27a",
+    "name": "Car Wash Mod",
+    "description": "A mod for GTA San Andreas that adds car wash locations.",
+    "downloadUrl": "https://sharemods.com/m4rshrky14dw/Car_Wash.7z.html",
+    "installPath": "/download",
+    "instructions": [
+      {
+        "type": "copyTo",
+        "subType": "inside",
+        "fileNames": [
+          "Car Wash (Junior_Djjr).cs",
+          "Car Wash.ini"
+        ],
+        "folderName": "CLEO",
+        "folderNavigation": [
+          "Car Wash",
+          "CLEO"
+        ],
+        "copyTo": [
+          "modloader/car wash/cleo"
+        ]
+      },
+      {
+        "type": "copyTo",
+        "subType": "inside",
+        "fileNames": [
+          "Car Wash.fxt"
+        ],
+        "folderName": ".",
+        "folderNavigation": [
+          "Car Wash",
+          "CLEO",
+          "cleo_text"
+        ],
+        "copyTo": [
+          "modloader/car wash/cleo/cleo_text"
+        ]
+      }
+    ],
+    "status": "active",
+    "password": "",
+    "requires": [
+      "Modloader",
+      "CLEO+"
+    ],
+    "versions": [
+      "v2.2"
+    ]
   }
 ]
