@@ -2803,5 +2803,35 @@
     "versions": [
       "v3.2"
     ]
+  },
+  {
+    "id": "4ef7af72-be66-4e8c-9d51-2e169bbade1f",
+    "name": "Cheat Menu by Grinch",
+    "description": "Adds a cheat menu to GTA San Andreas with customizable options.",
+    "downloadUrl": "https://sharemods.com/iy139fyfuyet/Cheat_Menu_by_Grinch_.zip.html",
+    "installPath": "/download",
+    "instructions": [
+      {
+        "type": "copyTo",
+        "subType": "inside",
+        "fileNames": [
+          "*"
+        ],
+        "folderName": "Cheat Menu by Grinch_",
+        "folderNavigation": null,
+        "copyTo": [
+          "/modloader"
+        ]
+      }
+    ],
+    "status": "active",
+    "password": "",
+    "requires": [
+      "DirectX End-User Runtime",
+      "Visual C++ 2019 Redistributable"
+    ],
+    "versions": [
+      "v3.52 (ASI)"
+    ]
   }
 ]
