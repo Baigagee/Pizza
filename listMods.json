@@ -2308,5 +2308,34 @@
     "versions": [
       "2021"
     ]
+  },
+  {
+    "id": "e0b62ba6-8d3c-4f23-94de-86150ed9fd5a",
+    "name": "Hood Up (colocar capuz)",
+    "description": "A mod for GTA San Andreas allowing CJ to wear a hood.",
+    "downloadUrl": "https://sharemods.com/k2dvdmzt17x3/Hood_Up___40_colocar_capuz__41_.7z.html",
+    "installPath": "/download",
+    "instructions": [
+      {
+        "type": "copyTo",
+        "subType": "inside",
+        "fileNames": [
+          "*"
+        ],
+        "folderName": "Hood Up (colocar capuz)",
+        "folderNavigation": null,
+        "copyTo": [
+          "modloader"
+        ]
+      }
+    ],
+    "status": "complete",
+    "password": "",
+    "requires": [
+      "Modloader"
+    ],
+    "versions": [
+      "1.1"
+    ]
   }
 ]
