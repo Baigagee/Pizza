@@ -1809,5 +1809,35 @@
       "Modloader"
     ],
     "versions": null
+  },
+  {
+    "id": "33e26f7c-d83d-43a2-b27a-7b0e1d0c42cc",
+    "name": "Attach Vehicle",
+    "description": "Attach vehicles to your vehicle in GTA San Andreas using CLEO+ scripts.",
+    "downloadUrl": "https://sharemods.com/wii6vnvx9rt0/Attach_Vehicle.7z.html",
+    "installPath": "/download",
+    "instructions": [
+      {
+        "type": "copyTo",
+        "subType": "inside",
+        "fileNames": [
+          "Attach Vehicle"
+        ],
+        "folderName": "EN",
+        "folderNavigation": null,
+        "copyTo": [
+          "modloader"
+        ]
+      }
+    ],
+    "status": "active",
+    "password": "",
+    "requires": [
+      "Modloader",
+      "CLEO+"
+    ],
+    "versions": [
+      "v1.0.1"
+    ]
   }
 ]
