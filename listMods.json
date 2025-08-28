@@ -2511,5 +2511,34 @@
       }
     ],
     "status": "Disabled"
+  },
+  {
+    "id": "2e541e70-9070-4254-a18f-13a94f8b496c",
+    "name": "Open Door Anim",
+    "description": "Open Door Animation mod for GTA San Andreas.",
+    "downloadUrl": "https://sharemods.com/nd45td9y91fj/Open_Door_Anim.7z.html",
+    "installPath": "/download",
+    "instructions": [
+      {
+        "type": "copyTo",
+        "subType": "inside",
+        "fileNames": [
+          "Open Door Anim"
+        ],
+        "folderName": "/",
+        "folderNavigation": null,
+        "copyTo": [
+          "/modloader"
+        ]
+      }
+    ],
+    "status": "active",
+    "password": "",
+    "requires": [
+      "Modloader"
+    ],
+    "versions": [
+      "v1.2.2"
+    ]
   }
 ]
