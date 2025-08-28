@@ -2468,7 +2468,7 @@
   },
   {
     "id": "92229797-0775-4c2b-aead-35dffe268573",
-    "name": "Improved Move Mod",
+    "name": "Improved Movement",
     "description": "Mod for improving movement mechanics in GTA San Andreas.",
     "downloadUrl": "https://sharemods.com/98xo43wqfjlm/ImprovedMove.7z.html",
     "installPath": "/download",
@@ -2486,11 +2486,6 @@
         ]
       }
     ],
-    "status": "complete",
-    "password": "",
-    "requires": null,
-    "versions": [
-      "v0.2.2"
-    ]
+    "status": "Disabled"
   }
 ]
