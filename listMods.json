@@ -2084,5 +2084,50 @@
     "versions": [
       "v1.3.4"
     ]
+  },
+  {
+    "id": "b19d7caf-aade-40ae-afea-45a81af5f674",
+    "name": "Enhanced Classic Graphics",
+    "description": "Mod for enhancing GTA San Andreas graphics with improved 2DFX and enhanced particle textures.",
+    "downloadUrl": "https://sharemods.com/5o9kl05ilj10/Enhanced_Classic_Graphics.7z.html",
+    "installPath": "/download",
+    "instructions": [
+      {
+        "type": "copyTo",
+        "subType": "inside",
+        "fileNames": [
+          "Improved 2DFX"
+        ],
+        "folderName": "/",
+        "folderNavigation": [
+          "EN"
+        ],
+        "copyTo": [
+          "modloader"
+        ]
+      },
+      {
+        "type": "copyTo",
+        "subType": "inside",
+        "fileNames": [
+          "ECG ParticleTXD (versao Light)",
+          "ECG ParticleTXD (versao Normal)",
+          "Enhance ParticleTXD"
+        ],
+        "folderName": "Particle TXD",
+        "folderNavigation": [
+          "EN"
+        ],
+        "copyTo": [
+          "modloader"
+        ]
+      }
+    ],
+    "status": "active",
+    "password": "",
+    "requires": null,
+    "versions": [
+      "18/01/14"
+    ]
   }
 ]
