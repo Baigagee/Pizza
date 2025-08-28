@@ -3203,5 +3203,34 @@
       }
     ],
     "status": "Disabled"
+  },
+  {
+    "id": "c00f84bf-7e25-490a-acdc-2beb241a6da3",
+    "name": "Hospital Health Pickups",
+    "description": "Mod to add dynamic health pickups in hospitals.",
+    "downloadUrl": "https://sharemods.com/qlmx3626l4ik/Hospital_Health_Pickups.7z.html",
+    "installPath": "/download",
+    "instructions": [
+      {
+        "type": "copyTo",
+        "subType": "inside",
+        "fileNames": [
+          "Hospital Health Pickups"
+        ],
+        "folderName": ".",
+        "folderNavigation": null,
+        "copyTo": [
+          "/modloader"
+        ]
+      }
+    ],
+    "status": "released",
+    "password": "/download",
+    "requires": [
+      "CLEO+"
+    ],
+    "versions": [
+      "v1.0"
+    ]
   }
 ]
