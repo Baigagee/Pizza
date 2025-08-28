@@ -1861,5 +1861,34 @@
       }
     ],
     "status": "Disabled"
+  },
+  {
+    "id": "ba2fc6f5-02bd-4634-aa87-1d841753748d",
+    "name": "Fire On Driver",
+    "description": "A mod for GTA San Andreas to cause a fire effect on drivers.",
+    "downloadUrl": "https://sharemods.com/lvuskl4ma9kk/Fire_On_Driver.7z.html",
+    "installPath": "/download",
+    "instructions": [
+      {
+        "type": "copyTo",
+        "subType": "inside",
+        "fileNames": [
+          "fire_on_driver.asi"
+        ],
+        "folderName": "Fire On Driver",
+        "folderNavigation": [],
+        "copyTo": [
+          "/modloader"
+        ]
+      }
+    ],
+    "status": "active",
+    "password": "",
+    "requires": [
+      "Modloader"
+    ],
+    "versions": [
+      "v1.0"
+    ]
   }
 ]
