@@ -2624,5 +2624,35 @@
       }
     ],
     "status": "Disabled"
+  },
+  {
+    "id": "d39239bf-6b7d-4e83-a808-ce802fe1bdd6",
+    "name": "Dynamic FOV",
+    "description": "Adjustable field of view mod for GTA San Andreas requiring Modloader and CLEO+.",
+    "downloadUrl": "https://sharemods.com/mzim2ufqseez/Dynamic_FOV.7z.html",
+    "installPath": "/download",
+    "instructions": [
+      {
+        "type": "copyTo",
+        "subType": "inside",
+        "fileNames": [
+          "*"
+        ],
+        "folderName": "Dynamic FOV",
+        "folderNavigation": [],
+        "copyTo": [
+          "/modloader"
+        ]
+      }
+    ],
+    "status": "active",
+    "password": "",
+    "requires": [
+      "Modloader",
+      "CLEO+"
+    ],
+    "versions": [
+      "v1.1"
+    ]
   }
 ]
