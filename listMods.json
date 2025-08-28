@@ -2004,5 +2004,30 @@
     "versions": [
       "v1.0"
     ]
+  },
+  {
+    "id": "d37b776b-a680-417c-bb05-80725924b932",
+    "name": "New Algorithm for Trains",
+    "description": "Mod to improve train algorithms in GTA San Andreas, requiring Modloader for installation.",
+    "downloadUrl": "https://sharemods.com/sjj1pk5hqv06/New_Algorithm_for_Trains___40_novo_algoritmo_para_trens__41_.7z.html",
+    "installPath": "/download",
+    "instructions": [
+      {
+        "type": "copyTo",
+        "subType": "inside",
+        "fileNames": [
+          "new algorithm for trains"
+        ],
+        "folderName": "Modloader",
+        "folderNavigation": null,
+        "copyTo": [
+          "/modloader"
+        ]
+      }
+    ],
+    "status": "active",
+    "password": "",
+    "requires": null,
+    "versions": null
   }
 ]
