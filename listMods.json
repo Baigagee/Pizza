@@ -2891,5 +2891,34 @@
     "versions": [
       "v1.0.1"
     ]
+  },
+  {
+    "id": "518ee88d-39ed-4f09-9e55-d659ec33503f",
+    "name": "Atmosphere Interface Pack",
+    "description": "A visual mod for enhancing the interface in GTA San Andreas.",
+    "downloadUrl": "https://sharemods.com/zfcud8b4sc5g/Atmosphere_Interface_Pack.7z.html",
+    "installPath": "/download",
+    "instructions": [
+      {
+        "type": "copyTo",
+        "subType": "inside",
+        "fileNames": [
+          "*"
+        ],
+        "folderName": "Atmosphere Interface Pack",
+        "folderNavigation": null,
+        "copyTo": [
+          "modloader"
+        ]
+      }
+    ],
+    "status": "active",
+    "password": "",
+    "requires": [
+      "Modloader"
+    ],
+    "versions": [
+      "20/07/21"
+    ]
   }
 ]
