@@ -2279,5 +2279,34 @@
     "versions": [
       "v1.0"
     ]
+  },
+  {
+    "id": "28fdb52a-7e7b-4aa9-bb33-56e615cc87f7",
+    "name": "Player Move Head",
+    "description": "Mod for controlling player head movement in GTA San Andreas.",
+    "downloadUrl": "https://sharemods.com/ak9b0r9vdxph/Player_Move_Head.7z.html",
+    "installPath": "/download",
+    "instructions": [
+      {
+        "type": "copyTo",
+        "subType": "outside",
+        "fileNames": [
+          "Player Move Head"
+        ],
+        "folderName": "/",
+        "folderNavigation": null,
+        "copyTo": [
+          "modloader"
+        ]
+      }
+    ],
+    "status": "active",
+    "password": "",
+    "requires": [
+      "Modloader"
+    ],
+    "versions": [
+      "2021"
+    ]
   }
 ]
