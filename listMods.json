@@ -2684,7 +2684,7 @@
   },
   {
     "id": "5f4ea32a-3a90-4a48-9bb2-265f1708d03c",
-    "name": "Heart Attack Mod",
+    "name": "Heart Attack",
     "description": "A mod that introduces a heart attack feature based on character's fat levels.",
     "downloadUrl": "https://sharemods.com/syjk63jytbuo/Heart_Attack_Mod.7z.html",
     "installPath": "/download",
@@ -2702,13 +2702,6 @@
         ]
       }
     ],
-    "status": "active",
-    "password": "",
-    "requires": [
-      "Modloader"
-    ],
-    "versions": [
-      "v1.0"
-    ]
+    "status": "Disabled"
   }
 ]
