@@ -3264,5 +3264,34 @@
     "versions": [
       "v1.1"
     ]
+  },
+  {
+    "id": "1814047a-9b6d-40a0-8de3-f23059228739",
+    "name": "Prostitutes Money Drop Fix",
+    "description": "This mod fixes the money drop issue with prostitutes in GTA San Andreas.",
+    "downloadUrl": "https://sharemods.com/0l8a752l17ui/Prostitutes_Money_Drop_Fix.7z.html",
+    "installPath": "/download",
+    "instructions": [
+      {
+        "type": "copyTo",
+        "subType": "inside",
+        "fileNames": [
+          "*"
+        ],
+        "folderName": "Prostitutes Money Drop Fix",
+        "folderNavigation": null,
+        "copyTo": [
+          "/modloader"
+        ]
+      }
+    ],
+    "status": "available",
+    "password": "",
+    "requires": [
+      "CLEO+"
+    ],
+    "versions": [
+      "v1.0"
+    ]
   }
 ]
