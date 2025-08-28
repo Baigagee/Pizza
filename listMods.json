@@ -2159,7 +2159,7 @@
   },
   {
     "id": "b7c2808b-681b-4f73-971c-6183979863cb",
-    "name": "SA - Project Lumos",
+    "name": "Project Lumos",
     "description": "A mod for GTA San Andreas to enhance the game's lighting and visuals.",
     "downloadUrl": "https://sharemods.com/jp37d80ehg05/SA_-_Project_Lumos.zip.html",
     "installPath": "/download",
@@ -2179,11 +2179,6 @@
         ]
       }
     ],
-    "status": "active",
-    "password": "",
-    "requires": null,
-    "versions": [
-      "PREVIEW 3"
-    ]
+    "status": "Disabled"
   }
 ]
