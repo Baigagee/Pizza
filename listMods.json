@@ -2032,7 +2032,7 @@
   },
   {
     "id": "255de10c-68d7-4adf-9b92-e3a89dcea22b",
-    "name": "Wanted Radar Warning",
+    "name": "Wanted Radar",
     "description": "A mod for GTA San Andreas that provides a radar warning system.",
     "downloadUrl": "https://sharemods.com/pe8f78m2ry5f/Wanted_Radar_Warning.7z.html",
     "installPath": "/download",
@@ -2052,13 +2052,6 @@
         ]
       }
     ],
-    "status": "active",
-    "password": "",
-    "requires": [
-      "CLEO+"
-    ],
-    "versions": [
-      "v1.1"
-    ]
+    "status": "Disabled"
   }
 ]
