@@ -3232,5 +3232,37 @@
     "versions": [
       "v1.0"
     ]
+  },
+  {
+    "id": "530ad441-d37f-44a6-a61b-ebbde1a1fe4e",
+    "name": "Airplane Tire Skid",
+    "description": "Adds tire skid effects for airplanes in GTA San Andreas.",
+    "downloadUrl": "https://sharemods.com/vvdt2j4j28b0/Airplane_Tire_Skid.7z.html",
+    "installPath": "/download",
+    "instructions": [
+      {
+        "type": "copyTo",
+        "subType": "inside",
+        "fileNames": [
+          "Airplane Tire Skid"
+        ],
+        "folderName": "Airplane Tire Skid",
+        "folderNavigation": [
+          "en"
+        ],
+        "copyTo": [
+          "modloader"
+        ]
+      }
+    ],
+    "status": "active",
+    "password": "",
+    "requires": [
+      "CLEO+",
+      "Modloader"
+    ],
+    "versions": [
+      "v1.1"
+    ]
   }
 ]
