@@ -3070,5 +3070,34 @@
       "ModLoader"
     ],
     "versions": null
+  },
+  {
+    "id": "03b0c83e-9f3f-454f-afeb-8a2537698b06",
+    "name": "Robbery Mod",
+    "description": "Installation instructions for the Robbery Mod for GTA San Andreas using Modloader.",
+    "downloadUrl": "https://sharemods.com/6m3go2b7lqbx/Robbery_Mod.7z.html",
+    "installPath": "/download",
+    "instructions": [
+      {
+        "type": "copyTo",
+        "subType": "inside",
+        "fileNames": [
+          "*"
+        ],
+        "folderName": "Robbery Mod",
+        "folderNavigation": null,
+        "copyTo": [
+          "modloader"
+        ]
+      }
+    ],
+    "status": "active",
+    "password": "",
+    "requires": [
+      "Modloader"
+    ],
+    "versions": [
+      "Unofficial fix 2 by Junior_Djjr"
+    ]
   }
 ]
