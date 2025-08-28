@@ -3378,5 +3378,34 @@
       "Modloader"
     ],
     "versions": null
+  },
+  {
+    "id": "90f900dd-460b-4133-b721-0314465ded35",
+    "name": "Peds Don't Drown",
+    "description": "Prevents pedestrians from drowning in GTA San Andreas.",
+    "downloadUrl": "https://sharemods.com/w2t1de96965p/PedsDontDrown.7z.html",
+    "installPath": "/download",
+    "instructions": [
+      {
+        "type": "copyTo",
+        "subType": "outside",
+        "fileNames": [
+          "PedsDontDrown"
+        ],
+        "folderName": "/download_folder_name",
+        "folderNavigation": null,
+        "copyTo": [
+          "/modloader"
+        ]
+      }
+    ],
+    "status": "active",
+    "password": "",
+    "requires": [
+      "Modloader"
+    ],
+    "versions": [
+      "v1.0"
+    ]
   }
 ]
