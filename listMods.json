@@ -2735,7 +2735,7 @@
   },
   {
     "id": "358a2183-75fa-4bf9-b555-d98e02f3e27a",
-    "name": "Car Wash Mod",
+    "name": "Car Wash",
     "description": "A mod for GTA San Andreas that adds car wash locations.",
     "downloadUrl": "https://sharemods.com/m4rshrky14dw/Car_Wash.7z.html",
     "installPath": "/download",
@@ -2773,14 +2773,6 @@
         ]
       }
     ],
-    "status": "active",
-    "password": "",
-    "requires": [
-      "Modloader",
-      "CLEO+"
-    ],
-    "versions": [
-      "v2.2"
-    ]
+    "status": "Disabled"
   }
 ]
