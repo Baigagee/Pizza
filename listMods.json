@@ -1890,5 +1890,34 @@
     "versions": [
       "v1.0"
     ]
+  },
+  {
+    "id": "0d17b3a2-fa2c-49e4-9f13-e2a2880c76c4",
+    "name": "More Radar Icons",
+    "description": "Adds custom radar icons to GTA San Andreas.",
+    "downloadUrl": "https://sharemods.com/rb96prexlrg9/More_Radar_Icons.7z.html",
+    "installPath": "/download",
+    "instructions": [
+      {
+        "type": "copyTo",
+        "subType": "inside",
+        "fileNames": [
+          "*"
+        ],
+        "folderName": "More Radar Icons",
+        "folderNavigation": null,
+        "copyTo": [
+          "modloader"
+        ]
+      }
+    ],
+    "status": "active",
+    "password": ":null",
+    "requires": [
+      "CLEO+"
+    ],
+    "versions": [
+      "v2.0"
+    ]
   }
 ]
