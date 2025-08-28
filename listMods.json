@@ -1922,7 +1922,7 @@
   },
   {
     "id": "a62aee2c-8eaf-40c8-aacb-7a3b014abb89",
-    "name": "SA - Random Car Talk",
+    "name": "Random Car Talk",
     "description": "Mod for random in-game car conversations in GTA San Andreas.",
     "downloadUrl": "https://sharemods.com/ao53yl4oua80/SA_-_Random_Car_Talk.7z.html",
     "installPath": "/download",
@@ -1942,13 +1942,6 @@
         ]
       }
     ],
-    "status": "active",
-    "password": "",
-    "requires": [
-      "CLEO+"
-    ],
-    "versions": [
-      "v1.0.1"
-    ]
+    "status": "Disabled"
   }
 ]
