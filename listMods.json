@@ -3349,5 +3349,34 @@
     "versions": [
       "v1.0"
     ]
+  },
+  {
+    "id": "ea2e76d4-84d4-48f2-b603-70dc744278c5",
+    "name": "Tutorial Free Roam",
+    "description": "Free roam tutorial mod for GTA San Andreas.",
+    "downloadUrl": "https://sharemods.com/f9n6d34emr0f/Tutorial_Free_Roam.7z.html",
+    "installPath": "/download",
+    "instructions": [
+      {
+        "type": "copyTo",
+        "subType": "inside",
+        "fileNames": [
+          "*"
+        ],
+        "folderName": ".",
+        "folderNavigation": [
+          "Tutorial Free Roam"
+        ],
+        "copyTo": [
+          "/modloader"
+        ]
+      }
+    ],
+    "status": "success",
+    "password": "",
+    "requires": [
+      "Modloader"
+    ],
+    "versions": null
   }
 ]
