@@ -2490,7 +2490,7 @@
   },
   {
     "id": "482c1a46-5760-4f21-ae96-569de49e8ba9",
-    "name": "More Realistic Reload Animation Mod",
+    "name": "More Realistic Reload Animation",
     "description": "A mod to enhance reloading animations in GTA San Andreas, with an optional shotgun reload animation.",
     "downloadUrl": "https://sharemods.com/kyvwkd7vtt4i/More_Realistic_Reload_Animation_Mod.7z.html",
     "installPath": "/download",
@@ -2510,13 +2510,6 @@
         ]
       }
     ],
-    "status": "active",
-    "password": "null",
-    "requires": [
-      "ModLoader"
-    ],
-    "versions": [
-      "06/09/20"
-    ]
+    "status": "Disabled"
   }
 ]
