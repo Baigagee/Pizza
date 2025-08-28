@@ -2703,5 +2703,34 @@
       }
     ],
     "status": "Disabled"
+  },
+  {
+    "id": "87b64447-1495-4b12-aa31-cdf3ab112b63",
+    "name": "Phone Improvements",
+    "description": "A mod for GTA San Andreas that improves phone functionalities.",
+    "downloadUrl": "https://sharemods.com/86hiucxwi0p8/Phone_Improvements.7z.html",
+    "installPath": "/download",
+    "instructions": [
+      {
+        "type": "copyTo",
+        "subType": "outside",
+        "fileNames": [
+          "Phone Improvements"
+        ],
+        "folderName": "/",
+        "folderNavigation": null,
+        "copyTo": [
+          "/modloader"
+        ]
+      }
+    ],
+    "status": "Beta",
+    "password": "",
+    "requires": [
+      "Modloader"
+    ],
+    "versions": [
+      "Beta"
+    ]
   }
 ]
