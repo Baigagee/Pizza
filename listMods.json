@@ -2862,5 +2862,34 @@
     "versions": [
       "v1.0.1"
     ]
+  },
+  {
+    "id": "e7bb82ba-fa64-40e9-ae3c-492cefe5efca",
+    "name": "Ladders Mod",
+    "description": "Adds functional ladders to GTA San Andreas in San Fierro airport and ship.",
+    "downloadUrl": "https://sharemods.com/r9991nx53e61/SA_-_Ladders_Mod.zip.html",
+    "installPath": "/download",
+    "instructions": [
+      {
+        "type": "copyTo",
+        "subType": "outside",
+        "fileNames": [
+          "*"
+        ],
+        "folderName": "Ladders Mod",
+        "folderNavigation": null,
+        "copyTo": [
+          "/modloader"
+        ]
+      }
+    ],
+    "status": "active",
+    "password": "",
+    "requires": [
+      "CLEO+"
+    ],
+    "versions": [
+      "v1.0.1"
+    ]
   }
 ]
