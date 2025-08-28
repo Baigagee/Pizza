@@ -3043,5 +3043,32 @@
     "versions": [
       "v2"
     ]
+  },
+  {
+    "id": "6862a8d2-f7b6-4321-a631-ce0b9d229a21",
+    "name": "SA Cutscene Characters HD",
+    "description": "HD textures for cutscene characters in GTA San Andreas.",
+    "downloadUrl": "https://sharemods.com/0bnmdnz6crll/SA_Cutscene_Characters_HD.7z.html",
+    "installPath": "/download",
+    "instructions": [
+      {
+        "type": "copyTo",
+        "subType": "inside",
+        "fileNames": [
+          "SA Cutscene Characters (HD)"
+        ],
+        "folderName": "/",
+        "folderNavigation": null,
+        "copyTo": [
+          "/modloader"
+        ]
+      }
+    ],
+    "status": "complete",
+    "password": "",
+    "requires": [
+      "ModLoader"
+    ],
+    "versions": null
   }
 ]
