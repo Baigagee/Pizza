@@ -1974,5 +1974,35 @@
     "versions": [
       "v1.0"
     ]
+  },
+  {
+    "id": "52b639f0-c23e-4c11-a9b7-793d3026dbaf",
+    "name": "Boat Radar",
+    "description": "A mod for GTA San Andreas that shows boats on the radar.",
+    "downloadUrl": "https://sharemods.com/1h9qwauo318a/Boat_Radar.7z.html",
+    "installPath": "/download",
+    "instructions": [
+      {
+        "type": "copyTo",
+        "subType": "inside",
+        "fileNames": [
+          "*"
+        ],
+        "folderName": "Boat Radar",
+        "folderNavigation": null,
+        "copyTo": [
+          "/modloader"
+        ]
+      }
+    ],
+    "status": "active",
+    "password": "",
+    "requires": [
+      "Modloader",
+      "CLEO+"
+    ],
+    "versions": [
+      "v1.0"
+    ]
   }
 ]
