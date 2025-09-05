@@ -3461,5 +3461,29 @@
       }
     ],
     "status": "false"
+  },
+  {
+    "id": "8c1961be-6961-4e7c-9c80-a17cc705b0aa",
+    "name": "Bus With Passengers",
+    "description": "With this mod, the street bus from will have passengers\npassengers are completely random, increasing the reality of the mod.",
+    "downloadUrl": "https://sharemods.com/aumvj09027gx/Bus_With_Passengers.7z.html",
+    "installPath": "/download",
+    "instructions": [
+      {
+        "type": "copyTo",
+        "subType": "inside",
+        "fileNames": [
+          "cleo"
+        ],
+        "folderName": "",
+        "folderNavigation": [
+          "Bus With Passengers"
+        ],
+        "copyTo": [
+          "/modloader"
+        ]
+      }
+    ],
+    "status": "false"
   }
 ]
