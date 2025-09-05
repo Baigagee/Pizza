@@ -3514,5 +3514,30 @@
       }
     ],
     "status": "false"
+  },
+  {
+    "id": "f41505ec-9cbc-43db-9bc7-0680016e475f",
+    "name": "Cars Divert",
+    "description": "This mod makes cars swerve when you drive head-on, and sometimes even flash their lights.",
+    "downloadUrl": "https://sharemods.com/s6m5vhlp5ao0/Cars_Divert.7z.html",
+    "installPath": "/download",
+    "instructions": [
+      {
+        "type": "copyTo",
+        "subType": "inside",
+        "fileNames": [
+          "CLEO"
+        ],
+        "folderName": "",
+        "folderNavigation": [
+          "EN",
+          "Cars Divert"
+        ],
+        "copyTo": [
+          "/modloader"
+        ]
+      }
+    ],
+    "status": "false"
   }
 ]
