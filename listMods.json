@@ -3485,5 +3485,34 @@
       }
     ],
     "status": "false"
+  },
+  {
+    "id": "47e0624c-9b26-4315-9cb5-8052cd010d02",
+    "name": "Bullet Holes",
+    "description": "This mod adds bullet marks where you shoot, whether on walls, floors, cars, glass, wood, etc.",
+    "downloadUrl": "https://sharemods.com/efnl0pspyvfv/Bullethole_-_buracos_de_tiros.7z.html",
+    "installPath": "/download",
+    "instructions": [
+      {
+        "type": "copyTo",
+        "subType": "inside",
+        "fileNames": [
+          "bullethole.asi",
+          "bullethole.ini",
+          "bullethole.png",
+          "bullethole_material.json",
+          "bullethole_texture.json",
+          "bullethole_weapon.json"
+        ],
+        "folderName": "",
+        "folderNavigation": [
+          "Pasta do GTA ou Modloader"
+        ],
+        "copyTo": [
+          "/modloader"
+        ]
+      }
+    ],
+    "status": "false"
   }
 ]
