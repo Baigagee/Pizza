@@ -3436,5 +3436,30 @@
     "versions": [
       "v1.0"
     ]
+  },
+  {
+    "id": "fd39dd5d-89fc-4014-b78d-749be25947cb",
+    "name": "Rain Audio Fix",
+    "description": "This mod replaces the unrealistic sound of thunder from the game with a realistic thunder sequence. Also adds rain sounds indoors, so when you enter an enclosed space, you'll still hear thunder and raindrops.",
+    "downloadUrl": "https://sharemods.com/34x1ydlwdvbp/Rain_Audio_Fix.7z.html",
+    "installPath": "/download",
+    "instructions": [
+      {
+        "type": "copyTo",
+        "subType": "inside",
+        "fileNames": [
+          "cleo",
+          "Rain_Audio"
+        ],
+        "folderName": "",
+        "folderNavigation": [
+          "Rain Audio Fix"
+        ],
+        "copyTo": [
+          "/modloader"
+        ]
+      }
+    ],
+    "status": "false"
   }
 ]
