@@ -524,42 +524,16 @@
         "type": "copyTo",
         "subType": "inside",
         "fileNames": [
-          "Illuminated Vinewood Sign.cs"
+          "Illuminated Vinewood Sign"
         ],
-        "folderName": "/",
-        "folderNavigation": [
-          "PC",
-          "Illuminated Vinewood Sign",
-          "cleo"
-        ],
+        "folderName": "",
+        "folderNavigation": [],
         "copyTo": [
-          "/cleo"
-        ]
-      },
-      {
-        "type": "copyTo",
-        "subType": "inside",
-        "fileNames": [
-          "Loader.txt",
-          "maps"
-        ],
-        "folderName": "/",
-        "folderNavigation": [
-          "PC",
-          "Illuminated Vinewood Sign",
-          "data"
-        ],
-        "copyTo": [
-          "/data"
+          "/modloader"
         ]
       }
     ],
-    "status": "complete",
-    "password": "",
-    "requires": null,
-    "versions": [
-      "v1.1"
-    ]
+    "status": "Disabled"
   },
   {
     "id": "95a2d668-8eb1-4478-80bc-7b46a021b42e",
