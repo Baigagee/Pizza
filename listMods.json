@@ -3513,5 +3513,29 @@
       }
     ],
     "status": "false"
+  },
+  {
+    "id": "7d1485f5-f8ed-4ec0-a99a-8afd9c009b3b",
+    "name": "Cold Steam",
+    "description": "It adds a vapor breath effect to CJ's mouth and all pedestrians in GTA SA.",
+    "downloadUrl": "https://sharemods.com/4zaruqomd6z3/Cold_Steam.7z.html",
+    "installPath": "/download",
+    "instructions": [
+      {
+        "type": "copyTo",
+        "subType": "inside",
+        "fileNames": [
+          "Cold Steam (Junior_Djjr).asi"
+        ],
+        "folderName": "",
+        "folderNavigation": [
+          "Cold Steam"
+        ],
+        "copyTo": [
+          "/modloader"
+        ]
+      }
+    ],
+    "status": "false"
   }
 ]
