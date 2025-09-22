@@ -3639,5 +3639,36 @@
     "versions": [
       "1.0"
     ]
+  },
+  {
+    "id": "d7de589e-8fb2-49a1-b817-10436e24986c",
+    "name": "Rain Chance Mod",
+    "description": "Modifies rain probabilities in GTA San Andreas.",
+    "downloadUrl": "https://sharemods.com/5gre1rqqb2s0/Rain_Chance.7z.html",
+    "installPath": "/download",
+    "instructions": [
+      {
+        "type": "copyTo",
+        "subType": "inside",
+        "fileNames": [
+          "Rain Chance"
+        ],
+        "folderName": ".",
+        "folderNavigation": [
+          "EN"
+        ],
+        "copyTo": [
+          "modloader"
+        ]
+      }
+    ],
+    "status": "active",
+    "password": "",
+    "requires": [
+      "Modloader"
+    ],
+    "versions": [
+      "v1.1.1"
+    ]
   }
 ]
