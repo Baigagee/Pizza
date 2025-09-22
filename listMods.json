@@ -3537,5 +3537,35 @@
       }
     ],
     "status": "false"
+  },
+  {
+    "id": "f1541f46-61d4-407e-9bc3-a58cfb507570",
+    "name": "San Andreas Radar Zoom 1.0",
+    "description": "This mod allows you to zoom the radar out and display area/car names in GTA San Andreas, similar to GTA IV.",
+    "downloadUrl": "https://www.gtagarage.com/mods/download.php?f=32497",
+    "installPath": "/download",
+    "instructions": [
+      {
+        "type": "copyTo",
+        "subType": "inside",
+        "fileNames": [
+          "*"
+        ],
+        "folderName": "CLEO",
+        "folderNavigation": null,
+        "copyTo": [
+          "/"
+        ]
+      }
+    ],
+    "status": "active",
+    "password": "",
+    "requires": [
+      "cleo 3/4"
+    ],
+    "versions": [
+      "1.0",
+      "1.01"
+    ]
   }
 ]
