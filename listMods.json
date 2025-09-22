@@ -3596,5 +3596,48 @@
     "versions": [
       "Unofficial fix by Junior_Djjr"
     ]
+  },
+  {
+    "id": "b2939268-16de-4c6d-895e-ef735ef66c9b",
+    "name": "Ped Spec Mod",
+    "description": "Enhance GTA San Andreas with additional ped specular effects.",
+    "downloadUrl": "https://sharemods.com/2okzcjte1kty/Ped_Spec.7z.html",
+    "installPath": "/download",
+    "instructions": [
+      {
+        "type": "copyTo",
+        "subType": "inside",
+        "fileNames": [
+          "ped_spec.asi",
+          "ped_spec.ini"
+        ],
+        "folderName": "/",
+        "folderNavigation": null,
+        "copyTo": [
+          "/"
+        ]
+      },
+      {
+        "type": "copyTo",
+        "subType": "outside",
+        "fileNames": [
+          "*"
+        ],
+        "folderName": "settings",
+        "folderNavigation": null,
+        "copyTo": [
+          "/Mais configurations/settings"
+        ]
+      }
+    ],
+    "status": "active",
+    "password": "/",
+    "requires": [
+      "DirectX End-User",
+      "Microsoft Visual C++ 2009 Redistributable"
+    ],
+    "versions": [
+      "1.0"
+    ]
   }
 ]
