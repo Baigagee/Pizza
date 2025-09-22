@@ -3567,5 +3567,34 @@
       "1.0",
       "1.01"
     ]
+  },
+  {
+    "id": "5590ee04-18f7-4701-ab4f-06b297ba17f8",
+    "name": "Clever Trams",
+    "description": "Mod for stealing trams or entering as a passenger in GTA San Andreas.",
+    "downloadUrl": "https://sharemods.com/tv9758g4v9px/Clever_Trams.7z.html",
+    "installPath": "/download",
+    "instructions": [
+      {
+        "type": "copyTo",
+        "subType": "outside",
+        "fileNames": [
+          "*"
+        ],
+        "folderName": "Clever Trams",
+        "folderNavigation": [],
+        "copyTo": [
+          "/modloader"
+        ]
+      }
+    ],
+    "status": "active",
+    "password": "",
+    "requires": [
+      "Modloader"
+    ],
+    "versions": [
+      "Unofficial fix by Junior_Djjr"
+    ]
   }
 ]
