@@ -3740,5 +3740,30 @@
     "versions": [
       "latest"
     ]
+  },
+  {
+    "id": "6e8d1364-6961-4141-88b1-22166d795933",
+    "name": "Train Wheels Mod",
+    "description": "Enables rotating wheels and special functions for train models in GTA San Andreas.",
+    "downloadUrl": "https://drive.google.com/open?id=0B04D_5yMCyl9N2t6T0ZVV2lRbzQ",
+    "installPath": "/download",
+    "instructions": [
+      {
+        "type": "copyTo",
+        "subType": "outside",
+        "fileNames": [
+          "modloader"
+        ],
+        "folderName": "/",
+        "folderNavigation": null,
+        "copyTo": [
+          "/"
+        ]
+      }
+    ],
+    "status": "active",
+    "password": "",
+    "requires": null,
+    "versions": []
   }
 ]
