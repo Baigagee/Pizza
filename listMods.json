@@ -3711,5 +3711,34 @@
     "password": "",
     "requires": null,
     "versions": null
+  },
+  {
+    "id": "efa6b339-544a-4839-a095-86a6b4bda79b",
+    "name": "Ambient Taxi Mod",
+    "description": "Mod to enhance taxi ambient in GTA San Andreas.",
+    "downloadUrl": "https://drive.usercontent.google.com/download?id=11HbiXDEAeccZnVPEkX7bGiHUwC1rs46l&export=download&authuser=0",
+    "installPath": "/download",
+    "instructions": [
+      {
+        "type": "copyTo",
+        "subType": "inside",
+        "fileNames": [
+          "ambient taxi"
+        ],
+        "folderName": ".",
+        "folderNavigation": null,
+        "copyTo": [
+          "/modloader"
+        ]
+      }
+    ],
+    "status": "available",
+    "password": "",
+    "requires": [
+      "https://www.mixmods.com.br/2015/01/SA-Modloader.html"
+    ],
+    "versions": [
+      "latest"
+    ]
   }
 ]
