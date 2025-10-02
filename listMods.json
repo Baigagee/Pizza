@@ -3740,5 +3740,32 @@
     "versions": [
       "latest"
     ]
+  },
+  {
+    "id": "2c551077-be2b-4efd-8714-8946a99a6fbd",
+    "name": "GTA SA Train Mod",
+    "description": "This mod allows train wheels and bogies to rotate in GTA San Andreas.",
+    "downloadUrl": "https://drive.google.com/open?id=0B04D_5yMCyl9N2t6T0ZVV2lRbzQ",
+    "installPath": "/download",
+    "instructions": [
+      {
+        "type": "copyTo",
+        "subType": "inside",
+        "fileNames": [
+          "animtrain1.1.cs"
+        ],
+        "folderName": ".",
+        "folderNavigation": null,
+        "copyTo": [
+          "/modloader"
+        ]
+      }
+    ],
+    "status": "active",
+    "password": "",
+    "requires": [
+      "modloader"
+    ],
+    "versions": null
   }
 ]
