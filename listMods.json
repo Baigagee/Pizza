@@ -4070,5 +4070,30 @@
     "versions": [
       "1.0"
     ]
+  },
+  {
+    "id": "c420f23c-bd80-49b3-9afb-c3aac34c4ae1",
+    "name": "Random Events Project",
+    "description": "This mod adds various random events throughout San Andreas, similar to those found in GTA V and RDR2, complete with possible outcomes, cut scenes, and rewards.",
+    "downloadUrl": "https://fileservice.gtainside.de/downloads/ftpl/1715282920_Random%20Events%20Project.rar",
+    "installPath": "/download",
+    "instructions": [
+      {
+        "type": "copyTo",
+        "subType": "outside",
+        "fileNames": [
+          "*"
+        ],
+        "folderName": "Random Events Project",
+        "folderNavigation": null,
+        "copyTo": [
+          "modloader"
+        ]
+      }
+    ],
+    "status": "active",
+    "password": "",
+    "requires": null,
+    "versions": null
   }
 ]
