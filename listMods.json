@@ -3806,5 +3806,27 @@
     "versions": [
       "v1.1"
     ]
+  },
+  {
+    "id": "aca96dd2-7baa-4636-b959-d3be382fa01c",
+    "name": "Improved and Fixed Original Vegetation",
+    "description": "",
+    "downloadUrl": "https://fileservice.gtainside.de/downloads/ftpl/1615234281_fixed%20vegetation.7z",
+    "installPath": "/download",
+    "instructions": [
+      {
+        "type": "copyTo",
+        "subType": "inside",
+        "fileNames": [
+          "fixed vegetation"
+        ],
+        "folderName": "",
+        "folderNavigation": [],
+        "copyTo": [
+          "/modloader"
+        ]
+      }
+    ],
+    "status": "false"
   }
 ]
