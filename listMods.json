@@ -4043,5 +4043,32 @@
     "password": "/",
     "requires": null,
     "versions": null
+  },
+  {
+    "id": "412433ce-e51f-48d1-8c0f-cefd994241df",
+    "name": "Commercial Mod",
+    "description": "A mod that enhances street and interior advertising with dynamic elements like working TVs and glowing signs.",
+    "downloadUrl": "https://fileservice.gtainside.de/downloads/ftpm/1718567806_Commercial%20Mod.rar",
+    "installPath": "/download",
+    "instructions": [
+      {
+        "type": "copyTo",
+        "subType": "inside",
+        "fileNames": [
+          "*"
+        ],
+        "folderName": "Commercial Mod",
+        "folderNavigation": null,
+        "copyTo": [
+          "modloader"
+        ]
+      }
+    ],
+    "status": "active",
+    "password": "",
+    "requires": null,
+    "versions": [
+      "1.0"
+    ]
   }
 ]
