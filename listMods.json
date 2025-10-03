@@ -3828,5 +3828,30 @@
       }
     ],
     "status": "false"
+  },
+  {
+    "id": "6b3bc563-bb90-47a5-8173-87bb2f202cb9",
+    "name": "Formal 2K Grass Textures",
+    "description": "Enhances the game textures to high definition.",
+    "downloadUrl": "https://fileservice.gtainside.de/downloads/ftph/1475272215_Formal%202K%20Grass%20Textures.7z",
+    "installPath": "/download",
+    "instructions": [
+      {
+        "type": "copyTo",
+        "subType": "inside",
+        "fileNames": [
+          "Formal 2K Grass Textures"
+        ],
+        "folderName": "",
+        "folderNavigation": [
+          "models",
+          "grass"
+        ],
+        "copyTo": [
+          "/modloader"
+        ]
+      }
+    ],
+    "status": "false"
   }
 ]
