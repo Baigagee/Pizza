@@ -4161,5 +4161,27 @@
     "password": "",
     "requires": null,
     "versions": null
+  },
+  {
+    "id": "0f4fcf60-2e97-44bd-b821-df143b982e3a",
+    "name": "Turning Lights On and Off",
+    "description": "Adds in support for turning vehicles lights off and on ",
+    "downloadUrl": "https://fileservice.gtainside.de/downloads/ftpk/1517005677_Acender%20y%20Apagar.rar",
+    "installPath": "/download",
+    "instructions": [
+      {
+        "type": "copyTo",
+        "subType": "inside",
+        "fileNames": [
+          "CLEO"
+        ],
+        "folderName": "",
+        "folderNavigation": [],
+        "copyTo": [
+          "/CLEO"
+        ]
+      }
+    ],
+    "status": "false"
   }
 ]
