@@ -4095,5 +4095,34 @@
     "password": "",
     "requires": null,
     "versions": null
+  },
+  {
+    "id": "7ae6717f-2228-4051-a50c-cefbed5db2ce",
+    "name": "Rubbish Like in GTA 4",
+    "description": "This mod adds various street trash like in GTA 4, with random appearances based on location. It's designed to work with the 'Busy Pedestrians mod: Peds Events Project'.",
+    "downloadUrl": "https://fileservice.gtainside.de/downloads/ftpl/1736759065_v2.0.rar",
+    "installPath": "/download",
+    "instructions": [
+      {
+        "type": "copyTo",
+        "subType": "outside",
+        "fileNames": [
+          "*"
+        ],
+        "folderName": "Rubbish GTA 4",
+        "folderNavigation": null,
+        "copyTo": [
+          "modloader"
+        ]
+      }
+    ],
+    "status": "active",
+    "password": "",
+    "requires": [
+      "Modloader"
+    ],
+    "versions": [
+      "2.0"
+    ]
   }
 ]
