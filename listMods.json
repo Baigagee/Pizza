@@ -3907,5 +3907,34 @@
     "password": "",
     "requires": null,
     "versions": null
+  },
+  {
+    "id": "4c3260cf-be47-4430-ae22-82b6841a3b93",
+    "name": "NPC Tuning",
+    "description": "A mod for tuning NPC cars in GTA San Andreas.",
+    "downloadUrl": "https://sharemods.com/9hbe79urg4w5/NPC_Tuning.7z.html",
+    "installPath": "/download",
+    "instructions": [
+      {
+        "type": "copyTo",
+        "subType": "outside",
+        "fileNames": [
+          "*"
+        ],
+        "folderName": "NPC Tuning",
+        "folderNavigation": null,
+        "copyTo": [
+          "/modloader"
+        ]
+      }
+    ],
+    "status": "ready",
+    "password": "",
+    "requires": [
+      "CLEO+"
+    ],
+    "versions": [
+      "v1.0.1"
+    ]
   }
 ]
