@@ -3963,5 +3963,32 @@
       "SA-Modloader"
     ],
     "versions": []
+  },
+  {
+    "id": "688c9fac-80de-4e5e-aa2c-61dba431ef56",
+    "name": "Carrier Mod by JJ",
+    "description": "Replace the carrier txd files using IMG Tool.",
+    "downloadUrl": "https://fileservice.gtainside.de/downloads/ftp/1147187798_carrierbyJJ.rar.rar",
+    "installPath": "/download",
+    "instructions": [
+      {
+        "type": "copyTo",
+        "subType": "inside",
+        "fileNames": [
+          "carrier_sfse.txd",
+          "carrierint_sfs.txd",
+          "carrierxr.txd"
+        ],
+        "folderName": "/",
+        "folderNavigation": null,
+        "copyTo": [
+          "/models/gta3.img"
+        ]
+      }
+    ],
+    "status": "active",
+    "password": "",
+    "requires": null,
+    "versions": null
   }
 ]
