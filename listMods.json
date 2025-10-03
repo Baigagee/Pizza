@@ -4124,5 +4124,42 @@
     "versions": [
       "2.0"
     ]
+  },
+  {
+    "id": "f89db988-c6af-4978-b944-4df1c3199ca5",
+    "name": "ImVehFt Mod",
+    "description": "ImVehFt Mod for GTA San Andreas",
+    "downloadUrl": "https://drive.google.com/open?id=0B04D_5yMCyl9T2I4T2tqMGZuY2s",
+    "installPath": "/download",
+    "instructions": [
+      {
+        "type": "copyTo",
+        "subType": "inside",
+        "fileNames": [
+          "ImVehFt"
+        ],
+        "folderName": ".",
+        "folderNavigation": null,
+        "copyTo": [
+          "/"
+        ]
+      },
+      {
+        "type": "copyTo",
+        "subType": "outside",
+        "fileNames": [
+          "*"
+        ],
+        "folderName": "ImVehFt",
+        "folderNavigation": null,
+        "copyTo": [
+          "/modloader"
+        ]
+      }
+    ],
+    "status": "active",
+    "password": "",
+    "requires": null,
+    "versions": null
   }
 ]
