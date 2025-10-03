@@ -3765,5 +3765,46 @@
     "password": "",
     "requires": null,
     "versions": null
+  },
+  {
+    "id": "c8c82719-9e0e-43e5-9afa-fbbd164ecaf3",
+    "name": "Effects Loader",
+    "description": "Mod to load custom effects in GTA San Andreas.",
+    "downloadUrl": "https://sharemods.com/nd07d7wzwwf1/Effects_Loader.7z.html",
+    "installPath": "/download",
+    "instructions": [
+      {
+        "type": "copyTo",
+        "subType": "outside",
+        "fileNames": [
+          "Effects Loader"
+        ],
+        "folderName": "/",
+        "folderNavigation": null,
+        "copyTo": [
+          "/modloader"
+        ]
+      },
+      {
+        "type": "copyTo",
+        "subType": "outside",
+        "fileNames": [
+          "models"
+        ],
+        "folderName": "/",
+        "folderNavigation": [
+          "(exemplo - example)"
+        ],
+        "copyTo": [
+          "/"
+        ]
+      }
+    ],
+    "status": "active",
+    "password": "",
+    "requires": null,
+    "versions": [
+      "v1.1"
+    ]
   }
 ]
