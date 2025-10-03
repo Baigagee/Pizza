@@ -3882,5 +3882,30 @@
     "versions": [
       "v1.0"
     ]
+  },
+  {
+    "id": "83da263b-4d89-4208-b34f-a6f2e44acce1",
+    "name": "3D Models in Ammu-Nation",
+    "description": "Adds 3D models to Ammu-Nation in GTA San Andreas.",
+    "downloadUrl": "https://drive.google.com/file/d/0B04D_5yMCyl9ajZXZ1JWUFZlUFk/view?resourcekey=0-LUNhmEnEx8lg6lnV4ZLLCQ",
+    "installPath": "/download",
+    "instructions": [
+      {
+        "type": "copyTo",
+        "subType": "outside",
+        "fileNames": [
+          "*"
+        ],
+        "folderName": "Modelos em 3D na Ammu",
+        "folderNavigation": null,
+        "copyTo": [
+          "/modloader"
+        ]
+      }
+    ],
+    "status": "complete",
+    "password": "",
+    "requires": null,
+    "versions": null
   }
 ]
