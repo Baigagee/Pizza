@@ -3990,5 +3990,58 @@
     "password": "",
     "requires": null,
     "versions": null
+  },
+  {
+    "id": "f2ec3ed4-1e1a-44c1-988e-db038a7cd0b8",
+    "name": "Pet Parrots Mod",
+    "description": "Mod replaces cane weapon with a parrot that sits on CJ's shoulder.",
+    "downloadUrl": "https://fileservice.gtainside.de/downloads/ftph/1492118437_PetParrots.rar",
+    "installPath": "/download",
+    "instructions": [
+      {
+        "type": "copyTo",
+        "subType": "inside",
+        "fileNames": [
+          "PARROT.mp3",
+          "food4.cs",
+          "food5.cs",
+          "Parrot.cs"
+        ],
+        "folderName": "cleo",
+        "folderNavigation": null,
+        "copyTo": [
+          "/cleo"
+        ]
+      },
+      {
+        "type": "copyTo",
+        "subType": "inside",
+        "fileNames": [
+          "GUN_CANE.dff",
+          "GUN_CANE.txd"
+        ],
+        "folderName": ".",
+        "folderNavigation": null,
+        "copyTo": [
+          "/models/gta3.img"
+        ]
+      },
+      {
+        "type": "copyTo",
+        "subType": "inside",
+        "fileNames": [
+          "weapon.dat"
+        ],
+        "folderName": "data",
+        "folderNavigation": null,
+        "copyTo": [
+          "/data"
+        ]
+      }
+    ],
+    "status": "active",
+    "password": "/",
+    "requires": null,
+    "versions": null
   }
 ]
