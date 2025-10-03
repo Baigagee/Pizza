@@ -3853,5 +3853,34 @@
       }
     ],
     "status": "false"
+  },
+  {
+    "id": "b75946d9-5257-4fc3-ba10-0e13c98bbaab",
+    "name": "The Birds Update Mod",
+    "description": "Enhances GTA San Andreas with new bird models and a bird creation tool.",
+    "downloadUrl": "https://drive.google.com/file/d/0B1sAJQAUfOOYUWJXRVFCemxHZk0/view?resourcekey=0-QrEIiDIcDyq2VnpQhG1eCQ",
+    "installPath": "/download",
+    "instructions": [
+      {
+        "type": "copyTo",
+        "subType": "inside",
+        "fileNames": [
+          "*"
+        ],
+        "folderName": ".",
+        "folderNavigation": [
+          "TheBirdsUpdate"
+        ],
+        "copyTo": [
+          "/modloader"
+        ]
+      }
+    ],
+    "status": "active",
+    "password": "",
+    "requires": null,
+    "versions": [
+      "v1.0"
+    ]
   }
 ]
