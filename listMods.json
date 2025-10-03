@@ -3936,5 +3936,32 @@
     "versions": [
       "v1.0.1"
     ]
+  },
+  {
+    "id": "75e0a703-2c8f-4015-b070-5afc85e23fa4",
+    "name": "Pedestres Usando Objetos do Mapa",
+    "description": "Mod to include pedestrians using map objects in GTA San Andreas.",
+    "downloadUrl": "https://drive.google.com/open?id=0B04D_5yMCyl9TU5FLWpZb1dxRXM",
+    "installPath": "/download",
+    "instructions": [
+      {
+        "type": "copyTo",
+        "subType": "outside",
+        "fileNames": [
+          "*"
+        ],
+        "folderName": "/Pedestres usando objetos do mapa",
+        "folderNavigation": null,
+        "copyTo": [
+          "/modloader"
+        ]
+      }
+    ],
+    "status": "active",
+    "password": "",
+    "requires": [
+      "SA-Modloader"
+    ],
+    "versions": []
   }
 ]
