@@ -4376,5 +4376,43 @@
     "versions": [
       "1.0"
     ]
+  },
+  {
+    "id": "bd0342ff-3236-43af-b4b3-ea47ec807616",
+    "name": "Realistic Life Situation 7",
+    "description": "This mod adds realistic road life situations to Mount Chiliad in GTA San Andreas.",
+    "downloadUrl": "https://fileservice.gtainside.de/downloads/ftpl/1656792633_Realistic%20Life%20Situation%207.zip",
+    "installPath": "/download",
+    "instructions": [
+      {
+        "type": "copyTo",
+        "subType": "inside",
+        "fileNames": [
+          "Realistic_Life_Situation_7.cs"
+        ],
+        "folderName": "/Realistic Life Situation 7/Gameface/Binaries/Win64/CLEO",
+        "folderNavigation": [
+          "Realistic Life Situation 7",
+          "Gameface",
+          "Binaries",
+          "Win64",
+          "CLEO"
+        ],
+        "copyTo": [
+          "Gameface",
+          "Binaries",
+          "Win64",
+          "CLEO"
+        ]
+      }
+    ],
+    "status": "active",
+    "password": "null",
+    "requires": [
+      "CLEO Redux"
+    ],
+    "versions": [
+      "1.0"
+    ]
   }
 ]
