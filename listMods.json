@@ -4183,5 +4183,30 @@
       }
     ],
     "status": "false"
+  },
+  {
+    "id": "efd4e9f3-36f8-4457-97a7-541340d17082",
+    "name": "Stahl Mod",
+    "description": "Install the Stahl mod for GTA San Andreas by placing the necessary files into the modloader folder.",
+    "downloadUrl": "https://download.gtanet.com/gtagarage/files/39440/Stahl.rar?st=1cSi7CDxgbT9jer0gmWAxQ&e=1759560305",
+    "installPath": "/download",
+    "instructions": [
+      {
+        "type": "copyTo",
+        "subType": "inside",
+        "fileNames": [
+          "stahl"
+        ],
+        "folderName": "/",
+        "folderNavigation": [],
+        "copyTo": [
+          "/modloader"
+        ]
+      }
+    ],
+    "status": "active",
+    "password": "",
+    "requires": null,
+    "versions": null
   }
 ]
