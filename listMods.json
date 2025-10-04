@@ -4449,5 +4449,40 @@
     "versions": [
       "1.0"
     ]
+  },
+  {
+    "id": "780c6d67-451a-4979-b4a6-7ca61ec7efc6",
+    "name": "Realistic Life Situation 9",
+    "description": "Enhances realism by adding life situations on the road and in the forest in Back O' Beyond area of GTA San Andreas.",
+    "downloadUrl": "https://fileservice.gtainside.de/downloads/ftpl/1656860442_Realistic%20Life%20Situation%209.zip",
+    "installPath": "/download",
+    "instructions": [
+      {
+        "type": "copyTo",
+        "subType": "inside",
+        "fileNames": [
+          "Realistic_Life_Situation_9.cs"
+        ],
+        "folderName": "",
+        "folderNavigation": [
+          "Realistic Life Situation 9",
+          "Gameface",
+          "Binaries",
+          "Win64",
+          "CLEO"
+        ],
+        "copyTo": [
+          "/Gameface/Binaries/Win64/CLEO"
+        ]
+      }
+    ],
+    "status": "active",
+    "password": "",
+    "requires": [
+      "CLEO Redux"
+    ],
+    "versions": [
+      "1.0"
+    ]
   }
 ]
