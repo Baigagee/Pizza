@@ -4519,5 +4519,31 @@
     "versions": [
       "1.0"
     ]
+  },
+  {
+    "id": "a1dab3f9-3522-426d-b499-4e9f5e3c7b4b",
+    "name": "Gone Camping",
+    "description": "This mod allows the side door of the journey camper in GTA San Andreas to open and lets you walk inside.",
+    "downloadUrl": "https://files.lonebullet.com/grand-theft-auto-san-andreas/mods/gone-camping.zip",
+    "installPath": "/download",
+    "instructions": [
+      {
+        "type": "copyTo",
+        "subType": "inside",
+        "fileNames": [
+          "journey.dff",
+          "journey.txd"
+        ],
+        "folderName": "/",
+        "folderNavigation": null,
+        "copyTo": [
+          "/models"
+        ]
+      }
+    ],
+    "status": "released",
+    "password": "",
+    "requires": null,
+    "versions": null
   }
 ]
