@@ -4208,5 +4208,38 @@
     "password": "",
     "requires": null,
     "versions": null
+  },
+  {
+    "id": "a9b0717d-2250-40ed-b6d5-529414d69d12",
+    "name": "Realistic Life Situation 1",
+    "description": "Increases realism by adding life on the road scenarios in Bone County.",
+    "downloadUrl": "https://fileservice.gtainside.de/downloads/ftpl/1656703826_Realistic%20Life%20Situation%201.zip",
+    "installPath": "/download",
+    "instructions": [
+      {
+        "type": "copyTo",
+        "subType": "inside",
+        "fileNames": [
+          "Realistic_Life_Situation_1.cs"
+        ],
+        "folderName": "CLEO",
+        "folderNavigation": [
+          "Gameface",
+          "Binaries",
+          "Win64"
+        ],
+        "copyTo": [
+          "Gameface/Binaries/Win64/CLEO"
+        ]
+      }
+    ],
+    "status": "active",
+    "password": "",
+    "requires": [
+      "CLEO Redux"
+    ],
+    "versions": [
+      "1.0"
+    ]
   }
 ]
