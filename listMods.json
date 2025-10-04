@@ -4571,5 +4571,33 @@
     "password": "",
     "requires": null,
     "versions": null
+  },
+  {
+    "id": "c66831c1-6a3d-44ea-b47e-d8b9b81cc8d9",
+    "name": "The Tropical Mod Beta 2.0",
+    "description": "Adds a tropical environment to GTA San Andreas with new textures and an enterable tropic.",
+    "downloadUrl": "https://download.gtanet.com/gtagarage/files/19111/The_Tropical_Mod_Beta_2.0.rar?st=4VuqJaKZ54B_f0rXcrvTBg&e=1759618933",
+    "installPath": "/download",
+    "instructions": [
+      {
+        "type": "copyTo",
+        "subType": "inside",
+        "fileNames": [
+          "tropic.dff",
+          "tropic.txd"
+        ],
+        "folderName": "Mod Files",
+        "folderNavigation": null,
+        "copyTo": [
+          "/models/coll"
+        ]
+      }
+    ],
+    "status": "active",
+    "password": "",
+    "requires": null,
+    "versions": [
+      "2.0 Beta"
+    ]
   }
 ]
