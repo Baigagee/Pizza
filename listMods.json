@@ -4484,5 +4484,40 @@
     "versions": [
       "1.0"
     ]
+  },
+  {
+    "id": "018f9e81-e95d-4dc1-b020-3b9bf6402570",
+    "name": "Realistic Life Situation 10",
+    "description": "This mod adds realistic road life scenarios in Bone County in GTA San Andreas.",
+    "downloadUrl": "https://fileservice.gtainside.de/downloads/ftpl/1656860445_Realistic%20Life%20Situation%2010.zip",
+    "installPath": "/download",
+    "instructions": [
+      {
+        "type": "copyTo",
+        "subType": "inside",
+        "fileNames": [
+          "Realistic_Life_Situation_10.cs"
+        ],
+        "folderName": "/",
+        "folderNavigation": [
+          "Realistic Life Situation 10",
+          "Gameface",
+          "Binaries",
+          "Win64",
+          "CLEO"
+        ],
+        "copyTo": [
+          "/Gameface/Binaries/Win64/CLEO"
+        ]
+      }
+    ],
+    "status": "active",
+    "password": "",
+    "requires": [
+      "CLEO Redux"
+    ],
+    "versions": [
+      "1.0"
+    ]
   }
 ]
