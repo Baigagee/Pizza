@@ -4414,5 +4414,40 @@
     "versions": [
       "1.0"
     ]
+  },
+  {
+    "id": "5f557f72-783b-4b26-a7e8-0ada08be4804",
+    "name": "Realistic Life Situation 8",
+    "description": "This mod enhances realism by adding a roadside life situation in Tierra Robada for GTA San Andreas.",
+    "downloadUrl": "https://fileservice.gtainside.de/downloads/ftpl/1656860439_Realistic%20Life%20Situation%208.zip",
+    "installPath": "/download",
+    "instructions": [
+      {
+        "type": "copyTo",
+        "subType": "inside",
+        "fileNames": [
+          "Realistic_Life_Situation_8.cs"
+        ],
+        "folderName": "/",
+        "folderNavigation": [
+          "Realistic Life Situation 8",
+          "Gameface",
+          "Binaries",
+          "Win64",
+          "CLEO"
+        ],
+        "copyTo": [
+          "Gameface/Binaries/Win64/CLEO"
+        ]
+      }
+    ],
+    "status": "active",
+    "password": "",
+    "requires": [
+      "CLEO Redux"
+    ],
+    "versions": [
+      "1.0"
+    ]
   }
 ]
