@@ -4241,5 +4241,38 @@
     "versions": [
       "1.0"
     ]
+  },
+  {
+    "id": "5bbb6fda-5741-48f2-bf7a-e90f6d5020ed",
+    "name": "Realistic Life Situation 2",
+    "description": "This mod adds a realistic life scenario to Red County in GTA San Andreas, making the game environment more immersive.",
+    "downloadUrl": "https://fileservice.gtainside.de/downloads/ftpl/1656703829_Realistic%20Life%20Situation%202.zip",
+    "installPath": "/download",
+    "instructions": [
+      {
+        "type": "copyTo",
+        "subType": "inside",
+        "fileNames": [
+          "Realistic_Life_Situation_2.cs"
+        ],
+        "folderName": "/cleo",
+        "folderNavigation": [
+          "Gameface",
+          "Binaries",
+          "Win64"
+        ],
+        "copyTo": [
+          "/Gameface/Binaries/Win64/CLEO"
+        ]
+      }
+    ],
+    "status": "active",
+    "password": "",
+    "requires": [
+      "CLEO Redux"
+    ],
+    "versions": [
+      "1.0"
+    ]
   }
 ]
