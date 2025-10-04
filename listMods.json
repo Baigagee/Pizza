@@ -4545,5 +4545,31 @@
     "password": "",
     "requires": null,
     "versions": null
+  },
+  {
+    "id": "249df9ca-1586-4326-a5ec-5c37f59d7780",
+    "name": "Enterable Shamal Mod",
+    "description": "This mod allows players to enter the Shamal aircraft in GTA San Andreas. Includes improved models from September 2018.",
+    "downloadUrl": "https://fileservice.gtainside.de/downloads/ftph/1537321326_shamal-enterable.zip",
+    "installPath": "/download",
+    "instructions": [
+      {
+        "type": "copyTo",
+        "subType": "inside",
+        "fileNames": [
+          "shamal.dff",
+          "shamal.txd"
+        ],
+        "folderName": "/",
+        "folderNavigation": null,
+        "copyTo": [
+          "/models/generic"
+        ]
+      }
+    ],
+    "status": "active",
+    "password": "",
+    "requires": null,
+    "versions": null
   }
 ]
