@@ -4599,5 +4599,33 @@
     "versions": [
       "2.0 Beta"
     ]
+  },
+  {
+    "id": "9d477365-84aa-4bb3-b6e2-871b053fdc13",
+    "name": "Enterable Nevada",
+    "description": "Make the Nevada plane enterable in GTA San Andreas, allowing players to walk inside.",
+    "downloadUrl": "https://fileservice.gtainside.de/downloads/ftph/1494626632_nevada.zip",
+    "installPath": "/download",
+    "instructions": [
+      {
+        "type": "copyTo",
+        "subType": "inside",
+        "fileNames": [
+          "nevada.dff",
+          "nevada.txd"
+        ],
+        "folderName": "/",
+        "folderNavigation": null,
+        "copyTo": [
+          "/models/gta3.img"
+        ]
+      }
+    ],
+    "status": "active",
+    "password": "",
+    "requires": null,
+    "versions": [
+      "1.0"
+    ]
   }
 ]
