@@ -4274,5 +4274,40 @@
     "versions": [
       "1.0"
     ]
+  },
+  {
+    "id": "21902add-6b45-431d-afbc-8936d4e1dd1a",
+    "name": "Realistic Life Situation 4",
+    "description": "Adds a realistic life scenario with parked vehicles and pedestrians discussing on the road.",
+    "downloadUrl": "https://fileservice.gtainside.de/downloads/ftpl/1656792614_Realistic%20Life%20Situation%204.zip",
+    "installPath": "/download",
+    "instructions": [
+      {
+        "type": "copyTo",
+        "subType": "inside",
+        "fileNames": [
+          "Realistic_Life_Situation_4.cs"
+        ],
+        "folderName": ".",
+        "folderNavigation": [
+          "Realistic Life Situation 4",
+          "Gameface",
+          "Binaries",
+          "Win64",
+          "CLEO"
+        ],
+        "copyTo": [
+          "Gameface/Binaries/Win64/CLEO"
+        ]
+      }
+    ],
+    "status": "active",
+    "password": "",
+    "requires": [
+      "CLEO Redux"
+    ],
+    "versions": [
+      "1.0"
+    ]
   }
 ]
