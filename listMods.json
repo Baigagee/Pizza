@@ -4309,5 +4309,38 @@
     "versions": [
       "1.0"
     ]
+  },
+  {
+    "id": "a03f802d-d32f-4f98-9b4d-19d4dd88c878",
+    "name": "Realistic Life Situation 5",
+    "description": "Adds a realistic life situation to Tierra Robada in GTA San Andreas.",
+    "downloadUrl": "https://fileservice.gtainside.de/downloads/ftpl/1656792617_Realistic%20Life%20Situation%205.zip",
+    "installPath": "/download",
+    "instructions": [
+      {
+        "type": "copyTo",
+        "subType": "inside",
+        "fileNames": [
+          "Realistic_Life_Situation_5.cs"
+        ],
+        "folderName": "CLEO",
+        "folderNavigation": [
+          "Gameface",
+          "Binaries",
+          "Win64"
+        ],
+        "copyTo": [
+          "/Gameface/Binaries/Win64/CLEO"
+        ]
+      }
+    ],
+    "status": "complete",
+    "password": "",
+    "requires": [
+      "CLEO Redux"
+    ],
+    "versions": [
+      "1.0"
+    ]
   }
 ]
