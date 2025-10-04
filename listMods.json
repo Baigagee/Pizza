@@ -4342,5 +4342,39 @@
     "versions": [
       "1.0"
     ]
+  },
+  {
+    "id": "37c956c7-d2aa-4b17-8d68-159c328f0f10",
+    "name": "Realistic Life Situation 6",
+    "description": "Adds a life scenario to the gas station in Las Venturas.",
+    "downloadUrl": "https://fileservice.gtainside.de/downloads/ftpl/1656792629_Realistic%20Life%20Situation%206.zip",
+    "installPath": "/download",
+    "instructions": [
+      {
+        "type": "copyTo",
+        "subType": "inside",
+        "fileNames": [
+          "Realistic_Life_Situation_6.cs"
+        ],
+        "folderName": ".",
+        "folderNavigation": [
+          "Gameface",
+          "Binaries",
+          "Win64",
+          "CLEO"
+        ],
+        "copyTo": [
+          "Gameface/Binaries/Win64/CLEO"
+        ]
+      }
+    ],
+    "status": "active",
+    "password": "",
+    "requires": [
+      "CLEO Redux"
+    ],
+    "versions": [
+      "1.0"
+    ]
   }
 ]
