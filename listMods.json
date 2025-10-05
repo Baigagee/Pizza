@@ -4671,5 +4671,30 @@
       }
     ],
     "status": "false"
+  },
+  {
+    "id": "b445a300-230b-41d1-8860-544242aeadec",
+    "name": "Insane Car Crashing Mod",
+    "description": "Enhances the car crashing effects.",
+    "downloadUrl": "https://fileservice.gtainside.de/downloads/ftph/1490119202_insane-car-crashing-mod.rar",
+    "installPath": "/download",
+    "instructions": [
+      {
+        "type": "copyTo",
+        "subType": "inside",
+        "fileNames": [
+          "vehicle.txd"
+        ],
+        "folderName": "00 - Copy to game folder",
+        "folderNavigation": null,
+        "copyTo": [
+          "/"
+        ]
+      }
+    ],
+    "status": "active",
+    "password": "",
+    "requires": null,
+    "versions": null
   }
 ]
