@@ -4649,5 +4649,27 @@
       }
     ],
     "status": "false"
+  },
+  {
+    "id": "36152dd9-ab7c-4984-9c07-564e134e1b18",
+    "name": "Turn Off Engine",
+    "description": "Allows for the engine to be turned on and off.",
+    "downloadUrl": "https://download.gtanet.com/gtagarage/files/37742/turn_off_engine.rar?st=EwBwHJrHzPc7_ML7rf5d4w&e=1759696255",
+    "installPath": "/download",
+    "instructions": [
+      {
+        "type": "copyTo",
+        "subType": "inside",
+        "fileNames": [
+          "turn off engine.cs"
+        ],
+        "folderName": "",
+        "folderNavigation": [],
+        "copyTo": [
+          "/CLEO"
+        ]
+      }
+    ],
+    "status": "false"
   }
 ]
