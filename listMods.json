@@ -4671,30 +4671,5 @@
       }
     ],
     "status": "false"
-  },
-  {
-    "id": "be71fbbc-948a-4431-8499-627db3a8a81b",
-    "name": "Fire Ladder Mod",
-    "description": "This mod enhances the functionality of the fire truck ladder in GTA San Andreas.",
-    "downloadUrl": "https://drive.google.com/file/d/0B04D_5yMCyl9RkZuOUtlMTlYQUE/view?resourcekey=0-T4shhrgzFoIkPxxD_ZM1Ww",
-    "installPath": "/download",
-    "instructions": [
-      {
-        "type": "copyTo",
-        "subType": "inside",
-        "fileNames": [
-          "modloader"
-        ],
-        "folderName": "/",
-        "folderNavigation": null,
-        "copyTo": [
-          "/"
-        ]
-      }
-    ],
-    "status": "active",
-    "password": "",
-    "requires": null,
-    "versions": null
   }
 ]
