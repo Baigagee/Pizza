@@ -4630,7 +4630,7 @@
   },
   {
     "id": "28a24c3b-2a61-49e4-8461-0919a49f1561",
-    "name": "Car Mods",
+    "name": " Transfender Fix",
     "description": "A mod for GTA San Andreas that allows car customization, including a unique feature for the camper van.",
     "downloadUrl": "https://download.gtanet.com/gtagarage/files/56/carmods.zip?st=iaKwrD0cE96uLJFZ9T_xug&e=1759696097",
     "installPath": "/download",
@@ -4648,9 +4648,6 @@
         ]
       }
     ],
-    "status": "active",
-    "password": "",
-    "requires": null,
-    "versions": null
+    "status": "false"
   }
 ]
