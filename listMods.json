@@ -4681,7 +4681,7 @@
     "instructions": [
       {
         "type": "copyTo",
-        "subType": "outside",
+        "subType": "inside",
         "fileNames": [
           "*"
         ],
@@ -4693,7 +4693,7 @@
       },
       {
         "type": "copyTo",
-        "subType": "outside",
+        "subType": "inside",
         "fileNames": [
           "*"
         ],
@@ -4704,11 +4704,6 @@
         ]
       }
     ],
-    "status": "active",
-    "password": "",
-    "requires": null,
-    "versions": [
-      "2.0.2"
-    ]
+    "status": "Disabled"
   }
 ]
