@@ -4671,5 +4671,44 @@
       }
     ],
     "status": "false"
+  },
+  {
+    "id": "772a7d1c-4a63-41b0-97d2-58f263acdc57",
+    "name": "Horn Animation Mod",
+    "description": "This mod adds a horn animation for vehicles in GTA San Andreas.",
+    "downloadUrl": "https://drive.usercontent.google.com/download?id=0B1sAJQAUfOOYd1B4dFhaRENFLWs&export=download&authuser=0",
+    "installPath": "/download",
+    "instructions": [
+      {
+        "type": "copyTo",
+        "subType": "outside",
+        "fileNames": [
+          "*"
+        ],
+        "folderName": "cleo",
+        "folderNavigation": null,
+        "copyTo": [
+          "/modloader/horn_anim"
+        ]
+      },
+      {
+        "type": "copyTo",
+        "subType": "outside",
+        "fileNames": [
+          "*"
+        ],
+        "folderName": "gta3img",
+        "folderNavigation": null,
+        "copyTo": [
+          "/modloader/horn_anim"
+        ]
+      }
+    ],
+    "status": "active",
+    "password": "",
+    "requires": null,
+    "versions": [
+      "2.0.2"
+    ]
   }
 ]
