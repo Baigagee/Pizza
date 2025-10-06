@@ -5301,5 +5301,46 @@
     "versions": [
       "2023"
     ]
+  },
+  {
+    "id": "9905a67f-395a-483c-b9b0-5ec53edaa3c5",
+    "name": "Horn Animation Mod",
+    "description": "Adds horn animation functionality to GTA San Andreas.",
+    "downloadUrl": "https://drive.google.com/file/d/0B1sAJQAUfOOYd1B4dFhaRENFLWs/view",
+    "installPath": "/download",
+    "instructions": [
+      {
+        "type": "copyTo",
+        "subType": "inside",
+        "fileNames": [
+          "*"
+        ],
+        "folderName": "cleo",
+        "folderNavigation": null,
+        "copyTo": [
+          "/modloader"
+        ]
+      },
+      {
+        "type": "copyTo",
+        "subType": "inside",
+        "fileNames": [
+          "*"
+        ],
+        "folderName": "gta3img",
+        "folderNavigation": null,
+        "copyTo": [
+          "/modloader"
+        ]
+      }
+    ],
+    "status": "active",
+    "password": "",
+    "requires": [
+      "Modloader"
+    ],
+    "versions": [
+      "2.0.2"
+    ]
   }
 ]
