@@ -5217,5 +5217,35 @@
     "versions": [
       "v1.0"
     ]
+  },
+  {
+    "id": "c8040bd8-d017-4e20-9f1f-c32ba23d6990",
+    "name": "WeaponRecoilAuto",
+    "description": "CLEO script to add weapon recoil in GTA San Andreas.",
+    "downloadUrl": "https://drive.google.com/file/d/1jDxmuSEVl2gMDLdwiJD_cyxmq8ulZqcp/view",
+    "installPath": "/download",
+    "instructions": [
+      {
+        "type": "copyTo",
+        "subType": "inside",
+        "fileNames": [
+          "WeaponRecoilAuto.cs",
+          "WeaponRecoilAuto.ini"
+        ],
+        "folderName": ".",
+        "folderNavigation": [
+          "cleo"
+        ],
+        "copyTo": [
+          "cleo"
+        ]
+      }
+    ],
+    "status": "active",
+    "password": "",
+    "requires": null,
+    "versions": [
+      "2.6"
+    ]
   }
 ]
