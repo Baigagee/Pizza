@@ -4837,16 +4837,13 @@
           "Hide From Cops.cs",
           "Pilots in Heli.cs"
         ],
-        "folderName": "?",
+        "folderName": "",
         "folderNavigation": null,
         "copyTo": [
           "/cleo"
         ]
       }
     ],
-    "status": "complete",
-    "password": "",
-    "requires": null,
-    "versions": null
+    "status": "Disabled"
   }
 ]
