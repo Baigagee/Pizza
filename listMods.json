@@ -5031,5 +5031,34 @@
     "versions": [
       "v1.0"
     ]
+  },
+  {
+    "id": "f4b16e68-ce75-48b9-8cbd-ecbc69f7c760",
+    "name": "Hands Up Fix",
+    "description": "Fix for hands up animation in GTA San Andreas by JuniorDjjr.",
+    "downloadUrl": "https://drive.usercontent.google.com/download?id=0B1sAJQAUfOOYRmdpOGQwUkZGSjg&export=download&authuser=0",
+    "installPath": "/download",
+    "instructions": [
+      {
+        "type": "copyTo",
+        "subType": "inside",
+        "fileNames": [
+          "cleo"
+        ],
+        "folderName": ".",
+        "folderNavigation": null,
+        "copyTo": [
+          "/modloader"
+        ]
+      }
+    ],
+    "status": "active",
+    "password": "",
+    "requires": [
+      "Modloader"
+    ],
+    "versions": [
+      "v2.0.3 HOTFIX"
+    ]
   }
 ]
