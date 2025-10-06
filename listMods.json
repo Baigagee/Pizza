@@ -4705,5 +4705,30 @@
       }
     ],
     "status": "Disabled"
+  },
+  {
+    "id": "06c8f279-a335-4203-940a-114ff1bd429e",
+    "name": "FIRELA Mod",
+    "description": "Enhances the utility of the fire truck ladder in GTA San Andreas.",
+    "downloadUrl": "https://drive.google.com/file/d/0B04D_5yMCyl9RkZuOUtlMTlYQUE/view?resourcekey=0-T4shhrgzFoIkPxxD_ZM1Ww",
+    "installPath": "/download",
+    "instructions": [
+      {
+        "type": "copyTo",
+        "subType": "inside",
+        "fileNames": [
+          "*"
+        ],
+        "folderName": "modloader",
+        "folderNavigation": null,
+        "copyTo": [
+          "/"
+        ]
+      }
+    ],
+    "status": "active",
+    "password": "",
+    "requires": null,
+    "versions": null
   }
 ]
