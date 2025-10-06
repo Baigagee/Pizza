@@ -5115,5 +5115,30 @@
       }
     ],
     "status": "Disabled"
+  },
+  {
+    "id": "fadd8cfa-232b-45cd-9e96-bb34f4ccbf56",
+    "name": "Spray Tags in San Fierro",
+    "description": "This mod adds over 20 unused Rifa gang tags around San Fierro.",
+    "downloadUrl": "https://download.gtanet.com/gtagarage/files/29845/SF_Tag_Mod.rar?st=ETO-ucYu3DeGLWjo0ZEO0Q&e=1759715054",
+    "installPath": "/download",
+    "instructions": [
+      {
+        "type": "copyTo",
+        "subType": "inside",
+        "fileNames": [
+          "*"
+        ],
+        "folderName": "Files",
+        "folderNavigation": null,
+        "copyTo": [
+          "/"
+        ]
+      }
+    ],
+    "status": "active",
+    "password": "",
+    "requires": null,
+    "versions": null
   }
 ]
