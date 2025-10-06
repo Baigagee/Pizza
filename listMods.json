@@ -4845,5 +4845,42 @@
       }
     ],
     "status": "Disabled"
+  },
+  {
+    "id": "feffc891-73f0-4e57-b01a-c80663a8966e",
+    "name": "Police Intelligence Improvement v2.0",
+    "description": "Enhances police AI and behavior in GTA San Andreas for a more challenging experience.",
+    "downloadUrl": "https://fileservice.gtainside.de/downloads/ftph/1499691121_Police%20intelligence%20Improvment%20v2.0.rar",
+    "installPath": "/download",
+    "instructions": [
+      {
+        "type": "copyTo",
+        "subType": "inside",
+        "fileNames": [
+          "*"
+        ],
+        "folderName": "CLEO",
+        "folderNavigation": null,
+        "copyTo": [
+          "/cleo"
+        ]
+      },
+      {
+        "type": "copyTo",
+        "subType": "inside",
+        "fileNames": [
+          "colt45.ifp"
+        ],
+        "folderName": ".",
+        "folderNavigation": null,
+        "copyTo": [
+          "/modloader"
+        ]
+      }
+    ],
+    "status": "active",
+    "password": "",
+    "requires": null,
+    "versions": null
   }
 ]
