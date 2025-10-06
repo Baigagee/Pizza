@@ -5190,5 +5190,32 @@
     "versions": [
       "v2.0.3 HOTFIX"
     ]
+  },
+  {
+    "id": "47e77edb-9b10-4479-811c-aa94a241960d",
+    "name": "Insult Mod",
+    "description": "Adds a new feature to Grand Theft Auto San Andreas where CJ can insult NPCs.",
+    "downloadUrl": "https://drive.google.com/file/d/0B1sAJQAUfOOYTnR1c25La0NDMHM/view",
+    "installPath": "/download",
+    "instructions": [
+      {
+        "type": "copyTo",
+        "subType": "inside",
+        "fileNames": [
+          "*"
+        ],
+        "folderName": "Insult Mod",
+        "folderNavigation": null,
+        "copyTo": [
+          "modloader"
+        ]
+      }
+    ],
+    "status": "active",
+    "password": "null",
+    "requires": null,
+    "versions": [
+      "v1.0"
+    ]
   }
 ]
