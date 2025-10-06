@@ -4879,5 +4879,32 @@
       }
     ],
     "status": "Disabled"
+  },
+  {
+    "id": "c56d46f9-e92e-4cfc-8bbc-5c75ea276791",
+    "name": "RC Mod Play",
+    "description": "A mod to control RC vehicles in GTA San Andreas.",
+    "downloadUrl": "https://fileservice.gtainside.de/downloads/ftpl/1686058523_v1.1.rar",
+    "installPath": "/download",
+    "instructions": [
+      {
+        "type": "copyTo",
+        "subType": "inside",
+        "fileNames": [
+          "*"
+        ],
+        "folderName": "rcmodplay",
+        "folderNavigation": null,
+        "copyTo": [
+          "/modloader"
+        ]
+      }
+    ],
+    "status": "complete",
+    "password": "",
+    "requires": null,
+    "versions": [
+      "v1.1"
+    ]
   }
 ]
