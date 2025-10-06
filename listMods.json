@@ -4946,15 +4946,10 @@
         "folderName": "cleo",
         "folderNavigation": null,
         "copyTo": [
-          "cleo"
+          "/cleo"
         ]
       }
     ],
-    "status": "active",
-    "password": "",
-    "requires": null,
-    "versions": [
-      "2.6"
-    ]
+    "status": "Disabled"
   }
 ]
