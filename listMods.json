@@ -5272,5 +5272,34 @@
     "password": "",
     "requires": null,
     "versions": null
+  },
+  {
+    "id": "72c47e08-01a6-428d-9425-6a08e0791b4d",
+    "name": "NPC Lowrider Mod",
+    "description": "This mod adds NPCs with cars that bounce like Lowriders in GTA San Andreas.",
+    "downloadUrl": "https://drive.google.com/uc?id=1gVKqZLTIksjRddQ_bLcoSkVa4ds19yjw&export=download",
+    "installPath": "/download",
+    "instructions": [
+      {
+        "type": "copyTo",
+        "subType": "inside",
+        "fileNames": [
+          "*"
+        ],
+        "folderName": "NPC Lowrider",
+        "folderNavigation": null,
+        "copyTo": [
+          "/modloader/npc lowrider"
+        ]
+      }
+    ],
+    "status": "active",
+    "password": "",
+    "requires": [
+      "Real Traffic Fix v2.2 beta"
+    ],
+    "versions": [
+      "2023"
+    ]
   }
 ]
