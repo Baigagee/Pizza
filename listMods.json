@@ -4807,7 +4807,20 @@
     "description": "Creates lights around San Andreas for an more immersive feel",
     "downloadUrl": "https://fileservice.gtainside.de/downloads/ftpl/1633730881_Project%20Immerse-Yourself%20V%200.3.rar",
     "installPath": "/download",
-    "instructions": [],
+    "instructions": [
+      {
+        "type": "copyTo",
+        "subType": "inside",
+        "fileNames": [
+          "Project Immerse-Yourself V 0.3"
+        ],
+        "folderName": "Project Immerse-Yourself V 0.3",
+        "folderNavigation": [],
+        "copyTo": [
+          "/modloader"
+        ]
+      }
+    ],
     "status": "false"
   }
 ]
