@@ -4749,5 +4749,28 @@
       }
     ],
     "status": "Disabled"
+  },
+  {
+    "id": "6f51f5f7-0c75-487a-958f-67e4d1cea400",
+    "name": "SkidBlow",
+    "description": "this mod will cause tires to explode when skidding",
+    "downloadUrl": "https://fileservice.gtainside.de/downloads/ftpm/1720726300_SkidBlow.rar",
+    "installPath": "/download",
+    "instructions": [
+      {
+        "type": "copyTo",
+        "subType": "inside",
+        "fileNames": [
+          "SkidBlow.ini",
+          "SkidBlow.cs"
+        ],
+        "folderName": "",
+        "folderNavigation": [],
+        "copyTo": [
+          "/modloader"
+        ]
+      }
+    ],
+    "status": "false"
   }
 ]
