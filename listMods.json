@@ -4951,5 +4951,33 @@
       }
     ],
     "status": "Disabled"
+  },
+  {
+    "id": "f29baefb-12f5-4400-b7fa-329ba0f8de87",
+    "name": "Headlight Destroyer",
+    "description": "A simple script for GTA San Andreas that allows headlights to be shot and broken, including a broken glass effect.",
+    "downloadUrl": "https://fileservice.gtainside.de/downloads/ftpl/1709555283_v1.1.rar",
+    "installPath": "/download",
+    "instructions": [
+      {
+        "type": "copyTo",
+        "subType": "inside",
+        "fileNames": [
+          "Headlight destroyer.cs",
+          "Headlight destroyer.ini"
+        ],
+        "folderName": "Headlight destroyer",
+        "folderNavigation": null,
+        "copyTo": [
+          "/modloader"
+        ]
+      }
+    ],
+    "status": "active",
+    "password": "",
+    "requires": null,
+    "versions": [
+      "v1.1"
+    ]
   }
 ]
