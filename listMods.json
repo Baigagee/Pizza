@@ -4744,17 +4744,10 @@
         "folderName": "NPC Lowrider",
         "folderNavigation": null,
         "copyTo": [
-          "modloader"
+          "/modloader"
         ]
       }
     ],
-    "status": "complete",
-    "password": "",
-    "requires": [
-      "SA Real Traffic Fix v2.2 beta"
-    ],
-    "versions": [
-      "1.0"
-    ]
+    "status": "Disabled"
   }
 ]
