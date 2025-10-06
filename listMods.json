@@ -4906,5 +4906,30 @@
     "versions": [
       "v1.1"
     ]
+  },
+  {
+    "id": "f65c2360-7f44-4337-8c54-72d9e01454b7",
+    "name": "Spread Fix",
+    "description": "Spread Fix mod for GTA San Andreas, made by Ryosuke839.",
+    "downloadUrl": "https://drive.usercontent.google.com/download?id=117qp1YSzXWH4aK5SngJ_pZkuiz6Wd66W&export=download&authuser=0",
+    "installPath": "/download",
+    "instructions": [
+      {
+        "type": "copyTo",
+        "subType": "outside",
+        "fileNames": [
+          "spreadfix.asi"
+        ],
+        "folderName": ".",
+        "folderNavigation": null,
+        "copyTo": [
+          "/modloader"
+        ]
+      }
+    ],
+    "status": "active",
+    "password": "",
+    "requires": null,
+    "versions": null
   }
 ]
