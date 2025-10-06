@@ -4764,8 +4764,11 @@
           "SkidBlow.ini",
           "SkidBlow.cs"
         ],
-        "folderName": "",
-        "folderNavigation": [],
+        "folderName": "SkidBlow",
+        "folderNavigation": [
+          "SkidBlow",
+          "cleo"
+        ],
         "copyTo": [
           "/modloader"
         ]
