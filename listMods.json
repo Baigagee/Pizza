@@ -4754,5 +4754,32 @@
     "versions": [
       "1.0"
     ]
+  },
+  {
+    "id": "c77bb826-b2ec-4b59-900d-497f2f85bf81",
+    "name": "Rear Lights Mod",
+    "description": "A mod that adds speed effects to taillights when they are turned on, using nitro, and braking.",
+    "downloadUrl": "https://fileservice.gtainside.de/downloads/ftpl/1713021015_v3.4.rar",
+    "installPath": "/download",
+    "instructions": [
+      {
+        "type": "copyTo",
+        "subType": "inside",
+        "fileNames": [
+          "*"
+        ],
+        "folderName": "RearLightsMod",
+        "folderNavigation": [],
+        "copyTo": [
+          "modloader"
+        ]
+      }
+    ],
+    "status": "active",
+    "password": "",
+    "requires": null,
+    "versions": [
+      "3.4"
+    ]
   }
 ]
