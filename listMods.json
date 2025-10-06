@@ -5060,5 +5060,34 @@
     "versions": [
       "v2.0.3 HOTFIX"
     ]
+  },
+  {
+    "id": "bb6cd8a5-fde6-46eb-a189-fc755f9e2cbe",
+    "name": "Camera Settings Mod",
+    "description": "Mod for adjusting camera settings in GTA San Andreas, with rocking effects during driving and accidents.",
+    "downloadUrl": "https://fileservice.gtainside.de/downloads/ftpm/1720597126_Camera%20Settings.rar",
+    "installPath": "/download",
+    "instructions": [
+      {
+        "type": "copyTo",
+        "subType": "outside",
+        "fileNames": [
+          "*"
+        ],
+        "folderName": "Camera Settings",
+        "folderNavigation": null,
+        "copyTo": [
+          "/modloader"
+        ]
+      }
+    ],
+    "status": "active",
+    "password": "",
+    "requires": [
+      "Modloader"
+    ],
+    "versions": [
+      "1.0"
+    ]
   }
 ]
