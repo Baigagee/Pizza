@@ -4707,28 +4707,6 @@
     "status": "Disabled"
   },
   {
-    "id": "06c8f279-a335-4203-940a-114ff1bd429e",
-    "name": "Fire Truck  Ladder",
-    "description": "Enhances the utility of the fire truck ladder in GTA San Andreas.",
-    "downloadUrl": "https://drive.google.com/file/d/0B04D_5yMCyl9RkZuOUtlMTlYQUE/view?resourcekey=0-T4shhrgzFoIkPxxD_ZM1Ww",
-    "installPath": "/download",
-    "instructions": [
-      {
-        "type": "copyTo",
-        "subType": "inside",
-        "fileNames": [
-          "*"
-        ],
-        "folderName": "modloader",
-        "folderNavigation": null,
-        "copyTo": [
-          "/"
-        ]
-      }
-    ],
-    "status": "false"
-  },
-  {
     "id": "c77bb826-b2ec-4b59-900d-497f2f85bf81",
     "name": "Rear Lights Mod",
     "description": "A mod that adds speed effects to taillights when they are turned on, using nitro, and braking.",
