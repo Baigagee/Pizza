@@ -4727,5 +4727,34 @@
       }
     ],
     "status": "Disabled"
+  },
+  {
+    "id": "0dcd7454-ba2c-442b-8d8c-2d933cf63f80",
+    "name": "NPC Lowrider Mod",
+    "description": "Mod that randomly makes NPCs with cars equipped with hydraulics bounce like Lowriders.",
+    "downloadUrl": "https://drive.usercontent.google.com/download?id=1gVKqZLTIksjRddQ_bLcoSkVa4ds19yjw&export=download&authuser=0",
+    "installPath": "/download",
+    "instructions": [
+      {
+        "type": "copyTo",
+        "subType": "inside",
+        "fileNames": [
+          "*"
+        ],
+        "folderName": "NPC Lowrider",
+        "folderNavigation": null,
+        "copyTo": [
+          "modloader"
+        ]
+      }
+    ],
+    "status": "complete",
+    "password": "",
+    "requires": [
+      "SA Real Traffic Fix v2.2 beta"
+    ],
+    "versions": [
+      "1.0"
+    ]
   }
 ]
