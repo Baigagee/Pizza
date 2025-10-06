@@ -5004,5 +5004,32 @@
     "password": "",
     "requires": null,
     "versions": null
+  },
+  {
+    "id": "0bf0413f-1428-4a0b-9bc5-2bb1a83a6b83",
+    "name": "Insult Mod",
+    "description": "Add a new insult mechanic for CJ in GTA San Andreas. Aim at someone and press 'N' to insult.",
+    "downloadUrl": "https://drive.usercontent.google.com/download?id=0B1sAJQAUfOOYTnR1c25La0NDMHM&export=download&authuser=0",
+    "installPath": "/download",
+    "instructions": [
+      {
+        "type": "copyTo",
+        "subType": "inside",
+        "fileNames": [
+          "*"
+        ],
+        "folderName": "Insult Mod",
+        "folderNavigation": null,
+        "copyTo": [
+          "/modloader"
+        ]
+      }
+    ],
+    "status": "active",
+    "password": "",
+    "requires": null,
+    "versions": [
+      "v1.0"
+    ]
   }
 ]
