@@ -5089,5 +5089,34 @@
     "versions": [
       "1.0"
     ]
+  },
+  {
+    "id": "06d845d5-8560-4213-b6c6-eda07b0b7cb8",
+    "name": "Flying Fix Mod",
+    "description": "Improves flying animations in GTA San Andreas; includes configs for planes and helicopters.",
+    "downloadUrl": "https://fileservice.gtainside.de/downloads/ftpl/1580146964_Flying%20fix.rar",
+    "installPath": "/download",
+    "instructions": [
+      {
+        "type": "copyTo",
+        "subType": "inside",
+        "fileNames": [
+          "flyfix.cs",
+          "flyfix.ini",
+          "flyfix.ifp",
+          "heli.cs",
+          "plane.cs"
+        ],
+        "folderName": "/",
+        "folderNavigation": null,
+        "copyTo": [
+          "/"
+        ]
+      }
+    ],
+    "status": "complete",
+    "password": "",
+    "requires": null,
+    "versions": null
   }
 ]
