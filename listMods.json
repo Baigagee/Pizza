@@ -4923,13 +4923,10 @@
         "folderName": ".",
         "folderNavigation": null,
         "copyTo": [
-          "/modloader"
+          "/"
         ]
       }
     ],
-    "status": "active",
-    "password": "",
-    "requires": null,
-    "versions": null
+    "status": "Disabled"
   }
 ]
