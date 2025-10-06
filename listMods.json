@@ -5163,5 +5163,32 @@
       }
     ],
     "status": "false"
+  },
+  {
+    "id": "853eeddb-9e56-4c36-9176-3eb76c3c0672",
+    "name": "CLEO Hands Up Fix",
+    "description": "Fixes the issue with peds not lowering hands while aiming.",
+    "downloadUrl": "https://drive.google.com/file/d/0B1sAJQAUfOOYRmdpOGQwUkZGSjg/view?usp=sharing",
+    "installPath": "/download",
+    "instructions": [
+      {
+        "type": "copyTo",
+        "subType": "inside",
+        "fileNames": [
+          "cleo"
+        ],
+        "folderName": "CLEO",
+        "folderNavigation": null,
+        "copyTo": [
+          "/modloader"
+        ]
+      }
+    ],
+    "status": "active",
+    "password": "null",
+    "requires": null,
+    "versions": [
+      "v2.0.3 HOTFIX"
+    ]
   }
 ]
