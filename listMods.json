@@ -5247,5 +5247,30 @@
     "versions": [
       "2.6"
     ]
+  },
+  {
+    "id": "7dbd7fd5-4975-4596-a048-4093ba56b6b9",
+    "name": "Spreadfix Mod",
+    "description": "A mod that fixes spread issues in GTA San Andreas.",
+    "downloadUrl": "https://drive.google.com/file/d/117qp1YSzXWH4aK5SngJ_pZkuiz6Wd66W/view",
+    "installPath": "/download",
+    "instructions": [
+      {
+        "type": "copyTo",
+        "subType": "inside",
+        "fileNames": [
+          "spreadfix.asi"
+        ],
+        "folderName": "/",
+        "folderNavigation": null,
+        "copyTo": [
+          "/modloader"
+        ]
+      }
+    ],
+    "status": "unpublished",
+    "password": "",
+    "requires": null,
+    "versions": null
   }
 ]
