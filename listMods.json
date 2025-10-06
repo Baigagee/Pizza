@@ -4822,5 +4822,31 @@
       }
     ],
     "status": "false"
+  },
+  {
+    "id": "1844089d-31dc-4b29-9886-3ecb3c0e4454",
+    "name": "Hide From Cops",
+    "description": "Enhance your gameplay by hiding from police, improving realism and enjoyment.",
+    "downloadUrl": "https://fileservice.gtainside.de/downloads/ftph/1437512992_Hide%20From%20Cops.rar",
+    "installPath": "/download",
+    "instructions": [
+      {
+        "type": "copyTo",
+        "subType": "inside",
+        "fileNames": [
+          "Hide From Cops.cs",
+          "Pilots in Heli.cs"
+        ],
+        "folderName": "?",
+        "folderNavigation": null,
+        "copyTo": [
+          "/cleo"
+        ]
+      }
+    ],
+    "status": "complete",
+    "password": "",
+    "requires": null,
+    "versions": null
   }
 ]
