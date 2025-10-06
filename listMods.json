@@ -4775,5 +4775,30 @@
       }
     ],
     "status": "false"
+  },
+  {
+    "id": "660afc18-d16a-4ced-8399-c49a66171ed6",
+    "name": "Speedo2077",
+    "description": "A futuristic speedometer mod for GTA San Andreas, inspired by Cyberpunk 2077.",
+    "downloadUrl": "https://fileservice.gtainside.de/downloads/ftpl/1716752918_Speedo2077.rar",
+    "installPath": "/download",
+    "instructions": [
+      {
+        "type": "copyTo",
+        "subType": "inside",
+        "fileNames": [
+          "*"
+        ],
+        "folderName": "Speedo2077",
+        "folderNavigation": null,
+        "copyTo": [
+          "/modloader"
+        ]
+      }
+    ],
+    "status": "draft",
+    "password": "",
+    "requires": null,
+    "versions": null
   }
 ]
