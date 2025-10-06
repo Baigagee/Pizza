@@ -4771,15 +4771,10 @@
         "folderName": "RearLightsMod",
         "folderNavigation": [],
         "copyTo": [
-          "modloader"
+          "/modloader"
         ]
       }
     ],
-    "status": "active",
-    "password": "",
-    "requires": null,
-    "versions": [
-      "3.4"
-    ]
+    "status": "Disabled"
   }
 ]
