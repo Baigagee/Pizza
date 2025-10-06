@@ -4928,5 +4928,33 @@
       }
     ],
     "status": "Disabled"
+  },
+  {
+    "id": "fe9f0b11-1280-4153-98f0-f735f6f1a684",
+    "name": "WeaponRecoilAuto",
+    "description": "This CLEO script introduces realistic recoil to weapons in GTA San Andreas.",
+    "downloadUrl": "https://drive.usercontent.google.com/download?id=1jDxmuSEVl2gMDLdwiJD_cyxmq8ulZqcp&export=download&authuser=0",
+    "installPath": "/download",
+    "instructions": [
+      {
+        "type": "copyTo",
+        "subType": "inside",
+        "fileNames": [
+          "WeaponRecoilAuto.cs",
+          "WeaponRecoilAuto.ini"
+        ],
+        "folderName": "cleo",
+        "folderNavigation": null,
+        "copyTo": [
+          "cleo"
+        ]
+      }
+    ],
+    "status": "active",
+    "password": "",
+    "requires": null,
+    "versions": [
+      "2.6"
+    ]
   }
 ]
