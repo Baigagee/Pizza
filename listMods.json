@@ -4979,5 +4979,30 @@
     "versions": [
       "v1.1"
     ]
+  },
+  {
+    "id": "c0d94d69-2853-4493-81b3-de473435acfd",
+    "name": "Light Destroyer Mod",
+    "description": "Makes street lighting break when shot at in GTA San Andreas.",
+    "downloadUrl": "https://fileservice.gtainside.de/downloads/ftpl/1712113337_Light%20Destroyer.rar",
+    "installPath": "/download",
+    "instructions": [
+      {
+        "type": "copyTo",
+        "subType": "outside",
+        "fileNames": [
+          "Light destroyer"
+        ],
+        "folderName": "/",
+        "folderNavigation": null,
+        "copyTo": [
+          "modloader"
+        ]
+      }
+    ],
+    "status": "complete",
+    "password": "",
+    "requires": null,
+    "versions": null
   }
 ]
