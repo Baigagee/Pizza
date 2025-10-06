@@ -5140,5 +5140,28 @@
     "password": "",
     "requires": null,
     "versions": null
+  },
+  {
+    "id": "95e07a78-55d1-4027-9ac6-f6d058b0bba4",
+    "name": "Parachute Fix",
+    "description": "Fixes parachute animation",
+    "downloadUrl": "https://fileservice.gtainside.de/downloads/ftpk/1528493497_Parachute%20fix.rar",
+    "installPath": "/download",
+    "instructions": [
+      {
+        "type": "copyTo",
+        "subType": "inside",
+        "fileNames": [
+          "parachute.cs",
+          "parachute.txt"
+        ],
+        "folderName": "",
+        "folderNavigation": [],
+        "copyTo": [
+          "/cleo"
+        ]
+      }
+    ],
+    "status": "false"
   }
 ]
