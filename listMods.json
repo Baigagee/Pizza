@@ -4871,16 +4871,13 @@
         "fileNames": [
           "colt45.ifp"
         ],
-        "folderName": ".",
+        "folderName": "Colt anim fix",
         "folderNavigation": null,
         "copyTo": [
           "/modloader"
         ]
       }
     ],
-    "status": "active",
-    "password": "",
-    "requires": null,
-    "versions": null
+    "status": "Disabled"
   }
 ]
