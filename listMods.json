@@ -5390,5 +5390,27 @@
       }
     ],
     "status": "false"
+  },
+  {
+    "id": "89840380-6b34-4331-ba09-40a08bd395c6",
+    "name": "Formal 2K Grass Textures",
+    "description": "The current best HD grass texture mod. Beautiful, high-definition textures that blend almost perfectly with the surfaces. An important detail is that these are textures only, not new models, so it's very lightweight compared to many other HD vegetation mods.",
+    "downloadUrl": "https://fileservice.gtainside.de/downloads/ftph/1475272215_Formal 2K Grass Textures.7z",
+    "installPath": "/download",
+    "instructions": [
+      {
+        "type": "copyTo",
+        "subType": "inside",
+        "fileNames": [
+          "Formal 2K Grass Textures"
+        ],
+        "folderName": "",
+        "folderNavigation": [],
+        "copyTo": [
+          "/modloader"
+        ]
+      }
+    ],
+    "status": "false"
   }
 ]
