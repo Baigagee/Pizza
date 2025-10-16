@@ -5342,5 +5342,29 @@
     "versions": [
       "2.0.2"
     ]
+  },
+  {
+    "id": "888fe078-cb4c-406b-97cf-7ba1b14a0a03",
+    "name": "Improved and Fixed Original Vegetation",
+    "description": "Trees in GTA SA are very low-poly by default. Some of them are literally square, this mod leaves the barrels more rounded, but without exaggeration, still slightly in keeping with the atmosphere of the game.",
+    "downloadUrl": "https://fileservice.gtainside.de/downloads/ftpl/1684008562_Improved and Fixed Original Vegetation SA.rar",
+    "installPath": "/download",
+    "instructions": [
+      {
+        "type": "copyTo",
+        "subType": "inside",
+        "fileNames": [
+          "good wood"
+        ],
+        "folderName": "",
+        "folderNavigation": [
+          "in modloder"
+        ],
+        "copyTo": [
+          "/modloader"
+        ]
+      }
+    ],
+    "status": "false"
   }
 ]
