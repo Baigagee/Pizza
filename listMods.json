@@ -5366,5 +5366,29 @@
       }
     ],
     "status": "false"
+  },
+  {
+    "id": "00b6df32-70c6-4ec5-9417-887b8f9dbc87",
+    "name": "Welcome Las Venturas Sign Remastered Final",
+    "description": "Welcome Las Venturas Sign Remastered Final with new 3D model, new Texture, new collision.",
+    "downloadUrl": "https://fileservice.gtainside.de/downloads/ftpk/1527632865_Welcome Las Venturas Final.7z",
+    "installPath": "/download",
+    "instructions": [
+      {
+        "type": "copyTo",
+        "subType": "inside",
+        "fileNames": [
+          "Welcome Las Venturas"
+        ],
+        "folderName": "",
+        "folderNavigation": [
+          "Welcome Las Venturas Final"
+        ],
+        "copyTo": [
+          "/modloader"
+        ]
+      }
+    ],
+    "status": "false"
   }
 ]
