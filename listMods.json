@@ -5587,5 +5587,32 @@
     "password": "null",
     "requires": null,
     "versions": null
+  },
+  {
+    "id": "db88da6b-6a0a-4c5d-bfa9-14182ea05fd3",
+    "name": "Move Mod to Modloader",
+    "description": "Move the mod folder to the modloader directory for GTA San Andreas.",
+    "downloadUrl": "https://drive.google.com/file/d/0B04D_5yMCyl9TU5FLWpZb1dxRXM/view?resourcekey=0-HgSEKNsW3dpMpA5GuymuMA",
+    "installPath": "/download",
+    "instructions": [
+      {
+        "type": "copyTo",
+        "subType": "inside",
+        "fileNames": [
+          "Pedestres usando objetos do mapa"
+        ],
+        "folderName": "/",
+        "folderNavigation": null,
+        "copyTo": [
+          "/modloader"
+        ]
+      }
+    ],
+    "status": "active",
+    "password": "",
+    "requires": [
+      "Modloader"
+    ],
+    "versions": null
   }
 ]
