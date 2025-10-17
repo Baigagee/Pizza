@@ -5451,5 +5451,35 @@
     "versions": [
       "02/07/20"
     ]
+  },
+  {
+    "id": "c7f4a6d9-2030-44b9-8f30-6837e1f82c82",
+    "name": "Beta Mulholland Safehouse HD",
+    "description": "Upgraded Mulholland safehouse with HD textures for GTA San Andreas.",
+    "downloadUrl": "https://sharemods.com/szqwx7qbyirg/Beta_Mulholland_Safehouse_HD.7z.html",
+    "installPath": "/download",
+    "instructions": [
+      {
+        "type": "copyTo",
+        "subType": "inside",
+        "fileNames": [
+          "*"
+        ],
+        "folderName": "Beta Mulholland Safehouse",
+        "folderNavigation": null,
+        "copyTo": [
+          "modloader"
+        ]
+      }
+    ],
+    "status": "active",
+    "password": "",
+    "requires": [
+      "CLEO+",
+      "Open Limit Adjuster"
+    ],
+    "versions": [
+      "Unofficial Fix 8 + HD Textures"
+    ]
   }
 ]
