@@ -5412,5 +5412,44 @@
       }
     ],
     "status": "false"
+  },
+  {
+    "id": "df53421c-f8ff-4f6a-8422-d8b6de7e3e75",
+    "name": "Uncompressed SFX Pack",
+    "description": "A comprehensive sound effects pack for GTA San Andreas, providing enhanced audio for the game including bonus sounds.",
+    "downloadUrl": "https://drive.google.com/uc?id=10bSzBepq2UZypjAnF0eUYjFd4fRL2zNJ",
+    "installPath": "/download",
+    "instructions": [
+      {
+        "type": "copyTo",
+        "subType": "outside",
+        "fileNames": [
+          "Uncompressed SFX Pack"
+        ],
+        "folderName": "/",
+        "folderNavigation": null,
+        "copyTo": [
+          "modloader"
+        ]
+      },
+      {
+        "type": "copyTo",
+        "subType": "outside",
+        "fileNames": [
+          "Uncompressed SFX Pack - Bonus"
+        ],
+        "folderName": "/",
+        "folderNavigation": null,
+        "copyTo": [
+          "modloader"
+        ]
+      }
+    ],
+    "status": "active",
+    "password": ":\"null",
+    "requires": null,
+    "versions": [
+      "02/07/20"
+    ]
   }
 ]
