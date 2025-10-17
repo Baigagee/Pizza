@@ -5590,8 +5590,8 @@
   },
   {
     "id": "db88da6b-6a0a-4c5d-bfa9-14182ea05fd3",
-    "name": "Move Mod to Modloader",
-    "description": "Move the mod folder to the modloader directory for GTA San Andreas.",
+    "name": "Pedestrians using map objects",
+    "description": "Pedestrians will be seen using fishing rods in Santa Maria Beach and telescopes at the Los Santos Observatory, adding a bit more variation to the AI ​​and the gameplay. Pedestrians will stop randomly to do this, then resume walking shortly afterward, ensuring a smoother experience.",
     "downloadUrl": "https://drive.google.com/file/d/0B04D_5yMCyl9TU5FLWpZb1dxRXM/view?resourcekey=0-HgSEKNsW3dpMpA5GuymuMA",
     "installPath": "/download",
     "instructions": [
@@ -5608,12 +5608,7 @@
         ]
       }
     ],
-    "status": "active",
-    "password": "",
-    "requires": [
-      "Modloader"
-    ],
-    "versions": null
+    "status": "false"
   },
   {
     "id": "fa9594c4-27b1-45d9-ba93-62d3f8dd7fff",
