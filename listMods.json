@@ -5669,5 +5669,33 @@
       "Fastman92 Limit Adjuster"
     ],
     "versions": []
+  },
+  {
+    "id": "f37ed7b4-a1da-4391-8d54-4876d599a533",
+    "name": "Real Ped Overhaul",
+    "description": "Overhaul for real pedestrian interactions in GTA San Andreas.",
+    "downloadUrl": "https://sharemods.com/3irr8iw2p1zi/Real_Ped_Overhaul.rar.html",
+    "installPath": "/download",
+    "instructions": [
+      {
+        "type": "copyTo",
+        "subType": "inside",
+        "fileNames": [
+          "*"
+        ],
+        "folderName": "Real_Ped_Overhaul",
+        "folderNavigation": null,
+        "copyTo": [
+          "modloader"
+        ]
+      }
+    ],
+    "status": "ready",
+    "password": "",
+    "requires": [
+      "Open Limit Adjuster",
+      "Fastman92 Limit Adjuster"
+    ],
+    "versions": null
   }
 ]
