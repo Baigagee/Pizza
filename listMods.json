@@ -5510,5 +5510,57 @@
     "versions": [
       "v1.2"
     ]
+  },
+  {
+    "id": "a5a2858a-e939-40b4-a00d-440c23f6c008",
+    "name": "Parrot Weapon Replacement",
+    "description": "Replaces the cane weapon with a parrot that sits on the player's shoulder in GTA San Andreas.",
+    "downloadUrl": "https://fileservice.gtainside.de/downloads/ftpk/1502434453_BlueHD.rar",
+    "installPath": "/download",
+    "instructions": [
+      {
+        "type": "copyTo",
+        "subType": "inside",
+        "fileNames": [
+          "Parrot.cs",
+          "food4.cs",
+          "food5.cs"
+        ],
+        "folderName": ".",
+        "folderNavigation": null,
+        "copyTo": [
+          "/cleo"
+        ]
+      },
+      {
+        "type": "copyTo",
+        "subType": "inside",
+        "fileNames": [
+          "GUN_CANE.dff",
+          "GUN_CANE.txd"
+        ],
+        "folderName": ".",
+        "folderNavigation": null,
+        "copyTo": [
+          "/models/gta3.img"
+        ]
+      },
+      {
+        "type": "copyTo",
+        "subType": "inside",
+        "fileNames": [
+          "weapon.dat"
+        ],
+        "folderName": ".",
+        "folderNavigation": null,
+        "copyTo": [
+          "/data"
+        ]
+      }
+    ],
+    "status": "active",
+    "password": "",
+    "requires": null,
+    "versions": null
   }
 ]
