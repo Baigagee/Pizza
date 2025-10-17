@@ -5641,5 +5641,33 @@
     "versions": [
       "1.0"
     ]
+  },
+  {
+    "id": "223808d4-3704-4be3-9c78-f4c0d060260f",
+    "name": "Real Ped Overhaul",
+    "description": "A mod for enhancing pedestrian interactions in GTA San Andreas.",
+    "downloadUrl": "https://sharemods.com/3irr8iw2p1zi/Real_Ped_Overhaul.rar.html",
+    "installPath": "/download",
+    "instructions": [
+      {
+        "type": "copyTo",
+        "subType": "outside",
+        "fileNames": [
+          "*"
+        ],
+        "folderName": ".",
+        "folderNavigation": null,
+        "copyTo": [
+          "/modloader"
+        ]
+      }
+    ],
+    "status": "pending",
+    "password": "",
+    "requires": [
+      "Open Limit Adjuster",
+      "Fastman92 Limit Adjuster"
+    ],
+    "versions": []
   }
 ]
