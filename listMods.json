@@ -5481,5 +5481,34 @@
     "versions": [
       "Unofficial Fix 8 + HD Textures"
     ]
+  },
+  {
+    "id": "fb142a03-1db8-4263-855f-72e2df91812b",
+    "name": "Weather Forecast",
+    "description": "A mod for GTA San Andreas to display weather stats with customizable display options.",
+    "downloadUrl": "https://sharemods.com/df69eki8ecwo/Weather_Forecast.7z.html",
+    "installPath": "/download",
+    "instructions": [
+      {
+        "type": "copyTo",
+        "subType": "inside",
+        "fileNames": [
+          "Weather Forecast"
+        ],
+        "folderName": "",
+        "folderNavigation": null,
+        "copyTo": [
+          "/modloader"
+        ]
+      }
+    ],
+    "status": "complete",
+    "password": "",
+    "requires": [
+      "Modloader"
+    ],
+    "versions": [
+      "v1.2"
+    ]
   }
 ]
