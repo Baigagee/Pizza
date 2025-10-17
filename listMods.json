@@ -5614,5 +5614,37 @@
       "Modloader"
     ],
     "versions": null
+  },
+  {
+    "id": "fa9594c4-27b1-45d9-ba93-62d3f8dd7fff",
+    "name": "Ambient Taxi Mod",
+    "description": "Adds ambient taxis to the game using a CLEO script.",
+    "downloadUrl": "https://drive.google.com/file/d/11HbiXDEAeccZnVPEkX7bGiHUwC1rs46l/view",
+    "installPath": "/download",
+    "instructions": [
+      {
+        "type": "copyTo",
+        "subType": "inside",
+        "fileNames": [
+          "ambtaxi.cs"
+        ],
+        "folderName": "/cleo",
+        "folderNavigation": [
+          "Ambient Taxi",
+          "cleo"
+        ],
+        "copyTo": [
+          "/cleo"
+        ]
+      }
+    ],
+    "status": "active",
+    "password": "",
+    "requires": [
+      "SA-Modloader"
+    ],
+    "versions": [
+      "1.0"
+    ]
   }
 ]
