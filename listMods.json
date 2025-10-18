@@ -5767,13 +5767,27 @@
         "type": "copyTo",
         "subType": "inside",
         "fileNames": [
-          "firela.cs",
-          "firela.dff"
+          "firela.cs"
         ],
         "folderName": "Firetruck Ladder Mod",
         "folderNavigation": [
           "Firetruck Ladder Mod",
           "cleo"
+        ],
+        "copyTo": [
+          "/modloader"
+        ]
+      },
+      {
+        "type": "copyTo",
+        "subType": "inside",
+        "fileNames": [
+          "firela.dff"
+        ],
+        "folderName": "Firetruck Ladder Mod",
+        "folderNavigation": [
+          "Firetruck Ladder Mod",
+          "gta3img"
         ],
         "copyTo": [
           "/modloader"
