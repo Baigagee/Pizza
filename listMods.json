@@ -5896,8 +5896,6 @@
         "type": "copyTo",
         "subType": "inside",
         "fileNames": [
-          "SACamFX",
-          "cleo",
           "SACamFX.cs",
           "SACamFX.ini"
         ],
