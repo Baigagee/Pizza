@@ -5781,5 +5781,32 @@
     "password": ":null,",
     "requires": null,
     "versions": null
+  },
+  {
+    "id": "7385d5de-d499-4b42-8a02-d7811ec4dce6",
+    "name": "Insane Car Crashing Mod",
+    "description": "Enhances the vehicle crash physics in GTA San Andreas.",
+    "downloadUrl": "https://fileservice.gtainside.de/downloads/ftph/1490119202_insane-car-crashing-mod.rar",
+    "installPath": "/download",
+    "instructions": [
+      {
+        "type": "copyTo",
+        "subType": "inside",
+        "fileNames": [
+          "vehicle.txd"
+        ],
+        "folderName": "/",
+        "folderNavigation": [
+          "00 - Copy to game folder"
+        ],
+        "copyTo": [
+          "/"
+        ]
+      }
+    ],
+    "status": "active",
+    "password": "",
+    "requires": null,
+    "versions": null
   }
 ]
