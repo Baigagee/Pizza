@@ -5808,5 +5808,31 @@
       }
     ],
     "status": "Disabled"
+  },
+  {
+    "id": "7c07e772-7946-439b-9f10-37fa09554e9d",
+    "name": "SA.PRoject2dfx",
+    "description": "Adds LOD Lights around San Andreas ",
+    "downloadUrl": "https://github.com/ThirteenAG/III.VC.SA.IV.Project2DFX/releases/download/gtasa/SA.Project2DFX.zip",
+    "installPath": "/download",
+    "instructions": [
+      {
+        "type": "copyTo",
+        "subType": "outside",
+        "fileNames": [
+          "III.VC.SA.LimitAdjuster.asi",
+          "III.VC.SA.LimitAdjuster.ini",
+          "SALodLights.asi",
+          "SALodLights.dat",
+          "SALodLights.ini"
+        ],
+        "folderName": "",
+        "folderNavigation": [],
+        "copyTo": [
+          "/"
+        ]
+      }
+    ],
+    "status": "false"
   }
 ]
