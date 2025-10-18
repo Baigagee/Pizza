@@ -5770,17 +5770,17 @@
           "firela.cs",
           "firela.dff"
         ],
-        "folderName": ".",
-        "folderNavigation": null,
+        "folderName": "Firetruck Ladder Mod",
+        "folderNavigation": [
+          "Firetruck Ladder Mod",
+          "cleo"
+        ],
         "copyTo": [
           "/modloader"
         ]
       }
     ],
-    "status": "active",
-    "password": ":null,",
-    "requires": null,
-    "versions": null
+    "status": "Disabled"
   },
   {
     "id": "7385d5de-d499-4b42-8a02-d7811ec4dce6",
