@@ -5834,5 +5834,28 @@
       }
     ],
     "status": "false"
+  },
+  {
+    "id": "78249830-b426-4a11-bf52-f5830824021e",
+    "name": "IMFX",
+    "description": "",
+    "downloadUrl": "https://github.com/DK22Pac/imfx/releases/download/v17112017t/imfx_rel17112017t.rar",
+    "installPath": "/download",
+    "instructions": [
+      {
+        "type": "copyTo",
+        "subType": "inside",
+        "fileNames": [
+          "imfx",
+          "imfx.asi"
+        ],
+        "folderName": "IMFX",
+        "folderNavigation": [],
+        "copyTo": [
+          "/modloader"
+        ]
+      }
+    ],
+    "status": "true"
   }
 ]
