@@ -5721,5 +5721,39 @@
       }
     ],
     "status": "false"
+  },
+  {
+    "id": "0d9ad4b8-5cb3-4c29-9ffe-1f42a7b3d697",
+    "name": "SA Uncompressed SFX",
+    "description": "a mod that alters the audio to be uncompressed ",
+    "downloadUrl": "https://drive.google.com/file/d/1E86cxKUwH38myBdDYz5A5ermkDBZ44R4/view",
+    "installPath": "/download",
+    "instructions": [
+      {
+        "type": "copyTo",
+        "subType": "inside",
+        "fileNames": [
+          "Uncompressed SFX Pack"
+        ],
+        "folderName": "",
+        "folderNavigation": [],
+        "copyTo": [
+          "/modloader"
+        ]
+      },
+      {
+        "type": "copyTo",
+        "subType": "inside",
+        "fileNames": [
+          "Bonus"
+        ],
+        "folderName": "",
+        "folderNavigation": [],
+        "copyTo": [
+          "/modloader"
+        ]
+      }
+    ],
+    "status": "false"
   }
 ]
