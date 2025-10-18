@@ -5797,16 +5797,16 @@
         ],
         "folderName": "/",
         "folderNavigation": [
-          "00 - Copy to game folder"
+          "insane-car-crashing-mod",
+          "00 - Copy to game folder",
+          "models",
+          "generic"
         ],
         "copyTo": [
-          "/"
+          "/models/generic"
         ]
       }
     ],
-    "status": "active",
-    "password": "",
-    "requires": null,
-    "versions": null
+    "status": "Disabled"
   }
 ]
