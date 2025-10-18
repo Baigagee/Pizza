@@ -5888,7 +5888,7 @@
   {
     "id": "c46f3724-b4de-4aba-a2c6-bc04a47df7de",
     "name": "SACamfx",
-    "description": "",
+    "description": "The mod changes the fov when performing an action with high speeds",
     "downloadUrl": "https://fileservice.gtainside.de/downloads/ftpm/1724094813_SACamFX.rar",
     "installPath": "/download",
     "instructions": [
