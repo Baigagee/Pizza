@@ -5857,5 +5857,32 @@
       }
     ],
     "status": "true"
+  },
+  {
+    "id": "e6fd0d49-2521-455e-800a-226c0293900e",
+    "name": "Ps2 Timecyc",
+    "description": "Adds PS2 Timecyc into PC",
+    "downloadUrl": "https://drive.google.com/uc?id=1wFhHexi_CPxLztYAakoG839sn_dRmBXY&export=download&authuser=0",
+    "installPath": "/download",
+    "instructions": [
+      {
+        "type": "copyTo",
+        "subType": "inside",
+        "fileNames": [
+          "PS2 Timecyc",
+          "data",
+          "timecyc.dat"
+        ],
+        "folderName": "PS2 Timecyc",
+        "folderNavigation": [
+          "PS2 Timecyc",
+          "data"
+        ],
+        "copyTo": [
+          "/modloader"
+        ]
+      }
+    ],
+    "status": "true"
   }
 ]
