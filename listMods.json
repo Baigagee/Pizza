@@ -5697,5 +5697,29 @@
       "Fastman92 Limit Adjuster"
     ],
     "versions": null
+  },
+  {
+    "id": "81ff11fe-778f-4c8e-982c-ecfa301a58be",
+    "name": "Smuff Nutt",
+    "description": "Adds donut shops around San Andreas",
+    "downloadUrl": "https://drive.google.com/file/d/1HwIHqRMgnEe9LMwF_cBwcmCT1dxQ2tsv/view",
+    "installPath": "/download",
+    "instructions": [
+      {
+        "type": "copyTo",
+        "subType": "inside",
+        "fileNames": [
+          "cn2_ringking.dff",
+          "donut01_lawn.dff",
+          "donuts_sfw.dff"
+        ],
+        "folderName": "Smuff Nut 2024",
+        "folderNavigation": [],
+        "copyTo": [
+          "/modloader"
+        ]
+      }
+    ],
+    "status": "false"
   }
 ]
