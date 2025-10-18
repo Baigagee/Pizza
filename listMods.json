@@ -5869,8 +5869,6 @@
         "type": "copyTo",
         "subType": "inside",
         "fileNames": [
-          "PS2 Timecyc",
-          "data",
           "timecyc.dat"
         ],
         "folderName": "PS2 Timecyc",
