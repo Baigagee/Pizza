@@ -5915,7 +5915,7 @@
   },
   {
     "id": "9c3f6155-121b-4d5b-beb5-6dafd6d97c79",
-    "name": "Mod de ser assaltado",
+    "name": "NPC Rob Player",
     "description": "This mod adds a feature where you can be mugged by criminals or gangs when unarmed and without a wanted level.",
     "downloadUrl": "https://sharemods.com/mupi9jstre88/Mod_de_ser_assaltado.7z.html",
     "installPath": "/download",
@@ -5933,13 +5933,6 @@
         ]
       }
     ],
-    "status": "active",
-    "password": "",
-    "requires": [
-      "Modloader"
-    ],
-    "versions": [
-      "v1.0.2"
-    ]
+    "status": "false"
   }
 ]
