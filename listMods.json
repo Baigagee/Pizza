@@ -5912,5 +5912,34 @@
       }
     ],
     "status": "false"
+  },
+  {
+    "id": "9c3f6155-121b-4d5b-beb5-6dafd6d97c79",
+    "name": "Mod de ser assaltado",
+    "description": "This mod adds a feature where you can be mugged by criminals or gangs when unarmed and without a wanted level.",
+    "downloadUrl": "https://sharemods.com/mupi9jstre88/Mod_de_ser_assaltado.7z.html",
+    "installPath": "/download",
+    "instructions": [
+      {
+        "type": "copyTo",
+        "subType": "inside",
+        "fileNames": [
+          "*"
+        ],
+        "folderName": "Mod de ser assaltado",
+        "folderNavigation": [],
+        "copyTo": [
+          "modloader/"
+        ]
+      }
+    ],
+    "status": "active",
+    "password": "",
+    "requires": [
+      "Modloader"
+    ],
+    "versions": [
+      "v1.0.2"
+    ]
   }
 ]
