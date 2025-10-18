@@ -5735,19 +5735,7 @@
         "fileNames": [
           "Uncompressed SFX Pack"
         ],
-        "folderName": "",
-        "folderNavigation": [],
-        "copyTo": [
-          "/modloader"
-        ]
-      },
-      {
-        "type": "copyTo",
-        "subType": "inside",
-        "fileNames": [
-          "Bonus"
-        ],
-        "folderName": "",
+        "folderName": "Uncompressed SFX Pack",
         "folderNavigation": [],
         "copyTo": [
           "/modloader"
