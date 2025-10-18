@@ -5755,5 +5755,31 @@
       }
     ],
     "status": "false"
+  },
+  {
+    "id": "9cde1ec4-b7f0-4385-ae1e-7a017082c651",
+    "name": "Firetruck Ladder Mod",
+    "description": "Enhances the realism of the firetruck in GTA San Andreas by adding functionality to the ladder.",
+    "downloadUrl": "https://drive.google.com/file/d/0B04D_5yMCyl9RkZuOUtlMTlYQUE/view?resourcekey=0-T4shhrgzFoIkPxxD_ZM1Ww",
+    "installPath": "/download",
+    "instructions": [
+      {
+        "type": "copyTo",
+        "subType": "inside",
+        "fileNames": [
+          "firela.cs",
+          "firela.dff"
+        ],
+        "folderName": ".",
+        "folderNavigation": null,
+        "copyTo": [
+          "/modloader"
+        ]
+      }
+    ],
+    "status": "active",
+    "password": ":null,",
+    "requires": null,
+    "versions": null
   }
 ]
