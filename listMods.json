@@ -5884,5 +5884,33 @@
       }
     ],
     "status": "true"
+  },
+  {
+    "id": "c46f3724-b4de-4aba-a2c6-bc04a47df7de",
+    "name": "SACamfx",
+    "description": "",
+    "downloadUrl": "https://fileservice.gtainside.de/downloads/ftpm/1724094813_SACamFX.rar",
+    "installPath": "/download",
+    "instructions": [
+      {
+        "type": "copyTo",
+        "subType": "inside",
+        "fileNames": [
+          "SACamFX",
+          "cleo",
+          "SACamFX.cs",
+          "SACamFX.ini"
+        ],
+        "folderName": "SACamFX",
+        "folderNavigation": [
+          "SACamFX",
+          "cleo"
+        ],
+        "copyTo": [
+          "/modloader"
+        ]
+      }
+    ],
+    "status": "false"
   }
 ]
