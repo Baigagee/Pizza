@@ -50,7 +50,7 @@
         "type": "copyTo",
         "subType": "inside",
         "fileNames": [
-          "Improved Streaming"
+          "*"
         ],
         "folderNavigation": [
           "EN"
@@ -60,7 +60,6 @@
         ]
       }
     ],
-    "status": "false",
     "creatorId": "sanvive"
   },
   {
