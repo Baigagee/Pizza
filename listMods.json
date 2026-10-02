@@ -5933,35 +5933,5 @@
       }
     ],
     "status": "false"
-  },
-  {
-    "id": "508e9790-52bc-46e2-a47d-222b496b46d3",
-    "name": "Test",
-    "description": "123",
-    "downloadUrl": "https://mods-edit.vercel.app/mods/create",
-    "installPath": "/download",
-    "instructions": [
-      {
-        "type": "copyTo",
-        "subType": "inside",
-        "fileNames": [
-          "food4.cs"
-        ],
-        "folderNavigation": [
-          "cleo"
-        ],
-        "copyTo": [
-          "/"
-        ]
-      }
-    ],
-    "password": "none",
-    "requires": [
-      "CLEO"
-    ],
-    "versions": [
-      "v1.2"
-    ],
-    "creatorId": "sanvive"
   }
 ]
