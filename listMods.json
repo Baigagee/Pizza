@@ -49,18 +49,19 @@
       {
         "type": "copyTo",
         "subType": "inside",
-        "folderNavigation": [
-          "EN"
-        ],
         "fileNames": [
           "Improved Streaming"
+        ],
+        "folderNavigation": [
+          "EN"
         ],
         "copyTo": [
           "/modloader"
         ]
       }
     ],
-    "status": "false"
+    "status": "false",
+    "creatorId": "sanvive"
   },
   {
     "id": "e2f1g0h9-i8j7-45e6-f5g4-h0i9j8k7l6m5",
