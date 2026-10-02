@@ -1,1 +1,18 @@
-{}
+{
+  "version": 1,
+  "banner": {
+    "enabled": true,
+    "title": "Back the crew",
+    "featured": ["sanvive"]
+  },
+  "creators": [
+    {
+      "id": "sanvive",
+      "name": "SanVive",
+      "pitch": "SanVive is built by a small crew in their free time. Every bit of support keeps the modpack alive and the updates rolling.",
+      "patreon": "https://www.patreon.com/SanViveTeam",
+      "discord": "https://discord.gg/kNQyh6QejE",
+      "youtube": "https://www.youtube.com/@baigagee"
+    }
+  ]
+}
